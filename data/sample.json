@@ -1,0 +1,160 @@
+{
+    "name": "51%2030",
+    "children": [
+        {
+            "name": "Accesible",
+            "children": [
+                {
+                    "name": "Estacionar bicicletas es caro",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta acceso a Bicicletas",
+                    "size": 3,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta acceso a Bicicletas Públicas",
+                    "size": 4,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Impuestos favorables a la movilidad motorizada",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Los insumos para Bicicletas no son accesibles",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "No poder usar la bicicleta en viajes",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "No puedo reparar mi Bicicleta fácilmente",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                }
+            ]
+        },
+        {
+            "name": "Atractivo",
+            "children": [
+                {
+                    "name": "Falta cultura para combinar bicicleta y estilo personal",
+                    "size": 4,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de infraestructura para bicicletas en el trabajo",
+                    "size": 4,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Me resulta difícil andar en Bicicleta",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "No me resulta interesante la Bicicleta",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                }
+            ]
+        },
+        {
+            "name": "Eficiente",
+            "children": [
+                {
+                    "name": "Bloqueo de Ciclovías",
+                    "size": 3,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de integración de Bicicleta con otros Transportes",
+                    "size": 13,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de legislación específica sobre Bicicletas",
+                    "size": 4,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Faltan Ciclovías",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Faltan estacionamientos de Bicicletas",
+                    "size": 15,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Las personas mayores tienen dificultades para moverse en bicicleta",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Mal estado de las ciclovías",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Mala integración de Bicicleta con otros Transportes",
+                    "size": 6,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "No se cumple la legislación específica sobre Bicicletas",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                }
+            ]
+        },
+        {
+            "name": "Seguro",
+            "children": [
+                {
+                    "name": "Bloqueo de Ciclovías",
+                    "size": 3,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de convivencia entre peatones y ciclistas",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de educación vial para ciclistas",
+                    "size": 8,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Falta de señalización en las ciclovías",
+                    "size": 1,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Faltan Ciclovías",
+                    "size": 6,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Inseguridad en las Ciclovías",
+                    "size": 2,
+                    "colour": "#f9f0ab"
+                },
+                {
+                    "name": "Sensación de inseguridad física",
+                    "size": 8,
+                    "colour": "#f9f0ab"
+                }
+            ]
+        }
+    ]
+}

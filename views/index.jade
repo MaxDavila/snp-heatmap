@@ -1,0 +1,13 @@
+extends layout
+
+block content
+
+  div(id="body")
+    div(id="footer") d3.layout.treemap
+      div(class="hint") click or option-click to descend or ascend
+      div
+        select
+          option(value="size") Size
+          option(value="count") Count
+
+
