@@ -32,7 +32,7 @@ $(document).ready(function() {
     .append("svg:g")
       .attr("transform", "translate(.5,.5)");
 
-  d3.json("/sample.json", function(data) {
+  d3.json("/test.json", function(data) {
     node = root = data;
     var nodes = treemap.nodes(root)
         .filter(function(d) { return !d.children; });
@@ -56,7 +56,7 @@ $(document).ready(function() {
         .attr("y", function(d) { return d.dy / 2; })
         .attr("dy", ".35em")
         .attr("text-anchor", "middle")
-        .text(function(d) { return d.name; })
+        .text(function(d) { return d.symbol; })
         .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
 
     d3.select(window).on("click", function() { zoom(root); });
