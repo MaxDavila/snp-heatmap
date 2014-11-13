@@ -1,10 +1,11 @@
 var io = io();
 $(document).ready(function() {
+
   io.on('trade', function(data) {
     console.log(data);
-    var tickerRect = d3.select(data.symbol);
+    var tickerRect = d3.select("#" + data.trade.symbol);
     var tickerCurrentPrice = parseFloat(tickerRect.attr('data-price'));
-    var tickertLastPrice = parseFloat(data.last);
+    var tickertLastPrice = parseFloat(data.trade.last);
 
     if (tickerCurrentPrice > tickertLastPrice) {
       tickerRect.transition().duration(1000).style("fill", "red")

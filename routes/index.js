@@ -11,7 +11,6 @@ var oa = new oauth.OAuth(null, null, config.tradeking.consumer_key, config.trade
 var request = oa.get("https://stream.tradeking.com/v1/market/quotes.json?symbols=AAPL,MMM,ACN,TSLA",
               config.tradeking.access_token, 
               config.tradeking.access_secret);
-
 /* GET home page. */
 router.get('/', function(req, res) {
   var io = req.app.get('io');
