@@ -18,18 +18,29 @@ router.get('/', function(req, res) {
   request.on('response', function (response) {
     response.setEncoding('utf8');
     response.on('data', function(data) {
-      var jsonBody = JSON.parse(data);
+      try {
+        var jsonBody = JSON.parse(data);
+      }
+      catch(err) {
+        console.log(data)
+      }
 
-        if (jsonBody.trade) {
-          io.sockets.emit('trade', { trade: jsonBody.trade })
-          console.log("trade", jsonBody.trade);
-        } else {
-          console.log("quote trade")
-        }
+      if (jsonBody.trade) {
+        io.sockets.emit('trade', { trade: jsonBody.trade })
+        console.log("trade", jsonBody.trade);
+      } else {
+        console.log("quote trade")
+      }
     })
   });
   request.end();
   res.render('index', { title: 'Express' });
 });
 
+router.post('/check', function(req, res) {
+  var io = req.app.get('io');
+
+  io.sockets.emit('trade', { trade: req.body.trade })
+  res.end()
+})
 module.exports = router;
