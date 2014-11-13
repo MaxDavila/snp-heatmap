@@ -8,7 +8,7 @@ var config = require('config-heroku');
 
 var oa = new oauth.OAuth(null, null, config.tradeking.consumer_key, config.tradeking.consumer_secret, "1.0", null, "HMAC-SHA1");
 
-var request = oa.get("https://stream.tradeking.com/v1/market/quotes.json?symbols=AAPL", 
+var request = oa.get("https://stream.tradeking.com/v1/market/quotes.json?symbols=AAPL,MMM,ACN,TSLA",
               config.tradeking.access_token, 
               config.tradeking.access_secret);
 
@@ -23,7 +23,7 @@ router.get('/', function(req, res) {
 
         if (jsonBody.trade) {
           io.sockets.emit('trade', { trade: jsonBody.trade })
-          console.log(jsonBody.trade);
+          console.log("trade", jsonBody.trade);
         } else {
           console.log("quote trade")
         }

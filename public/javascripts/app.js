@@ -2,6 +2,18 @@ var io = io();
 $(document).ready(function() {
   io.on('trade', function(data) {
     console.log(data);
+    var tickerRect = d3.select(data.symbol);
+    var tickerCurrentPrice = parseFloat(tickerRect.attr('data-price'));
+    var tickertLastPrice = parseFloat(data.last);
+
+    if (tickerCurrentPrice > tickertLastPrice) {
+      tickerRect.transition().duration(1000).style("fill", "red")
+    } else if (tickerCurrentPrice < tickertLastPrice) {
+      tickerRect.transition().duration(1000).style("fill", "green")
+    } else {
+      tickerRect.transition().duration(1000).style("fill", "gray")
+    }
+    tickerRect.attr('data-price', tickertLastPrice)
   })
 
   var w = 1280 - 80,
@@ -47,9 +59,10 @@ $(document).ready(function() {
     cell.append("svg:rect")
         .attr("width", function(d) { return d.dx - 1; })
         .attr("height", function(d) { return d.dy - 1; })
+        .attr("id", function(d) { return d.symbol; })
+        .attr("data-price", function(d) { return d.last; })
         .style("fill", function(d) { return color(d.parent.name); });
-    // x.transition().duration(1000)
-    //             .style("fill", "red");
+    // x.transition().duration(1000).style("fill", "red");
 
     cell.append("svg:text")
         .attr("x", function(d) { return d.dx / 2; })
