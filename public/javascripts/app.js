@@ -45,7 +45,7 @@ $(document).ready(function() {
     .append("svg:g")
       .attr("transform", "translate(.5,.5)");
 
-  d3.json("/test.json", function(data) {
+  d3.json("/newtest.json", function(data) {
     node = root = data;
     var nodes = treemap.nodes(root)
         .filter(function(d) { return !d.children; });

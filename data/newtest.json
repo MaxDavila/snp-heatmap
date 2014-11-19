@@ -1,0 +1,3575 @@
+{
+  "name": "snp500",
+  "children": [
+    {
+      "name": "Industrials",
+      "children": [
+        {
+          "name": "3M Co.",
+          "symbol": "MMM",
+          "size": "93.269",
+          "last": "143.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Allegion plc",
+          "symbol": "ALLE",
+          "size": "",
+          "last": "50.87",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Amphenol Corp A",
+          "symbol": "APH",
+          "size": "16.344",
+          "last": "104.22",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Avery Dennison Corp",
+          "symbol": "AVY",
+          "size": "4.523",
+          "last": "48.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Boeing Company",
+          "symbol": "BA",
+          "size": "91.482",
+          "last": "126.95",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Caterpillar Inc.",
+          "symbol": "CAT",
+          "size": "65.936",
+          "last": "105.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "C. H. Robinson Worldwide",
+          "symbol": "CHRW",
+          "size": "9.885",
+          "last": "67.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cintas Corporation",
+          "symbol": "CTAS",
+          "size": "7.722",
+          "last": "66.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Corning Inc.",
+          "symbol": "GLW",
+          "size": "26.763",
+          "last": "20.73",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CSX Corp.",
+          "symbol": "CSX",
+          "size": "31.277",
+          "last": "31.29",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cummins Inc.",
+          "symbol": "CMI",
+          "size": "25.317",
+          "last": "138.57",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Danaher Corp.",
+          "symbol": "DHR",
+          "size": "53.869",
+          "last": "76.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Deere & Co.",
+          "symbol": "DE",
+          "size": "29.373",
+          "last": "81.95",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Delta Air Lines",
+          "symbol": "DAL",
+          "size": "33.379",
+          "last": "39.69",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dover Corp.",
+          "symbol": "DOV",
+          "size": "14.287",
+          "last": "85.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dun & Bradstreet",
+          "symbol": "DNB",
+          "size": "4.253",
+          "last": "116.93",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Eaton Corp.",
+          "symbol": "ETN",
+          "size": "31.928",
+          "last": "67.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Emerson Electric",
+          "symbol": "EMR",
+          "size": "45.009",
+          "last": "64.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Expeditors Int'l",
+          "symbol": "EXPD",
+          "size": "8.275",
+          "last": "42.41",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fastenal Co",
+          "symbol": "FAST",
+          "size": "13.592",
+          "last": "45.80",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "FedEx Corporation",
+          "symbol": "FDX",
+          "size": "43.889",
+          "last": "153.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "First Solar Inc",
+          "symbol": "FSLR",
+          "size": "7.292",
+          "last": "72.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Flowserve Corporation",
+          "symbol": "FLS",
+          "size": "10.159",
+          "last": "74.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fluor Corp.",
+          "symbol": "FLR",
+          "size": "11.024",
+          "last": "69.99",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "General Dynamics",
+          "symbol": "GD",
+          "size": "42.558",
+          "last": "126.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "General Electric",
+          "symbol": "GE",
+          "size": "259.6",
+          "last": "25.87",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Grainger (W.W.) Inc.",
+          "symbol": "GWW",
+          "size": "16.993",
+          "last": "248.45",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Honeywell Int'l Inc.",
+          "symbol": "HON",
+          "size": "73.950",
+          "last": "94.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Illinois Tool Works",
+          "symbol": "ITW",
+          "size": "34.996",
+          "last": "88.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ingersoll-Rand PLC",
+          "symbol": "IR",
+          "size": "16.013",
+          "last": "59.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Iron Mountain Incorporated",
+          "symbol": "IRM",
+          "size": "6.800",
+          "last": "35.21",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Jacobs Engineering Group",
+          "symbol": "JEC",
+          "size": "7.113",
+          "last": "53.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Joy Global Inc.",
+          "symbol": "JOY",
+          "size": "5.746",
+          "last": "58.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kansas City Southern Inc",
+          "symbol": "KSU",
+          "size": "12.684",
+          "last": "114.96",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "L-3 Communications Holdings",
+          "symbol": "LLL",
+          "size": "9.882",
+          "last": "114.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lockheed Martin Corp.",
+          "symbol": "LMT",
+          "size": "54.945",
+          "last": "174.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Masco Corp.",
+          "symbol": "MAS",
+          "size": "8.512",
+          "last": "23.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Norfolk Southern Corp.",
+          "symbol": "NSC",
+          "size": "33.394",
+          "last": "107.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Northrop Grumman Corp.",
+          "symbol": "NOC",
+          "size": "27.030",
+          "last": "129.99",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PACCAR Inc.",
+          "symbol": "PCAR",
+          "size": "21.336",
+          "last": "60.14",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pall Corp.",
+          "symbol": "PLL",
+          "size": "8.907",
+          "last": "83.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Parker-Hannifin",
+          "symbol": "PH",
+          "size": "17.525",
+          "last": "117.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pentair Ltd.",
+          "symbol": "PNR",
+          "size": "12.977",
+          "last": "67.39",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pitney-Bowes",
+          "symbol": "PBI",
+          "size": "5.381",
+          "last": "26.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Precision Castparts",
+          "symbol": "PCP",
+          "size": "34.428",
+          "last": "239.96",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Quanta Services Inc.",
+          "symbol": "PWR",
+          "size": "7.922",
+          "last": "36.54",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Raytheon Co.",
+          "symbol": "RTN",
+          "size": "31.311",
+          "last": "100.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Republic Services Inc",
+          "symbol": "RSG",
+          "size": "13.926",
+          "last": "39.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Robert Half International",
+          "symbol": "RHI",
+          "size": "6.810",
+          "last": "50.56",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Rockwell Automation Inc.",
+          "symbol": "ROK",
+          "size": "15.910",
+          "last": "115.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Rockwell Collins",
+          "symbol": "COL",
+          "size": "10.382",
+          "last": "76.85",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Roper Industries",
+          "symbol": "ROP",
+          "size": "14.718",
+          "last": "147.13",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ryder System",
+          "symbol": "R",
+          "size": "4.919",
+          "last": "92.70",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Southwest Airlines",
+          "symbol": "LUV",
+          "size": "23.206",
+          "last": "33.87",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Stericycle Inc",
+          "symbol": "SRCL",
+          "size": "9.932",
+          "last": "117.11",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Textron Inc.",
+          "symbol": "TXT",
+          "size": "10.180",
+          "last": "36.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "The ADT Corp.",
+          "symbol": "ADT",
+          "size": "6.416",
+          "last": "36.87",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Priceline.com Inc",
+          "symbol": "PCLN",
+          "size": "61.045",
+          "last": "1163.9399",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Tyco International",
+          "symbol": "TYC",
+          "size": "19.661",
+          "last": "44.33",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Union Pacific",
+          "symbol": "UNP",
+          "size": "96.034",
+          "last": "107.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "United Parcel Service",
+          "symbol": "UPS",
+          "size": "89.569",
+          "last": "98.05",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "United Technologies",
+          "symbol": "UTX",
+          "size": "99.120",
+          "last": "108.35",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Waste Management Inc.",
+          "symbol": "WM",
+          "size": "21.828",
+          "last": "46.80",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Xylem Inc.",
+          "symbol": "XYL",
+          "size": "6.787",
+          "last": "37.15",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Health Care",
+      "children": [
+        {
+          "name": "Abbott Laboratories",
+          "symbol": "ABT",
+          "size": "63.982",
+          "last": "42.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AbbVie Inc.",
+          "symbol": "ABBV",
+          "size": "92.128",
+          "last": "57.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Actavis Inc",
+          "symbol": "ACT",
+          "size": "61.937",
+          "last": "234.38",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Aetna Inc",
+          "symbol": "AET",
+          "size": "29.148",
+          "last": "82.20",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Agilent Technologies Inc",
+          "symbol": "A",
+          "size": "19.544",
+          "last": "58.60",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Alexion Pharmaceuticals",
+          "symbol": "ALXN",
+          "size": "32.188",
+          "last": "162.72",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Allergan Inc",
+          "symbol": "AGN",
+          "size": "50.298",
+          "last": "169.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AmerisourceBergen Corp",
+          "symbol": "ABC",
+          "size": "17.300",
+          "last": "77.10",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Amgen Inc",
+          "symbol": "AMGN",
+          "size": "104.7",
+          "last": "137.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Bard (C.R.) Inc.",
+          "symbol": "BCR",
+          "size": "11.041",
+          "last": "147.93",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Baxter International Inc.",
+          "symbol": "BAX",
+          "size": "40.463",
+          "last": "74.70",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Becton Dickinson",
+          "symbol": "BDX",
+          "size": "21.814",
+          "last": "113.71",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "BIOGEN IDEC Inc.",
+          "symbol": "BIIB",
+          "size": "76.367",
+          "last": "323.39",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Boston Scientific",
+          "symbol": "BSX",
+          "size": "16.571",
+          "last": "12.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Bristol-Myers Squibb",
+          "symbol": "BMY",
+          "size": "83.326",
+          "last": "50.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cardinal Health Inc.",
+          "symbol": "CAH",
+          "size": "25.380",
+          "last": "75.39",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Carefusion",
+          "symbol": "CFN",
+          "size": "9.411",
+          "last": "46.39",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Celgene Corp.",
+          "symbol": "CELG",
+          "size": "73.171",
+          "last": "91.52",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cerner",
+          "symbol": "CERN",
+          "size": "20.037",
+          "last": "58.75",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CIGNA Corp.",
+          "symbol": "CI",
+          "size": "24.356",
+          "last": "92.32",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Covidien plc",
+          "symbol": "COV",
+          "size": "40.961",
+          "last": "90.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "DaVita Inc.",
+          "symbol": "DVA",
+          "size": "15.910",
+          "last": "74.07",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dentsply International",
+          "symbol": "XRAY",
+          "size": "6.628",
+          "last": "46.75",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Edwards Lifesciences",
+          "symbol": "EW",
+          "size": "10.569",
+          "last": "99.68",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Express Scripts",
+          "symbol": "ESRX",
+          "size": "54.966",
+          "last": "73.735",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Forest Laboratories",
+          "symbol": "FRX",
+          "size": "",
+          "last": "0.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Gilead Sciences",
+          "symbol": "GILD",
+          "size": "156.7",
+          "last": "103.66",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hospira Inc.",
+          "symbol": "HSP",
+          "size": "8.880",
+          "last": "52.63",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Humana Inc.",
+          "symbol": "HUM",
+          "size": "19.785",
+          "last": "128.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Intuitive Surgical Inc.",
+          "symbol": "ISRG",
+          "size": "17.283",
+          "last": "480.73",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Johnson & Johnson",
+          "symbol": "JNJ",
+          "size": "294.9",
+          "last": "104.58",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Laboratory Corp. of America Holding",
+          "symbol": "LH",
+          "size": "9.029",
+          "last": "106.35",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lilly (Eli) & Co.",
+          "symbol": "LLY",
+          "size": "69.950",
+          "last": "65.27",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "McKesson Corp.",
+          "symbol": "MCK",
+          "size": "44.574",
+          "last": "192.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Medtronic Inc.",
+          "symbol": "MDT",
+          "size": "63.855",
+          "last": "65.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Merck & Co.",
+          "symbol": "MRK",
+          "size": "171.8",
+          "last": "59.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mylan Inc.",
+          "symbol": "MYL",
+          "size": "17.603",
+          "last": "47.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Patterson Companies",
+          "symbol": "PDCO",
+          "size": "4.030",
+          "last": "40.57",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PerkinElmer",
+          "symbol": "PKI",
+          "size": "5.044",
+          "last": "44.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Perrigo",
+          "symbol": "PRGO",
+          "size": "19.337",
+          "last": "144.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pfizer Inc.",
+          "symbol": "PFE",
+          "size": "186.6",
+          "last": "29.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Quest Diagnostics",
+          "symbol": "DGX",
+          "size": "9.043",
+          "last": "62.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Regeneron Pharmaceuticals Inc",
+          "symbol": "REGN",
+          "size": "34.741",
+          "last": "346.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "St Jude Medical",
+          "symbol": "STJ",
+          "size": "17.958",
+          "last": "63.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Stryker Corp.",
+          "symbol": "SYK",
+          "size": "31.596",
+          "last": "83.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Tenet Healthcare Corp.",
+          "symbol": "THC",
+          "size": "6.025",
+          "last": "61.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Thermo Fisher Scientific",
+          "symbol": "TMO",
+          "size": "49.232",
+          "last": "123.28",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "United Health Group Inc.",
+          "symbol": "UNH",
+          "size": "83.735",
+          "last": "86.18",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Varian Medical Systems",
+          "symbol": "VAR",
+          "size": "8.806",
+          "last": "85.33",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Vertex Pharmaceuticals Inc",
+          "symbol": "VRTX",
+          "size": "22.139",
+          "last": "92.99",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Waters Corporation",
+          "symbol": "WAT",
+          "size": "8.546",
+          "last": "101.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "WellPoint Inc.",
+          "symbol": "WLP",
+          "size": "32.531",
+          "last": "118.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Zimmer Holdings",
+          "symbol": "ZMH",
+          "size": "17.726",
+          "last": "104.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Zoetis Inc",
+          "symbol": "ZTS",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "children": [
+        {
+          "name": "Accenture",
+          "symbol": "ACN",
+          "size": "51.112",
+          "last": "80.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Adobe Systems Inc",
+          "symbol": "ADBE",
+          "size": "35.304",
+          "last": "70.98",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Akamai Technologies Inc",
+          "symbol": "AKAM",
+          "size": "11.130",
+          "last": "62.47",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Alliance Data Systems Corp",
+          "symbol": "ADS",
+          "size": "14.321",
+          "last": "257.91",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Altera Corp",
+          "symbol": "ALTR",
+          "size": "10.967",
+          "last": "35.495",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AMETEK Inc",
+          "symbol": "AME",
+          "size": "12.805",
+          "last": "52.10",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Analog Devices Inc",
+          "symbol": "ADI",
+          "size": "15.434",
+          "last": "49.12",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Apple Inc.",
+          "symbol": "AAPL",
+          "size": "608.7",
+          "last": "101.66",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Applied Materials Inc",
+          "symbol": "AMAT",
+          "size": "27.170",
+          "last": "22.30",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Autodesk Inc",
+          "symbol": "ADSK",
+          "size": "12.166",
+          "last": "53.54",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Automatic Data Processing",
+          "symbol": "ADP",
+          "size": "39.925",
+          "last": "83.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Avago Technologies Ltd",
+          "symbol": "AVGO",
+          "size": "22.138",
+          "last": "87.85",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Broadcom Corporation",
+          "symbol": "BRCM",
+          "size": "23.865",
+          "last": "40.38",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CA, Inc.",
+          "symbol": "CA",
+          "size": "12.684",
+          "last": "28.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cisco Systems",
+          "symbol": "CSCO",
+          "size": "128.8",
+          "last": "25.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Citrix Systems",
+          "symbol": "CTXS",
+          "size": "11.837",
+          "last": "71.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cognizant Technology Solutions",
+          "symbol": "CTSH",
+          "size": "27.211",
+          "last": "44.76",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Computer Sciences Corp.",
+          "symbol": "CSC",
+          "size": "8.662",
+          "last": "59.71",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "eBay Inc.",
+          "symbol": "EBAY",
+          "size": "64.779",
+          "last": "52.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Electronic Arts",
+          "symbol": "EA",
+          "size": "11.617",
+          "last": "37.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "EMC Corp.",
+          "symbol": "EMC",
+          "size": "60.150",
+          "last": "29.65",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "F5 Networks",
+          "symbol": "FFIV",
+          "size": "9.266",
+          "last": "125.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Facebook Inc",
+          "symbol": "FB",
+          "size": "201.5",
+          "last": "77.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fidelity National Information Services",
+          "symbol": "FIS",
+          "size": "16.275",
+          "last": "57.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fiserv Inc",
+          "symbol": "FISV",
+          "size": "16.184",
+          "last": "64.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "FLIR Systems",
+          "symbol": "FLIR",
+          "size": "4.739",
+          "last": "33.435",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Google Inc A",
+          "symbol": "GOOGL",
+          "size": "395.6",
+          "last": "584.90",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Google Inc.",
+          "symbol": "GOOG",
+          "size": "389.3",
+          "last": "575.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Harris Corporation",
+          "symbol": "HRS",
+          "size": "7.310",
+          "last": "69.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hewlett-Packard",
+          "symbol": "HPQ",
+          "size": "68.231",
+          "last": "36.56",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Intel Corp.",
+          "symbol": "INTC",
+          "size": "171.4",
+          "last": "34.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "International Bus. Machines",
+          "symbol": "IBM",
+          "size": "190.8",
+          "last": "191.28",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Intuit Inc.",
+          "symbol": "INTU",
+          "size": "23.853",
+          "last": "83.99",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Jabil Circuit",
+          "symbol": "JBL",
+          "size": "4.296",
+          "last": "21.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Juniper Networks",
+          "symbol": "JNPR",
+          "size": "10.450",
+          "last": "23.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "KLA-Tencor Corp.",
+          "symbol": "KLAC",
+          "size": "12.945",
+          "last": "78.28",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lam Research",
+          "symbol": "LRCX",
+          "size": "11.613",
+          "last": "71.65",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Linear Technology Corp.",
+          "symbol": "LLTC",
+          "size": "10.644",
+          "last": "44.625",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mastercard Inc.",
+          "symbol": "MA",
+          "size": "87.392",
+          "last": "75.47",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Microchip Technology",
+          "symbol": "MCHP",
+          "size": "9.553",
+          "last": "47.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Micron Technology",
+          "symbol": "MU",
+          "size": "33.758",
+          "last": "31.525",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Microsoft Corp.",
+          "symbol": "MSFT",
+          "size": "384.8",
+          "last": "46.695",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Motorola Solutions Inc.",
+          "symbol": "MSI",
+          "size": "15.439",
+          "last": "61.54",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NetApp",
+          "symbol": "NTAP",
+          "size": "13.568",
+          "last": "42.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NetFlix Inc.",
+          "symbol": "NFLX",
+          "size": "28.636",
+          "last": "476.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Nvidia Corporation",
+          "symbol": "NVDA",
+          "size": "10.361",
+          "last": "19.12",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Oracle Corp.",
+          "symbol": "ORCL",
+          "size": "180.4",
+          "last": "40.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Paychex Inc.",
+          "symbol": "PAYX",
+          "size": "15.239",
+          "last": "41.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "QUALCOMM Inc.",
+          "symbol": "QCOM",
+          "size": "126.3",
+          "last": "75.33",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Red Hat Inc.",
+          "symbol": "RHT",
+          "size": "11.446",
+          "last": "60.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Salesforce.com",
+          "symbol": "CRM",
+          "size": "36.676",
+          "last": "59.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "SanDisk Corporation",
+          "symbol": "SNDK",
+          "size": "22.192",
+          "last": "98.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Seagate Technology",
+          "symbol": "STX",
+          "size": "19.939",
+          "last": "61.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Symantec Corp.",
+          "symbol": "SYMC",
+          "size": "16.937",
+          "last": "24.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "TE Connectivity Ltd.",
+          "symbol": "TEL",
+          "size": "25.784",
+          "last": "63.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Teradata Corp.",
+          "symbol": "TDC",
+          "size": "6.953",
+          "last": "44.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Texas Instruments",
+          "symbol": "TXN",
+          "size": "51.061",
+          "last": "47.83",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Total System Services",
+          "symbol": "TSS",
+          "size": "5.895",
+          "last": "31.75",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Verisign Inc.",
+          "symbol": "VRSN",
+          "size": "7.020",
+          "last": "56.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Visa Inc.",
+          "symbol": "V",
+          "size": "134.5",
+          "last": "214.04",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Western Digital",
+          "symbol": "WDC",
+          "size": "23.375",
+          "last": "99.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Western Union Co",
+          "symbol": "WU",
+          "size": "8.890",
+          "last": "16.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Xerox Corp.",
+          "symbol": "XRX",
+          "size": "15.625",
+          "last": "13.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Xilinx Inc",
+          "symbol": "XLNX",
+          "size": "11.397",
+          "last": "42.45",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Yahoo Inc.",
+          "symbol": "YHOO",
+          "size": "42.649",
+          "last": "42.88",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Financials",
+      "children": [
+        {
+          "name": "ACE Limited",
+          "symbol": "ACE",
+          "size": "35.211",
+          "last": "104.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AFLAC Inc",
+          "symbol": "AFL",
+          "size": "27.088",
+          "last": "59.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Allstate Corp",
+          "symbol": "ALL",
+          "size": "26.437",
+          "last": "61.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "American Express Co",
+          "symbol": "AXP",
+          "size": "92.197",
+          "last": "87.64",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "American Intl Group Inc",
+          "symbol": "AIG",
+          "size": "78.750",
+          "last": "55.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "American Tower Corp A",
+          "symbol": "AMT",
+          "size": "38.034",
+          "last": "96.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ameriprise Financial",
+          "symbol": "AMP",
+          "size": "23.370",
+          "last": "124.84",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Aon plc",
+          "symbol": "AON",
+          "size": "25.293",
+          "last": "87.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Apartment Investment & Mgmt",
+          "symbol": "AIV",
+          "size": "4.814",
+          "last": "32.93",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Assurant Inc",
+          "symbol": "AIZ",
+          "size": "4.617",
+          "last": "64.68",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AvalonBay Communities, Inc.",
+          "symbol": "AVB",
+          "size": "19.018",
+          "last": "144.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Bank of America Corp",
+          "symbol": "BAC",
+          "size": "176.6",
+          "last": "16.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "BB&T Corporation",
+          "symbol": "BBT",
+          "size": "27.459",
+          "last": "38.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Berkshire Hathaway",
+          "symbol": "BRK-B",
+          "size": "0.2251",
+          "last": "137.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "BlackRock",
+          "symbol": "BLK",
+          "size": "55.403",
+          "last": "329.07",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Boston Properties",
+          "symbol": "BXP",
+          "size": "17.652",
+          "last": "115.30",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Capital One Financial",
+          "symbol": "COF",
+          "size": "45.933",
+          "last": "80.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CBRE Group",
+          "symbol": "CBG",
+          "size": "9.917",
+          "last": "30.04",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Chubb Corp.",
+          "symbol": "CB",
+          "size": "21.829",
+          "last": "90.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cincinnati Financial",
+          "symbol": "CINF",
+          "size": "7.862",
+          "last": "48.04",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Citigroup Inc.",
+          "symbol": "C",
+          "size": "158.8",
+          "last": "52.38",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CME Group Inc.",
+          "symbol": "CME",
+          "size": "26.657",
+          "last": "79.33",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Comerica Inc.",
+          "symbol": "CMA",
+          "size": "9.265",
+          "last": "51.24",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Discover Financial Services",
+          "symbol": "DFS",
+          "size": "28.837",
+          "last": "62.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "E-Trade",
+          "symbol": "ETFC",
+          "size": "6.681",
+          "last": "23.14",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Equifax Inc.",
+          "symbol": "EFX",
+          "size": "9.506",
+          "last": "78.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Equity Residential",
+          "symbol": "EQR",
+          "size": "22.660",
+          "last": "62.64",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Essex Property Trust",
+          "symbol": "ESS",
+          "size": "11.628",
+          "last": "183.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fifth Third Bancorp",
+          "symbol": "FITB",
+          "size": "17.223",
+          "last": "20.645",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Franklin Resources",
+          "symbol": "BEN",
+          "size": "34.672",
+          "last": "55.45",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "General Growth Properties Inc",
+          "symbol": "GGP",
+          "size": "21.016",
+          "last": "23.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Genworth Financial Inc.",
+          "symbol": "GNW",
+          "size": "6.540",
+          "last": "13.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Goldman Sachs Group",
+          "symbol": "GS",
+          "size": "83.855",
+          "last": "183.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hartford Financial Svc.Gp.",
+          "symbol": "HIG",
+          "size": "16.636",
+          "last": "37.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "HCP Inc.",
+          "symbol": "HCP",
+          "size": "18.605",
+          "last": "40.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Health Care REIT",
+          "symbol": "HCN",
+          "size": "19.515",
+          "last": "63.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Host Hotels & Resorts",
+          "symbol": "HST",
+          "size": "16.455",
+          "last": "21.73",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hudson City Bancorp",
+          "symbol": "HCBK",
+          "size": "5.055",
+          "last": "10.13",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Huntington Bancshares",
+          "symbol": "HBAN",
+          "size": "8.276",
+          "last": "10.13",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "IntercontinentalExchange Inc.",
+          "symbol": "ICE",
+          "size": "22.397",
+          "last": "194.68",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Invesco Ltd.",
+          "symbol": "IVZ",
+          "size": "17.611",
+          "last": "40.80",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "JPMorgan Chase & Co.",
+          "symbol": "JPM",
+          "size": "225.8",
+          "last": "60.03",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "KeyCorp",
+          "symbol": "KEY",
+          "size": "12.181",
+          "last": "13.93",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kimco Realty",
+          "symbol": "KIM",
+          "size": "9.183",
+          "last": "22.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Legg Mason",
+          "symbol": "LM",
+          "size": "5.817",
+          "last": "50.23",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Leucadia National Corp.",
+          "symbol": "LUK",
+          "size": "9.615",
+          "last": "26.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lincoln National",
+          "symbol": "LNC",
+          "size": "14.320",
+          "last": "54.85",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Loews Corp.",
+          "symbol": "L",
+          "size": "16.163",
+          "last": "42.41",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "M&T Bank Corp.",
+          "symbol": "MTB",
+          "size": "16.620",
+          "last": "125.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Macerich Co",
+          "symbol": "MAC",
+          "size": "9.021",
+          "last": "64.11",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Marsh & McLennan",
+          "symbol": "MMC",
+          "size": "28.680",
+          "last": "52.69",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "McGraw Hill Financial Inc",
+          "symbol": "MHFI",
+          "size": "23.276",
+          "last": "85.92",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "MetLife Inc.",
+          "symbol": "MET",
+          "size": "62.389",
+          "last": "55.47",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Moody's Corp",
+          "symbol": "MCO",
+          "size": "20.066",
+          "last": "95.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Morgan Stanley",
+          "symbol": "MS",
+          "size": "68.737",
+          "last": "35.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NASDAQ OMX Group",
+          "symbol": "NDAQ",
+          "size": "7.400",
+          "last": "43.855",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Navient Corp",
+          "symbol": "NAVI",
+          "size": "7.390",
+          "last": "17.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Northern Trust Corp.",
+          "symbol": "NTRS",
+          "size": "16.385",
+          "last": "69.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "People's United Bank",
+          "symbol": "PBCT",
+          "size": "4.503",
+          "last": "15.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Plum Creek Timber Co.",
+          "symbol": "PCL",
+          "size": "7.019",
+          "last": "39.63",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PNC Financial Services",
+          "symbol": "PNC",
+          "size": "46.608",
+          "last": "86.22",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Principal Financial Group",
+          "symbol": "PFG",
+          "size": "15.883",
+          "last": "54.04",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Progressive Corp.",
+          "symbol": "PGR",
+          "size": "14.822",
+          "last": "25.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "ProLogis",
+          "symbol": "PLD",
+          "size": "19.525",
+          "last": "39.05",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Prudential Financial",
+          "symbol": "PRU",
+          "size": "41.832",
+          "last": "90.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Public Storage",
+          "symbol": "PSA",
+          "size": "28.672",
+          "last": "166.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Regions Financial Corp.",
+          "symbol": "RF",
+          "size": "14.268",
+          "last": "10.35",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Charles Schwab",
+          "symbol": "SCHW",
+          "size": "38.475",
+          "last": "29.52",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Simon Property Group Inc",
+          "symbol": "SPG",
+          "size": "51.432",
+          "last": "165.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "State Street Corp.",
+          "symbol": "STT",
+          "size": "31.374",
+          "last": "74.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "SunTrust Banks",
+          "symbol": "STI",
+          "size": "20.698",
+          "last": "39.07",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "T. Rowe Price Group",
+          "symbol": "TROW",
+          "size": "20.918",
+          "last": "79.52",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "The Bank of New York Mellon Corp.",
+          "symbol": "BK",
+          "size": "45.151",
+          "last": "39.90",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Torchmark Corp.",
+          "symbol": "TMK",
+          "size": "7.006",
+          "last": "53.65",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "The Travelers Companies Inc.",
+          "symbol": "TRV",
+          "size": "31.334",
+          "last": "92.42",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Unum Group",
+          "symbol": "UNM",
+          "size": "9.152",
+          "last": "35.92",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "U.S. Bancorp",
+          "symbol": "USB",
+          "size": "76.041",
+          "last": "42.20",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ventas Inc",
+          "symbol": "VTR",
+          "size": "18.010",
+          "last": "61.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Vornado Realty Trust",
+          "symbol": "VNO",
+          "size": "19.279",
+          "last": "102.73",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Wells Fargo",
+          "symbol": "WFC",
+          "size": "269.9",
+          "last": "51.70",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Weyerhaeuser Corp.",
+          "symbol": "WY",
+          "size": "17.482",
+          "last": "33.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "XL Capital",
+          "symbol": "XL",
+          "size": "8.876",
+          "last": "33.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Zions Bancorp",
+          "symbol": "ZION",
+          "size": "5.998",
+          "last": "29.58",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "children": [
+        {
+          "name": "AES Corp",
+          "symbol": "AES",
+          "size": "10.422",
+          "last": "14.41",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AGL Resources Inc.",
+          "symbol": "GAS",
+          "size": "6.271",
+          "last": "52.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ameren Corp",
+          "symbol": "AEE",
+          "size": "9.278",
+          "last": "38.24",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "American Electric Power",
+          "symbol": "AEP",
+          "size": "25.645",
+          "last": "52.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CenterPoint Energy",
+          "symbol": "CNP",
+          "size": "10.423",
+          "last": "24.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CMS Energy",
+          "symbol": "CMS",
+          "size": "8.147",
+          "last": "29.63",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Consolidated Edison",
+          "symbol": "ED",
+          "size": "16.528",
+          "last": "56.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dominion Resources",
+          "symbol": "D",
+          "size": "39.959",
+          "last": "68.58",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "DTE Energy Co.",
+          "symbol": "DTE",
+          "size": "13.375",
+          "last": "75.57",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Duke Energy",
+          "symbol": "DUK",
+          "size": "51.673",
+          "last": "73.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Edison Int'l",
+          "symbol": "EIX",
+          "size": "18.532",
+          "last": "56.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Entergy Corp.",
+          "symbol": "ETR",
+          "size": "13.557",
+          "last": "75.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "EQT Corporation",
+          "symbol": "EQT",
+          "size": "14.303",
+          "last": "94.41",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Exelon Corp.",
+          "symbol": "EXC",
+          "size": "28.233",
+          "last": "32.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "FirstEnergy Corp",
+          "symbol": "FE",
+          "size": "14.367",
+          "last": "34.18",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Integrys Energy Group Inc.",
+          "symbol": "TEG",
+          "size": "5.296",
+          "last": "66.59",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NextEra Energy Resources",
+          "symbol": "NEE",
+          "size": "41.061",
+          "last": "94.10",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NiSource Inc.",
+          "symbol": "NI",
+          "size": "12.307",
+          "last": "39.03",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Northeast Utilities",
+          "symbol": "NU",
+          "size": "14.101",
+          "last": "44.57",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NRG Energy",
+          "symbol": "NRG",
+          "size": "10.226",
+          "last": "30.28",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "ONEOK",
+          "symbol": "OKE",
+          "size": "14.065",
+          "last": "67.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pepco Holdings Inc.",
+          "symbol": "POM",
+          "size": "6.816",
+          "last": "27.10",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PG&E Corp.",
+          "symbol": "PCG",
+          "size": "21.864",
+          "last": "46.38",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pinnacle West Capital",
+          "symbol": "PNW",
+          "size": "6.250",
+          "last": "56.61",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PPL Corp.",
+          "symbol": "PPL",
+          "size": "21.679",
+          "last": "32.63",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Public Serv. Enterprise Inc.",
+          "symbol": "PEG",
+          "size": "18.571",
+          "last": "36.71",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "QEP Resources",
+          "symbol": "QEP",
+          "size": "5.707",
+          "last": "31.69",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "SCANA Corp",
+          "symbol": "SCG",
+          "size": "7.086",
+          "last": "49.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Sempra Energy",
+          "symbol": "SRE",
+          "size": "25.456",
+          "last": "103.61",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Southern Co.",
+          "symbol": "SO",
+          "size": "38.837",
+          "last": "43.36",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "TECO Energy",
+          "symbol": "TE",
+          "size": "4.068",
+          "last": "17.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Wisconsin Energy Corporation",
+          "symbol": "WEC",
+          "size": "9.948",
+          "last": "44.11",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Xcel Energy Inc",
+          "symbol": "XEL",
+          "size": "15.803",
+          "last": "31.27",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Materials",
+      "children": [
+        {
+          "name": "Air Products & Chemicals Inc",
+          "symbol": "APD",
+          "size": "27.313",
+          "last": "128.22",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Airgas Inc",
+          "symbol": "ARG",
+          "size": "8.107",
+          "last": "108.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Alcoa Inc",
+          "symbol": "AA",
+          "size": "19.668",
+          "last": "16.72",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Allegheny Technologies Inc",
+          "symbol": "ATI",
+          "size": "4.538",
+          "last": "41.74",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ball Corp",
+          "symbol": "BLL",
+          "size": "9.097",
+          "last": "65.71",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Bemis Company",
+          "symbol": "BMS",
+          "size": "3.943",
+          "last": "39.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CF Industries Holdings Inc",
+          "symbol": "CF",
+          "size": "12.449",
+          "last": "250.64",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dow Chemical",
+          "symbol": "DOW",
+          "size": "62.093",
+          "last": "52.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Du Pont (E.I.)",
+          "symbol": "DD",
+          "size": "59.289",
+          "last": "64.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Eastman Chemical",
+          "symbol": "EMN",
+          "size": "12.381",
+          "last": "83.05",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ecolab Inc.",
+          "symbol": "ECL",
+          "size": "34.598",
+          "last": "115.47",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "FMC Corporation",
+          "symbol": "FMC",
+          "size": "8.318",
+          "last": "62.43",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Freeport-McMoran Cp & Gld",
+          "symbol": "FCX",
+          "size": "35.577",
+          "last": "34.24",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "International Flav/Frag",
+          "symbol": "IFF",
+          "size": "7.976",
+          "last": "98.27",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "International Paper",
+          "symbol": "IP",
+          "size": "21.261",
+          "last": "49.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "LyondellBasell Industries N.V.",
+          "symbol": "LYB",
+          "size": "57.217",
+          "last": "111.68",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "MeadWestvaco Corporation",
+          "symbol": "MWV",
+          "size": "7.159",
+          "last": "42.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Monsanto Co.",
+          "symbol": "MON",
+          "size": "59.305",
+          "last": "113.05",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "The Mosaic Company",
+          "symbol": "MOS",
+          "size": "17.343",
+          "last": "46.29",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Newmont Mining Corp. (Hldg. Co.)",
+          "symbol": "NEM",
+          "size": "12.554",
+          "last": "25.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Nucor Corp.",
+          "symbol": "NUE",
+          "size": "17.524",
+          "last": "54.96",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Owens-Illinois Inc",
+          "symbol": "OI",
+          "size": "5.196",
+          "last": "31.52",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PPG Industries",
+          "symbol": "PPG",
+          "size": "27.523",
+          "last": "199.68",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Praxair Inc.",
+          "symbol": "PX",
+          "size": "38.440",
+          "last": "131.63",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Sealed Air Corp.(New)",
+          "symbol": "SEE",
+          "size": "7.836",
+          "last": "36.96",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Sigma-Aldrich",
+          "symbol": "SIAL",
+          "size": "12.140",
+          "last": "102.04",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "United States Steel Corp.",
+          "symbol": "X",
+          "size": "5.793",
+          "last": "39.92",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Vulcan Materials",
+          "symbol": "VMC",
+          "size": "8.198",
+          "last": "62.62",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Staples",
+      "children": [
+        {
+          "name": "Altria Group Inc",
+          "symbol": "MO",
+          "size": "85.457",
+          "last": "43.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Archer-Daniels-Midland Co",
+          "symbol": "ADM",
+          "size": "32.541",
+          "last": "50.41",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Avon Products",
+          "symbol": "AVP",
+          "size": "5.906",
+          "last": "13.59",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Brown-Forman Corporation",
+          "symbol": "BF-B",
+          "size": "19.215",
+          "last": "90.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Campbell Soup",
+          "symbol": "CPB",
+          "size": "13.628",
+          "last": "43.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Clorox Co.",
+          "symbol": "CLX",
+          "size": "11.465",
+          "last": "88.98",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Coca Cola Co.",
+          "symbol": "KO",
+          "size": "181.8",
+          "last": "41.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Coca-Cola Enterprises",
+          "symbol": "CCE",
+          "size": "11.096",
+          "last": "45.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Colgate-Palmolive",
+          "symbol": "CL",
+          "size": "58.890",
+          "last": "64.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "ConAgra Foods Inc.",
+          "symbol": "CAG",
+          "size": "13.664",
+          "last": "32.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Constellation Brands",
+          "symbol": "STZ",
+          "size": "16.545",
+          "last": "85.90",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Costco Co.",
+          "symbol": "COST",
+          "size": "54.949",
+          "last": "125.37",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CVS Caremark Corp.",
+          "symbol": "CVS",
+          "size": "93.461",
+          "last": "80.57",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dr Pepper Snapple Group",
+          "symbol": "DPS",
+          "size": "12.074",
+          "last": "61.88",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Estee Lauder Cos.",
+          "symbol": "EL",
+          "size": "28.400",
+          "last": "74.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "General Mills",
+          "symbol": "GIS",
+          "size": "32.334",
+          "last": "52.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "The Hershey Company",
+          "symbol": "HSY",
+          "size": "20.557",
+          "last": "92.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hormel Foods Corp.",
+          "symbol": "HRL",
+          "size": "13.165",
+          "last": "49.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kellogg Co.",
+          "symbol": "K",
+          "size": "23.008",
+          "last": "63.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kimberly-Clark",
+          "symbol": "KMB",
+          "size": "39.643",
+          "last": "106.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kraft Foods Group Inc.",
+          "symbol": "KRFT",
+          "size": "34.284",
+          "last": "57.72",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kroger Co.",
+          "symbol": "KR",
+          "size": "25.341",
+          "last": "51.83",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lorillard Inc.",
+          "symbol": "LO",
+          "size": "21.270",
+          "last": "59.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "McCormick & Co.",
+          "symbol": "MKC",
+          "size": "8.860",
+          "last": "68.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mead Johnson",
+          "symbol": "MJN",
+          "size": "19.547",
+          "last": "96.69",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Molson Coors Brewing Company",
+          "symbol": "TAP",
+          "size": "13.290",
+          "last": "71.80",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mondelez International Inc",
+          "symbol": "MDLZ",
+          "size": "59.546",
+          "last": "35.32",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Monster Beverage",
+          "symbol": "MNST",
+          "size": "15.027",
+          "last": "89.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PepsiCo Inc.",
+          "symbol": "PEP",
+          "size": "136.9",
+          "last": "90.87",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Philip Morris International",
+          "symbol": "PM",
+          "size": "131.3",
+          "last": "84.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Procter & Gamble",
+          "symbol": "PG",
+          "size": "225.4",
+          "last": "83.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Reynolds American Inc.",
+          "symbol": "RAI",
+          "size": "30.496",
+          "last": "57.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Safeway Inc.",
+          "symbol": "SWY",
+          "size": "7.894",
+          "last": "34.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Smucker (J.M.)",
+          "symbol": "SJM",
+          "size": "10.151",
+          "last": "99.70",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Sysco Corp.",
+          "symbol": "SYY",
+          "size": "22.191",
+          "last": "37.82",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Tyson Foods",
+          "symbol": "TSN",
+          "size": "13.456",
+          "last": "38.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Wal-Mart Stores",
+          "symbol": "WMT",
+          "size": "244.2",
+          "last": "75.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Walgreen Co.",
+          "symbol": "WAG",
+          "size": "60.091",
+          "last": "62.82",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Whole Foods Market",
+          "symbol": "WFM",
+          "size": "13.762",
+          "last": "38.095",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Discretionary",
+      "children": [
+        {
+          "name": "Amazon.com Inc",
+          "symbol": "AMZN",
+          "size": "153.0",
+          "last": "331.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AutoNation Inc",
+          "symbol": "AN",
+          "size": "6.207",
+          "last": "52.36",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "AutoZone Inc",
+          "symbol": "AZO",
+          "size": "17.278",
+          "last": "530.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Bed Bath & Beyond",
+          "symbol": "BBBY",
+          "size": "12.915",
+          "last": "65.11",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Best Buy Co. Inc.",
+          "symbol": "BBY",
+          "size": "11.743",
+          "last": "33.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Block H&R",
+          "symbol": "HRB",
+          "size": "8.927",
+          "last": "32.45",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "BorgWarner",
+          "symbol": "BWA",
+          "size": "13.750",
+          "last": "60.20",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cablevision Systems Corp.",
+          "symbol": "CVC",
+          "size": "5.192",
+          "last": "19.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Carmax Inc",
+          "symbol": "KMX",
+          "size": "11.516",
+          "last": "52.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Carnival Corp.",
+          "symbol": "CCL",
+          "size": "30.443",
+          "last": "39.18",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CBS Corp.",
+          "symbol": "CBS",
+          "size": "30.166",
+          "last": "57.26",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Chipotle Mexican Grill",
+          "symbol": "CMG",
+          "size": "20.619",
+          "last": "664.81",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Coach Inc.",
+          "symbol": "COH",
+          "size": "10.150",
+          "last": "36.96",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Comcast Corp.",
+          "symbol": "CMCSA",
+          "size": "147.7",
+          "last": "57.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Darden Restaurants",
+          "symbol": "DRI",
+          "size": "6.296",
+          "last": "47.58",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Delphi Automotive PLC",
+          "symbol": "DLPH",
+          "size": "21.025",
+          "last": "70.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "DirecTV",
+          "symbol": "DTV",
+          "size": "43.618",
+          "last": "86.85",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Discovery Communications",
+          "symbol": "DISCA",
+          "size": "27.207",
+          "last": "39.66",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dollar General Corp",
+          "symbol": "DG",
+          "size": "19.396",
+          "last": "63.93",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Dollar Tree",
+          "symbol": "DLTR",
+          "size": "11.499",
+          "last": "55.92",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Expedia Inc.",
+          "symbol": "EXPE",
+          "size": "11.008",
+          "last": "86.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Family Dollar Stores",
+          "symbol": "FDO",
+          "size": "8.944",
+          "last": "78.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ford Motor",
+          "symbol": "F",
+          "size": "64.344",
+          "last": "16.59",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Fossil, Inc.",
+          "symbol": "FOSL",
+          "size": "5.450",
+          "last": "103.00",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "GameStop Corp.",
+          "symbol": "GME",
+          "size": "4.954",
+          "last": "43.61",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Gannett Co.",
+          "symbol": "GCI",
+          "size": "7.255",
+          "last": "32.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Gap (The)",
+          "symbol": "GPS",
+          "size": "19.260",
+          "last": "44.29",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Garmin Ltd",
+          "symbol": "GRMN",
+          "size": "10.311",
+          "last": "53.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "General Motors Company",
+          "symbol": "GM",
+          "size": "53.388",
+          "last": "33.27",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Genuine Parts",
+          "symbol": "GPC",
+          "size": "13.567",
+          "last": "88.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Goodyear Tire & Rubber",
+          "symbol": "GT",
+          "size": "6.773",
+          "last": "24.60",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Graham Holdings Co",
+          "symbol": "GHC",
+          "size": "",
+          "last": "708.83",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Harley-Davidson",
+          "symbol": "HOG",
+          "size": "14.028",
+          "last": "64.42",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Harman Int'l Industries",
+          "symbol": "HAR",
+          "size": "7.574",
+          "last": "111.22",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hasbro Inc.",
+          "symbol": "HAS",
+          "size": "6.842",
+          "last": "53.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Home Depot",
+          "symbol": "HD",
+          "size": "119.6",
+          "last": "88.84",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "D. R. Horton",
+          "symbol": "DHI",
+          "size": "7.822",
+          "last": "21.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Interpublic Group",
+          "symbol": "IPG",
+          "size": "7.948",
+          "last": "18.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Johnson Controls",
+          "symbol": "JCI",
+          "size": "31.026",
+          "last": "46.58",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kohl's Corp.",
+          "symbol": "KSS",
+          "size": "12.358",
+          "last": "60.38",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "L Brands Inc",
+          "symbol": "LB",
+          "size": "19.058",
+          "last": "65.19",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Leggett & Platt",
+          "symbol": "LEG",
+          "size": "4.816",
+          "last": "35.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lennar Corp.",
+          "symbol": "LEN",
+          "size": "7.985",
+          "last": "39.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Lowe's Cos.",
+          "symbol": "LOW",
+          "size": "52.287",
+          "last": "52.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Macy's Inc.",
+          "symbol": "M",
+          "size": "21.043",
+          "last": "59.59",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Marriott Int'l.",
+          "symbol": "MAR",
+          "size": "20.520",
+          "last": "70.62",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mattel Inc.",
+          "symbol": "MAT",
+          "size": "11.602",
+          "last": "34.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "McDonald's Corp.",
+          "symbol": "MCD",
+          "size": "91.653",
+          "last": "93.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Michael Kors Holdings Ltd",
+          "symbol": "KORS",
+          "size": "15.697",
+          "last": "76.82",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Mohawk Industries Inc",
+          "symbol": "MHK",
+          "size": "10.357",
+          "last": "142.20",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Newell Rubbermaid Co.",
+          "symbol": "NWL",
+          "size": "9.372",
+          "last": "34.23",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "News Corporation",
+          "symbol": "NWSA",
+          "size": "9.913",
+          "last": "17.12",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "NIKE Inc.",
+          "symbol": "NKE",
+          "size": "71.061",
+          "last": "81.84",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Nordstrom",
+          "symbol": "JWN",
+          "size": "13.306",
+          "last": "69.08",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "O'Reilly Automotive",
+          "symbol": "ORLY",
+          "size": "16.004",
+          "last": "154.23",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Omnicom Group",
+          "symbol": "OMC",
+          "size": "17.840",
+          "last": "71.03",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PETsMART Inc",
+          "symbol": "PETM",
+          "size": "7.003",
+          "last": "70.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pulte Homes Inc.",
+          "symbol": "PHM",
+          "size": "7.060",
+          "last": "18.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "PVH Corp",
+          "symbol": "PVH",
+          "size": "10.433",
+          "last": "126.77",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Polo Ralph Lauren Corp.",
+          "symbol": "RL",
+          "size": "15.284",
+          "last": "173.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ross Stores Inc.",
+          "symbol": "ROST",
+          "size": "15.601",
+          "last": "75.16",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Scripps Networks Interactive Inc.",
+          "symbol": "SNI",
+          "size": "10.977",
+          "last": "78.34",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Sherwin-Williams",
+          "symbol": "SHW",
+          "size": "20.822",
+          "last": "215.55",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Snap-On Inc.",
+          "symbol": "SNA",
+          "size": "7.307",
+          "last": "125.73",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Stanley Black & Decker",
+          "symbol": "SWK",
+          "size": "14.360",
+          "last": "91.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Staples Inc.",
+          "symbol": "SPLS",
+          "size": "8.339",
+          "last": "12.945",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Starbucks Corp.",
+          "symbol": "SBUX",
+          "size": "56.693",
+          "last": "75.47",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Starwood Hotels & Resorts",
+          "symbol": "HOT",
+          "size": "15.825",
+          "last": "83.06",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Target Corp.",
+          "symbol": "TGT",
+          "size": "39.626",
+          "last": "62.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Tiffany & Co.",
+          "symbol": "TIF",
+          "size": "13.078",
+          "last": "101.15",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Time Warner Cable Inc.",
+          "symbol": "TWC",
+          "size": "43.128",
+          "last": "154.31",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Time Warner Inc.",
+          "symbol": "TWX",
+          "size": "65.660",
+          "last": "76.81",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "TJX Companies Inc.",
+          "symbol": "TJX",
+          "size": "41.500",
+          "last": "59.89",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "TripAdvisor",
+          "symbol": "TRIP",
+          "size": "14.181",
+          "last": "99.32",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Twenty-First Century Fox, Inc",
+          "symbol": "FOXA",
+          "size": "76.761",
+          "last": "35.05",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Under Armour Inc A",
+          "symbol": "UA",
+          "size": "14.767",
+          "last": "69.24",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Urban Outfitters",
+          "symbol": "URBN",
+          "size": "5.204",
+          "last": "38.82",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "V.F. Corp.",
+          "symbol": "VFC",
+          "size": "28.392",
+          "last": "65.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Viacom Inc.",
+          "symbol": "VIAB",
+          "size": "33.637",
+          "last": "79.515",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Walt Disney Co.",
+          "symbol": "DIS",
+          "size": "153.9",
+          "last": "89.67",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Whirlpool Corp.",
+          "symbol": "WHR",
+          "size": "11.863",
+          "last": "152.11",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Wyndham Worldwide",
+          "symbol": "WYN",
+          "size": "10.064",
+          "last": "80.51",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Wynn Resorts Ltd",
+          "symbol": "WYNN",
+          "size": "18.420",
+          "last": "182.53",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Yum! Brands Inc",
+          "symbol": "YUM",
+          "size": "31.470",
+          "last": "71.58",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "children": [
+        {
+          "name": "Anadarko Petroleum Corp",
+          "symbol": "APC",
+          "size": "53.359",
+          "last": "105.46",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Apache Corporation",
+          "symbol": "APA",
+          "size": "36.809",
+          "last": "96.24",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Baker Hughes Inc",
+          "symbol": "BHI",
+          "size": "28.926",
+          "last": "66.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cabot Oil & Gas",
+          "symbol": "COG",
+          "size": "13.775",
+          "last": "33.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cameron International Corp.",
+          "symbol": "CAM",
+          "size": "14.424",
+          "last": "71.09",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Chesapeake Energy",
+          "symbol": "CHK",
+          "size": "16.214",
+          "last": "24.91",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Chevron Corp.",
+          "symbol": "CVX",
+          "size": "232.9",
+          "last": "122.66",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Cimarex Energy Co",
+          "symbol": "XEC",
+          "size": "11.662",
+          "last": "134.01",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "ConocoPhillips",
+          "symbol": "COP",
+          "size": "96.460",
+          "last": "78.45",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CONSOL Energy Inc.",
+          "symbol": "CNX",
+          "size": "9.016",
+          "last": "39.17",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Denbury Resources Inc.",
+          "symbol": "DNR",
+          "size": "5.544",
+          "last": "15.94",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Devon Energy Corp.",
+          "symbol": "DVN",
+          "size": "28.617",
+          "last": "69.95",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Diamond Offshore Drilling",
+          "symbol": "DO",
+          "size": "5.462",
+          "last": "39.83",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Ensco plc",
+          "symbol": "ESV",
+          "size": "10.839",
+          "last": "46.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "EOG Resources",
+          "symbol": "EOG",
+          "size": "55.468",
+          "last": "101.32",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Exxon Mobil Corp.",
+          "symbol": "XOM",
+          "size": "408.5",
+          "last": "95.78",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "FMC Technologies Inc.",
+          "symbol": "FTI",
+          "size": "13.314",
+          "last": "56.69",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Halliburton Co.",
+          "symbol": "HAL",
+          "size": "56.016",
+          "last": "65.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Helmerich & Payne",
+          "symbol": "HP",
+          "size": "10.911",
+          "last": "100.82",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Hess Corporation",
+          "symbol": "HES",
+          "size": "30.032",
+          "last": "96.97",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Kinder Morgan",
+          "symbol": "KMI",
+          "size": "38.826",
+          "last": "37.76",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Marathon Oil Corp.",
+          "symbol": "MRO",
+          "size": "26.696",
+          "last": "39.58",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Marathon Petroleum",
+          "symbol": "MPC",
+          "size": "24.610",
+          "last": "86.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Murphy Oil",
+          "symbol": "MUR",
+          "size": "10.169",
+          "last": "57.27",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Nabors Industries Ltd.",
+          "symbol": "NBR",
+          "size": "7.233",
+          "last": "24.13",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "National Oilwell Varco Inc.",
+          "symbol": "NOV",
+          "size": "34.694",
+          "last": "80.64",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Newfield Exploration Co",
+          "symbol": "NFX",
+          "size": "5.131",
+          "last": "38.33",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Noble Corp",
+          "symbol": "NE",
+          "size": "6.598",
+          "last": "25.95",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Noble Energy Inc",
+          "symbol": "NBL",
+          "size": "24.837",
+          "last": "68.80",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Occidental Petroleum",
+          "symbol": "OXY",
+          "size": "75.936",
+          "last": "97.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Peabody Energy",
+          "symbol": "BTU",
+          "size": "3.920",
+          "last": "14.44",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Phillips 66",
+          "symbol": "PSX",
+          "size": "46.399",
+          "last": "83.02",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Pioneer Natural Resources",
+          "symbol": "PXD",
+          "size": "28.942",
+          "last": "202.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Range Resources Corp.",
+          "symbol": "RRC",
+          "size": "11.978",
+          "last": "72.48",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Rowan Cos.",
+          "symbol": "RDC",
+          "size": "3.517",
+          "last": "28.25",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Schlumberger Ltd.",
+          "symbol": "SLB",
+          "size": "132.5",
+          "last": "102.22",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Southwestern Energy",
+          "symbol": "SWN",
+          "size": "13.175",
+          "last": "37.49",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Spectra Energy Corp.",
+          "symbol": "SE",
+          "size": "26.728",
+          "last": "39.84",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Tesoro Petroleum Co.",
+          "symbol": "TSO",
+          "size": "7.952",
+          "last": "61.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Williams Cos.",
+          "symbol": "WMB",
+          "size": "41.999",
+          "last": "56.20",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Transocean Ltd",
+          "symbol": "RIG",
+          "size": "12.988",
+          "last": "35.86",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Valero Energy",
+          "symbol": "VLO",
+          "size": "25.564",
+          "last": "48.42",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Telecommunications Services",
+      "children": [
+        {
+          "name": "AT&T Inc",
+          "symbol": "T",
+          "size": "178.9",
+          "last": "34.50",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "CenturyLink Inc",
+          "symbol": "CTL",
+          "size": "22.544",
+          "last": "39.54",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Crown Castle International Corp.",
+          "symbol": "CCI",
+          "size": "26.185",
+          "last": "78.79",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Frontier Communications",
+          "symbol": "FTR",
+          "size": "6.413",
+          "last": "6.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Verizon Communications",
+          "symbol": "VZ",
+          "size": "200.6",
+          "last": "48.40",
+          "colour": "#f9f0ab"
+        },
+        {
+          "name": "Windstream Corporation",
+          "symbol": "WIN",
+          "size": "6.672",
+          "last": "11.07",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Staples ",
+      "children": [
+        {
+          "name": "Keurig Green Mountain Inc",
+          "symbol": "GMCR",
+          "size": "21.295",
+          "last": "131.11",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "children": [
+        {
+          "name": "Nielsen Holdings NV",
+          "symbol": "NLSN",
+          "size": "17.132",
+          "last": "45.05",
+          "colour": "#f9f0ab"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Discretionary ",
+      "children": [
+        {
+          "name": "Tractor Supply Co",
+          "symbol": "TSCO",
+          "size": "8.405",
+          "last": "61.05",
+          "colour": "#f9f0ab"
+        }
+      ]
+    }
+  ]
+}
