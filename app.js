@@ -13,7 +13,12 @@ var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
 
+var tradeking = require('./lib/tradeking')().authenticate();
+
+
 app.set('io', io);
+app.set('tradeking', tradeking);
+
 app.set('server', server);
 
 // view engine setup
