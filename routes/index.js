@@ -4,8 +4,6 @@ var router = express.Router();
 var oauth = require('oauth');
 var config = require('config-heroku');
 
-
-
 router.get('/', function(req, res) {
   var io = req.app.get('io');
   var tradeking = req.app.get('tradeking');
@@ -24,9 +22,10 @@ router.post('/check', function(req, res) {
 
 router.get('/health_check', function(req, res) {
   var io = req.app.get('io');
+  var tradeking = req.app.get('tradeking');
   var clients = findClientsSocket(io);
 
-  res.send({ current_connections: clients });
+  res.send({ current_connections: clients, requests: tradeking.requestCount });
 });
 
 function findClientsSocket(io, roomId, namespace) {
