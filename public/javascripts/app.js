@@ -62,7 +62,7 @@ $(document).ready(function() {
         .attr("height", function(d) { return d.dy - 1; })
         .attr("id", function(d) { return d.symbol; })
         .attr("data-price", function(d) { return d.last; })
-        .style("fill", function(d) { return color(d.parent.name); });
+        .style("fill", function(d) { return d.colour; });
     // x.transition().duration(1000).style("fill", "red");
 
     cell.append("svg:text")
