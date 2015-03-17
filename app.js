@@ -17,8 +17,6 @@ var tradeking = require('./lib/tradeking')().authenticate();
 
 // var cronJob = require('./lib/cronjob');
 // cronJob.initialize();
-var cronJob = require('./clock');
-cronJob.initialize();
 
 app.set('io', io);
 app.set('tradeking', tradeking);
