@@ -1,0 +1,4980 @@
+{
+  "name": "snp500",
+  "children": [
+    {
+      "name": "Consumer Discretionary",
+      "children": [
+        {
+          "name": "STAPLES INC",
+          "symbol": "SPLS",
+          "sharesOutstanding": 640,
+          "size": 10273411480,
+          "last": 16.04,
+          "prevClose": 16.01,
+          "prevCloseChange": 0.187,
+          "colour": "#414554"
+        },
+        {
+          "name": "DOLLAR GENERAL CORP",
+          "symbol": "DG",
+          "sharesOutstanding": 303,
+          "size": 22878320400,
+          "last": 75.4,
+          "prevClose": 74.3,
+          "prevCloseChange": 1.48,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FORD MTR CO DEL",
+          "symbol": "F",
+          "sharesOutstanding": 3,
+          "size": 64065134099.99999,
+          "last": 16.49,
+          "prevClose": 16.2,
+          "prevCloseChange": 1.79,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MACYS INC",
+          "symbol": "M",
+          "sharesOutstanding": 345,
+          "size": 22143255310,
+          "last": 64.13,
+          "prevClose": 63.36,
+          "prevCloseChange": 1.215,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CABLEVISION SYS CORP",
+          "symbol": "CVC",
+          "sharesOutstanding": 220,
+          "size": 4007620380,
+          "last": 18.21,
+          "prevClose": 17.86,
+          "prevCloseChange": 1.96,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HOME DEPOT INC",
+          "symbol": "HD",
+          "sharesOutstanding": 1,
+          "size": 153526845500,
+          "last": 116.5,
+          "prevClose": 114.82,
+          "prevCloseChange": 1.463,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE GOODYEAR TIRE & RUBBER CO",
+          "symbol": "GT",
+          "sharesOutstanding": 269,
+          "size": 6822563600,
+          "last": 25.31,
+          "prevClose": 25.235,
+          "prevCloseChange": 0.297,
+          "colour": "#414554"
+        },
+        {
+          "name": "PULTEGROUP INC",
+          "symbol": "PHM",
+          "sharesOutstanding": 368,
+          "size": 7757952930,
+          "last": 21.07,
+          "prevClose": 21.05,
+          "prevCloseChange": 0.095,
+          "colour": "#414554"
+        },
+        {
+          "name": "GENERAL MOTORS CO",
+          "symbol": "GM",
+          "sharesOutstanding": 1,
+          "size": 62127920280,
+          "last": 38.58,
+          "prevClose": 38.05,
+          "prevCloseChange": 1.393,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ROSS STORES INC",
+          "symbol": "ROST",
+          "sharesOutstanding": 208,
+          "size": 22276729100,
+          "last": 106.85,
+          "prevClose": 106.04,
+          "prevCloseChange": 0.764,
+          "colour": "#414554"
+        },
+        {
+          "name": "GRAHAM HOLDINGS CO",
+          "symbol": "GHC",
+          "sharesOutstanding": 4,
+          "size": 5296394000,
+          "last": 1092.04,
+          "prevClose": 1079.63,
+          "prevCloseChange": 1.149,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FOSSIL GROUP INC",
+          "symbol": "FOSL",
+          "sharesOutstanding": 50,
+          "size": 4051982970.0000005,
+          "last": 80.43,
+          "prevClose": 80.18,
+          "prevCloseChange": 0.312,
+          "colour": "#414554"
+        },
+        {
+          "name": "BORGWARNER INC",
+          "symbol": "BWA",
+          "sharesOutstanding": 226,
+          "size": 13626918480,
+          "last": 60.18,
+          "prevClose": 58.8,
+          "prevCloseChange": 2.347,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "AUTONATION INC",
+          "symbol": "AN",
+          "sharesOutstanding": 113,
+          "size": 7132698400,
+          "last": 62.8,
+          "prevClose": 61.53,
+          "prevCloseChange": 2.064,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "TIME WARNER INC",
+          "symbol": "TWX",
+          "sharesOutstanding": 830,
+          "size": 70968104900,
+          "last": 85.45,
+          "prevClose": 84.09,
+          "prevCloseChange": 1.617,
+          "colour": "#35764E"
+        },
+        {
+          "name": "STANLEY BLACK & DECKER INC",
+          "symbol": "SWK",
+          "sharesOutstanding": 153,
+          "size": 14563335320,
+          "last": 95.02,
+          "prevClose": 96.18,
+          "prevCloseChange": -1.206,
+          "colour": "#8B444E"
+        },
+        {
+          "name": "TIME WARNER CABLE INC",
+          "symbol": "TWC",
+          "sharesOutstanding": 280,
+          "size": 44488942000,
+          "last": 158.38,
+          "prevClose": 154.97,
+          "prevCloseChange": 2.2,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "O'REILLY AUTOMOTIVE INC",
+          "symbol": "ORLY",
+          "sharesOutstanding": 101,
+          "size": 21860125695,
+          "last": 215.055,
+          "prevClose": 210.23,
+          "prevCloseChange": 2.295,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "NORDSTROM INC",
+          "symbol": "JWN",
+          "sharesOutstanding": 190,
+          "size": 15263356350,
+          "last": 80.23,
+          "prevClose": 80.36,
+          "prevCloseChange": -0.162,
+          "colour": "#414554"
+        },
+        {
+          "name": "WYNN RESORTS LTD",
+          "symbol": "WYNN",
+          "sharesOutstanding": 101,
+          "size": 12756234270,
+          "last": 125.645,
+          "prevClose": 127.07,
+          "prevCloseChange": -1.121,
+          "colour": "#8B444E"
+        },
+        {
+          "name": "TWENTY FIRST CENTURY FOX CL A",
+          "symbol": "FOXA",
+          "sharesOutstanding": 1,
+          "size": 45603575250,
+          "last": 34.35,
+          "prevClose": 34.02,
+          "prevCloseChange": 0.97,
+          "colour": "#414554"
+        },
+        {
+          "name": "HASBRO INC",
+          "symbol": "HAS",
+          "sharesOutstanding": 124,
+          "size": 7645188000,
+          "last": 61.5,
+          "prevClose": 60.73,
+          "prevCloseChange": 1.268,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HARMAN INTL INDUSTRIES",
+          "symbol": "HAR",
+          "sharesOutstanding": 68,
+          "size": 9226348320,
+          "last": 134.44,
+          "prevClose": 130.29,
+          "prevCloseChange": 3.185,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "AUTOZONE INC",
+          "symbol": "AZO",
+          "sharesOutstanding": 31,
+          "size": 21225248180,
+          "last": 665.41,
+          "prevClose": 654.66,
+          "prevCloseChange": 1.642,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PETSMART INC",
+          "symbol": "PETM",
+          "sharesOutstanding": 99,
+          "size": 8252775900,
+          "last": 82.98,
+          "prevClose": 82.98,
+          "prevCloseChange": 0,
+          "colour": "#414554"
+        },
+        {
+          "name": "COMCAST CP CL A",
+          "symbol": "CMCSA",
+          "sharesOutstanding": 2,
+          "size": 127335495500,
+          "last": 59.75,
+          "prevClose": 59.05,
+          "prevCloseChange": 1.185,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MATTEL INC",
+          "symbol": "MAT",
+          "sharesOutstanding": 338,
+          "size": 8471571430.000001,
+          "last": 25.045,
+          "prevClose": 25.04,
+          "prevCloseChange": 0.02,
+          "colour": "#414554"
+        },
+        {
+          "name": "VF CORP",
+          "symbol": "VFC",
+          "sharesOutstanding": 427,
+          "size": 31308748840,
+          "last": 73.16,
+          "prevClose": 72.93,
+          "prevCloseChange": 0.315,
+          "colour": "#414554"
+        },
+        {
+          "name": "FAMILY DLR STORES INC",
+          "symbol": "FDO",
+          "sharesOutstanding": 114,
+          "size": 9145539680,
+          "last": 79.91,
+          "prevClose": 79.3,
+          "prevCloseChange": 0.769,
+          "colour": "#414554"
+        },
+        {
+          "name": "EXPEDIA NEW",
+          "symbol": "EXPE",
+          "sharesOutstanding": 113,
+          "size": 10590572800,
+          "last": 92.965,
+          "prevClose": 91.35,
+          "prevCloseChange": 1.768,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MCDONALDS CORP",
+          "symbol": "MCD",
+          "sharesOutstanding": 961,
+          "size": 93372710850,
+          "last": 97.15,
+          "prevClose": 96.35,
+          "prevCloseChange": 0.83,
+          "colour": "#414554"
+        },
+        {
+          "name": "CARNIVAL CORP",
+          "symbol": "CCL",
+          "sharesOutstanding": 592,
+          "size": 27420712000,
+          "last": 46.3,
+          "prevClose": 45.33,
+          "prevCloseChange": 2.14,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "STARBUCKS CP",
+          "symbol": "SBUX",
+          "sharesOutstanding": 749,
+          "size": 70514941000,
+          "last": 94.045,
+          "prevClose": 93.29,
+          "prevCloseChange": 0.809,
+          "colour": "#414554"
+        },
+        {
+          "name": "WHIRLPOOL CORP",
+          "symbol": "WHR",
+          "sharesOutstanding": 78,
+          "size": 15592197750,
+          "last": 198.69,
+          "prevClose": 197.62,
+          "prevCloseChange": 0.541,
+          "colour": "#414554"
+        },
+        {
+          "name": "LEGGETT & PLATT INC",
+          "symbol": "LEG",
+          "sharesOutstanding": 138,
+          "size": 6338967900,
+          "last": 45.82,
+          "prevClose": 45.47,
+          "prevCloseChange": 0.77,
+          "colour": "#414554"
+        },
+        {
+          "name": "MARRIOT INTERNATIONAL CL A",
+          "symbol": "MAR",
+          "sharesOutstanding": 276,
+          "size": 23088491580,
+          "last": 83.49,
+          "prevClose": 82.08,
+          "prevCloseChange": 1.718,
+          "colour": "#35764E"
+        },
+        {
+          "name": "LENNAR CORP",
+          "symbol": "LEN",
+          "sharesOutstanding": 173,
+          "size": 8575009000,
+          "last": 49.31,
+          "prevClose": 49.2,
+          "prevCloseChange": 0.224,
+          "colour": "#414554"
+        },
+        {
+          "name": "L BRANDS INC",
+          "symbol": "LB",
+          "sharesOutstanding": 292,
+          "size": 26956012200,
+          "last": 92.1,
+          "prevClose": 90.98,
+          "prevCloseChange": 1.231,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GANNETT INC",
+          "symbol": "GCI",
+          "sharesOutstanding": 226,
+          "size": 8236996120.000001,
+          "last": 36.31,
+          "prevClose": 35.56,
+          "prevCloseChange": 2.109,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CBS CORP CL B",
+          "symbol": "CBS",
+          "sharesOutstanding": 459,
+          "size": 28522345600,
+          "last": 62.08,
+          "prevClose": 60.93,
+          "prevCloseChange": 1.887,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WYNDHAM WORLDWIDE CORP",
+          "symbol": "WYN",
+          "sharesOutstanding": 120,
+          "size": 10918938060,
+          "last": 90.57,
+          "prevClose": 89.59,
+          "prevCloseChange": 1.094,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BEST BUY INC",
+          "symbol": "BBY",
+          "sharesOutstanding": 350,
+          "size": 14602138800,
+          "last": 41.63,
+          "prevClose": 40.53,
+          "prevCloseChange": 2.714,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "PVH CORP",
+          "symbol": "PVH",
+          "sharesOutstanding": 82,
+          "size": 7779251850,
+          "last": 94.35,
+          "prevClose": 97.3,
+          "prevCloseChange": -3.032,
+          "colour": "#F63538"
+        },
+        {
+          "name": "DOLLAR TREE INC",
+          "symbol": "DLTR",
+          "sharesOutstanding": 205,
+          "size": 17215296340,
+          "last": 83.71,
+          "prevClose": 81.91,
+          "prevCloseChange": 2.198,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "UNDER ARMOUR INC",
+          "symbol": "UA",
+          "sharesOutstanding": 177,
+          "size": 13704521770.000002,
+          "last": 77.29,
+          "prevClose": 76.05,
+          "prevCloseChange": 1.631,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SHERWIN WILLIAMS CO",
+          "symbol": "SHW",
+          "sharesOutstanding": 95,
+          "size": 27393181660,
+          "last": 288.14,
+          "prevClose": 285.24,
+          "prevCloseChange": 1.017,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TRIPADVISOR INC",
+          "symbol": "TRIP",
+          "sharesOutstanding": 130,
+          "size": 10822662590,
+          "last": 83.17,
+          "prevClose": 82.52,
+          "prevCloseChange": 0.788,
+          "colour": "#414554"
+        },
+        {
+          "name": "NEWS CORP CL A",
+          "symbol": "NWSA",
+          "sharesOutstanding": 381,
+          "size": 6448144320.000001,
+          "last": 16.92,
+          "prevClose": 16.7,
+          "prevCloseChange": 1.317,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TJX COMPANIES",
+          "symbol": "TJX",
+          "sharesOutstanding": 688,
+          "size": 47299874000,
+          "last": 68.66,
+          "prevClose": 67.99,
+          "prevCloseChange": 0.985,
+          "colour": "#414554"
+        },
+        {
+          "name": "NIKE INC",
+          "symbol": "NKE",
+          "sharesOutstanding": 686,
+          "size": 66194583640,
+          "last": 96.44,
+          "prevClose": 95.81,
+          "prevCloseChange": 0.658,
+          "colour": "#414554"
+        },
+        {
+          "name": "MICHAEL KORS HOLDINGS LTD",
+          "symbol": "KORS",
+          "sharesOutstanding": 200,
+          "size": 12954784680,
+          "last": 64.53,
+          "prevClose": 64.74,
+          "prevCloseChange": -0.324,
+          "colour": "#414554"
+        },
+        {
+          "name": "RALPH LAUREN CORP",
+          "symbol": "RL",
+          "sharesOutstanding": 61,
+          "size": 7967860099.999999,
+          "last": 129.7,
+          "prevClose": 130.01,
+          "prevCloseChange": -0.238,
+          "colour": "#414554"
+        },
+        {
+          "name": "TARGET CORP",
+          "symbol": "TGT",
+          "sharesOutstanding": 636,
+          "size": 51269232360,
+          "last": 80.49,
+          "prevClose": 79.18,
+          "prevCloseChange": 1.654,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TIFFANY & CO",
+          "symbol": "TIF",
+          "sharesOutstanding": 129,
+          "size": 11094692580,
+          "last": 85.77,
+          "prevClose": 85.79,
+          "prevCloseChange": -0.023,
+          "colour": "#414554"
+        },
+        {
+          "name": "D R HORTON INC",
+          "symbol": "DHI",
+          "sharesOutstanding": 365,
+          "size": 9727107720,
+          "last": 26.62,
+          "prevClose": 26.35,
+          "prevCloseChange": 1.025,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GARMIN LTD SWITZERLAND",
+          "symbol": "GRMN",
+          "sharesOutstanding": 208,
+          "size": 10141672980,
+          "last": 48.74,
+          "prevClose": 48,
+          "prevCloseChange": 1.542,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE WALT DISNEY CO",
+          "symbol": "DIS",
+          "sharesOutstanding": 1,
+          "size": 182482079310,
+          "last": 107.37,
+          "prevClose": 106.44,
+          "prevCloseChange": 0.874,
+          "colour": "#414554"
+        },
+        {
+          "name": "MOHAWK INDUSTRIES INC",
+          "symbol": "MHK",
+          "sharesOutstanding": 73,
+          "size": 13152571350,
+          "last": 180.15,
+          "prevClose": 178.6,
+          "prevCloseChange": 0.868,
+          "colour": "#414554"
+        },
+        {
+          "name": "GENUINE PARTS CO",
+          "symbol": "GPC",
+          "sharesOutstanding": 152,
+          "size": 14659104000,
+          "last": 96,
+          "prevClose": 94.47,
+          "prevCloseChange": 1.62,
+          "colour": "#35764E"
+        },
+        {
+          "name": "COACH INC",
+          "symbol": "COH",
+          "sharesOutstanding": 275,
+          "size": 11424920020,
+          "last": 41.42,
+          "prevClose": 41.24,
+          "prevCloseChange": 0.436,
+          "colour": "#414554"
+        },
+        {
+          "name": "NEWELL RUBBERMAID INC",
+          "symbol": "NWL",
+          "sharesOutstanding": 268,
+          "size": 10466130000,
+          "last": 38.98,
+          "prevClose": 38.6,
+          "prevCloseChange": 0.984,
+          "colour": "#414554"
+        },
+        {
+          "name": "LOWES COMPANIES INC",
+          "symbol": "LOW",
+          "sharesOutstanding": 972,
+          "size": 73396254960,
+          "last": 75.44,
+          "prevClose": 74.16,
+          "prevCloseChange": 1.726,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CARMAX INC",
+          "symbol": "KMX",
+          "sharesOutstanding": 210,
+          "size": 13478570160.000002,
+          "last": 64.18,
+          "prevClose": 63.32,
+          "prevCloseChange": 1.358,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CHIPOTLE MEXICAN GRILL INC",
+          "symbol": "CMG",
+          "sharesOutstanding": 31,
+          "size": 21060215360,
+          "last": 678.88,
+          "prevClose": 674.51,
+          "prevCloseChange": 0.648,
+          "colour": "#414554"
+        },
+        {
+          "name": "DIRECTV",
+          "symbol": "DTV",
+          "sharesOutstanding": 502,
+          "size": 43037251595,
+          "last": 85.595,
+          "prevClose": 85.18,
+          "prevCloseChange": 0.487,
+          "colour": "#414554"
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "symbol": "AMZN",
+          "sharesOutstanding": 464,
+          "size": 173377766400,
+          "last": 373.35,
+          "prevClose": 370.58,
+          "prevCloseChange": 0.747,
+          "colour": "#414554"
+        },
+        {
+          "name": "GAMESTOP CORP CL A",
+          "symbol": "GME",
+          "sharesOutstanding": 108,
+          "size": 4458881350,
+          "last": 41.09,
+          "prevClose": 40.7,
+          "prevCloseChange": 0.958,
+          "colour": "#414554"
+        },
+        {
+          "name": "DISCOVERY COMMUNICATIONS SRS A",
+          "symbol": "DISCA",
+          "sharesOutstanding": 148,
+          "size": 4846374595,
+          "last": 32.605,
+          "prevClose": 32.03,
+          "prevCloseChange": 1.795,
+          "colour": "#35764E"
+        },
+        {
+          "name": "OMNICOM GROUP INC",
+          "symbol": "OMC",
+          "sharesOutstanding": 246,
+          "size": 19241770790,
+          "last": 77.99,
+          "prevClose": 77.06,
+          "prevCloseChange": 1.207,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BED BATH & BEYOND INC",
+          "symbol": "BBBY",
+          "sharesOutstanding": 185,
+          "size": 14250444780,
+          "last": 76.78,
+          "prevClose": 75.05,
+          "prevCloseChange": 2.305,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "KOHLS CORP",
+          "symbol": "KSS",
+          "sharesOutstanding": 202,
+          "size": 14989067800,
+          "last": 74.2,
+          "prevClose": 74.1,
+          "prevCloseChange": 0.135,
+          "colour": "#414554"
+        },
+        {
+          "name": "HARLEY DAVIDSON INC",
+          "symbol": "HOG",
+          "sharesOutstanding": 211,
+          "size": 12530681760,
+          "last": 59.24,
+          "prevClose": 58.8,
+          "prevCloseChange": 0.748,
+          "colour": "#414554"
+        },
+        {
+          "name": "DELPHI AUTOMOTIVE PLC",
+          "symbol": "DLPH",
+          "sharesOutstanding": 296,
+          "size": 23177064120,
+          "last": 78.28,
+          "prevClose": 76.8,
+          "prevCloseChange": 1.927,
+          "colour": "#35764E"
+        },
+        {
+          "name": "STARWOOD HOTELS & RESORTS WORLDW",
+          "symbol": "HOT",
+          "sharesOutstanding": 171,
+          "size": 13994614920,
+          "last": 81.51,
+          "prevClose": 80.77,
+          "prevCloseChange": 0.916,
+          "colour": "#414554"
+        },
+        {
+          "name": "YUM BRANDS INC",
+          "symbol": "YUM",
+          "sharesOutstanding": 433,
+          "size": 33865261850,
+          "last": 78.19,
+          "prevClose": 77.51,
+          "prevCloseChange": 0.877,
+          "colour": "#414554"
+        },
+        {
+          "name": "URBAN OUTFITTERS INC",
+          "symbol": "URBN",
+          "sharesOutstanding": 131,
+          "size": 5860790880,
+          "last": 44.52,
+          "prevClose": 44.83,
+          "prevCloseChange": -0.692,
+          "colour": "#414554"
+        },
+        {
+          "name": "SNAP ON",
+          "symbol": "SNA",
+          "sharesOutstanding": 58,
+          "size": 8383224519.999999,
+          "last": 144.23,
+          "prevClose": 142.5,
+          "prevCloseChange": 1.214,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SCRIPPS NETWORKS INTERACTIVE INC",
+          "symbol": "SNI",
+          "sharesOutstanding": 97,
+          "size": 7076080740,
+          "last": 72.69,
+          "prevClose": 71.91,
+          "prevCloseChange": 1.085,
+          "colour": "#35764E"
+        },
+        {
+          "name": "H&R BLOCK INC",
+          "symbol": "HRB",
+          "sharesOutstanding": 275,
+          "size": 8851975680,
+          "last": 32.16,
+          "prevClose": 31.81,
+          "prevCloseChange": 1.1,
+          "colour": "#35764E"
+        },
+        {
+          "name": "INTERPUBLIC GROUP COS",
+          "symbol": "IPG",
+          "sharesOutstanding": 412,
+          "size": 9034347490,
+          "last": 21.91,
+          "prevClose": 21.54,
+          "prevCloseChange": 1.718,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DARDEN RESTAURANTS INC",
+          "symbol": "DRI",
+          "sharesOutstanding": 124,
+          "size": 8051825860,
+          "last": 64.91,
+          "prevClose": 63.1,
+          "prevCloseChange": 2.868,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "GAP INC",
+          "symbol": "GPS",
+          "sharesOutstanding": 423,
+          "size": 17480981520,
+          "last": 41.27,
+          "prevClose": 41.13,
+          "prevCloseChange": 0.34,
+          "colour": "#414554"
+        },
+        {
+          "name": "VIACOM CL B",
+          "symbol": "VIAB",
+          "sharesOutstanding": 355,
+          "size": 24619344599.999996,
+          "last": 69.32,
+          "prevClose": 68.13,
+          "prevCloseChange": 1.747,
+          "colour": "#35764E"
+        }
+      ]
+    },
+    {
+      "name": "Industrials",
+      "children": [
+        {
+          "name": "ROPER INDUSTRIES INC",
+          "symbol": "ROP",
+          "sharesOutstanding": 100,
+          "size": 17098825660,
+          "last": 170.38,
+          "prevClose": 166.92,
+          "prevCloseChange": 2.073,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "DEERE & CO",
+          "symbol": "DE",
+          "sharesOutstanding": 339,
+          "size": 30262673440,
+          "last": 89.14,
+          "prevClose": 89.49,
+          "prevCloseChange": -0.391,
+          "colour": "#414554"
+        },
+        {
+          "name": "ROCKWELL AUTOMATION INC",
+          "symbol": "ROK",
+          "sharesOutstanding": 135,
+          "size": 15521882400,
+          "last": 114.6,
+          "prevClose": 111.52,
+          "prevCloseChange": 2.762,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "THE PRICELINE GROUP INC",
+          "symbol": "PCLN",
+          "sharesOutstanding": 51,
+          "size": 60168215160,
+          "last": 1158.44,
+          "prevClose": 1157.77,
+          "prevCloseChange": 0.058,
+          "colour": "#414554"
+        },
+        {
+          "name": "GENERAL DYNAMICS CORP",
+          "symbol": "GD",
+          "sharesOutstanding": 331,
+          "size": 44770223850,
+          "last": 134.97,
+          "prevClose": 132.19,
+          "prevCloseChange": 2.103,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "GENERAL ELECTRIC CO",
+          "symbol": "GE",
+          "sharesOutstanding": 10,
+          "size": 256217773200,
+          "last": 25.45,
+          "prevClose": 25.04,
+          "prevCloseChange": 1.637,
+          "colour": "#35764E"
+        },
+        {
+          "name": "RYDER SYSTEM INC",
+          "symbol": "R",
+          "sharesOutstanding": 52,
+          "size": 5020083120,
+          "last": 94.74,
+          "prevClose": 93.12,
+          "prevCloseChange": 1.74,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TYCO INTERNATIONAL LTD",
+          "symbol": "TYC",
+          "sharesOutstanding": 486,
+          "size": 20582882160,
+          "last": 42.32,
+          "prevClose": 42.08,
+          "prevCloseChange": 0.57,
+          "colour": "#414554"
+        },
+        {
+          "name": "TEXTRON INC",
+          "symbol": "TXT",
+          "sharesOutstanding": 277,
+          "size": 12155154920,
+          "last": 43.88,
+          "prevClose": 42.8,
+          "prevCloseChange": 2.523,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "BOEING CO",
+          "symbol": "BA",
+          "sharesOutstanding": 704,
+          "size": 108243303959.99998,
+          "last": 153.67,
+          "prevClose": 151.57,
+          "prevCloseChange": 1.385,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AVERY DENNISON CORP",
+          "symbol": "AVY",
+          "sharesOutstanding": 90,
+          "size": 4768128860,
+          "last": 52.69,
+          "prevClose": 52.01,
+          "prevCloseChange": 1.307,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PALL CORP",
+          "symbol": "PLL",
+          "sharesOutstanding": 106,
+          "size": 10962039550,
+          "last": 102.79,
+          "prevClose": 99.61,
+          "prevCloseChange": 3.192,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "DELTA AIR LINES INC",
+          "symbol": "DAL",
+          "sharesOutstanding": 824,
+          "size": 38048395520,
+          "last": 46.16,
+          "prevClose": 45.5,
+          "prevCloseChange": 1.451,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALLEGION PUBLIC LTD CO",
+          "symbol": "ALLE",
+          "sharesOutstanding": 96,
+          "size": 5670113460,
+          "last": 58.74,
+          "prevClose": 58.16,
+          "prevCloseChange": 0.997,
+          "colour": "#414554"
+        },
+        {
+          "name": "CINTAS CP",
+          "symbol": "CTAS",
+          "sharesOutstanding": 117,
+          "size": 10016291360,
+          "last": 85.37,
+          "prevClose": 82.56,
+          "prevCloseChange": 3.404,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "PARKER HANNIFIN CORP",
+          "symbol": "PH",
+          "sharesOutstanding": 142,
+          "size": 17100298200,
+          "last": 120.04,
+          "prevClose": 117.72,
+          "prevCloseChange": 1.971,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ROBERT HALF INTERNATIONAL INC",
+          "symbol": "RHI",
+          "sharesOutstanding": 135,
+          "size": 8276034840,
+          "last": 61.24,
+          "prevClose": 60.21,
+          "prevCloseChange": 1.711,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PRECISION CASTPARTS CORP",
+          "symbol": "PCP",
+          "sharesOutstanding": 141,
+          "size": 29347393680,
+          "last": 207.01,
+          "prevClose": 204.59,
+          "prevCloseChange": 1.183,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CATERPILLAR INC DEL",
+          "symbol": "CAT",
+          "sharesOutstanding": 606,
+          "size": 48475174990,
+          "last": 79.97,
+          "prevClose": 79.23,
+          "prevCloseChange": 0.934,
+          "colour": "#414554"
+        },
+        {
+          "name": "FEDEX CORP",
+          "symbol": "FDX",
+          "sharesOutstanding": 283,
+          "size": 50237061160,
+          "last": 177.32,
+          "prevClose": 173.32,
+          "prevCloseChange": 2.308,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "JACOBS ENGR GROUP INC DEL",
+          "symbol": "JEC",
+          "sharesOutstanding": 128,
+          "size": 5601796300,
+          "last": 43.66,
+          "prevClose": 43.22,
+          "prevCloseChange": 1.018,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PITNEY BOWES INC",
+          "symbol": "PBI",
+          "sharesOutstanding": 201,
+          "size": 4584884280,
+          "last": 22.74,
+          "prevClose": 22.44,
+          "prevCloseChange": 1.337,
+          "colour": "#35764E"
+        },
+        {
+          "name": "INGERSOLL RAND PLC",
+          "symbol": "IR",
+          "sharesOutstanding": 288,
+          "size": 19762768200,
+          "last": 68.6,
+          "prevClose": 67.22,
+          "prevCloseChange": 2.053,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "EXPEDITORS INTL WASH",
+          "symbol": "EXPD",
+          "sharesOutstanding": 191,
+          "size": 9399683040,
+          "last": 49.02,
+          "prevClose": 48.04,
+          "prevCloseChange": 2.04,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "MASCO CORP",
+          "symbol": "MAS",
+          "sharesOutstanding": 349,
+          "size": 9189538050,
+          "last": 26.29,
+          "prevClose": 26.46,
+          "prevCloseChange": -0.642,
+          "colour": "#414554"
+        },
+        {
+          "name": "NORTHROP GRUMMAN CORP",
+          "symbol": "NOC",
+          "sharesOutstanding": 198,
+          "size": 32010824040,
+          "last": 161.34,
+          "prevClose": 157.56,
+          "prevCloseChange": 2.399,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "W.W. GRAINGER INC",
+          "symbol": "GWW",
+          "sharesOutstanding": 67,
+          "size": 15782102420,
+          "last": 234.01,
+          "prevClose": 230.72,
+          "prevCloseChange": 1.426,
+          "colour": "#35764E"
+        },
+        {
+          "name": "QUANTA SERVICES INC",
+          "symbol": "PWR",
+          "sharesOutstanding": 204,
+          "size": 5748385280,
+          "last": 28.16,
+          "prevClose": 27.67,
+          "prevCloseChange": 1.771,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FIRST SOLAR INC",
+          "symbol": "FSLR",
+          "sharesOutstanding": 100,
+          "size": 6039584240,
+          "last": 60.22,
+          "prevClose": 60.6,
+          "prevCloseChange": -0.627,
+          "colour": "#414554"
+        },
+        {
+          "name": "3M CO",
+          "symbol": "MMM",
+          "sharesOutstanding": 634,
+          "size": 105501797500,
+          "last": 166.21,
+          "prevClose": 162.74,
+          "prevCloseChange": 2.132,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "EMERSON ELEC CO",
+          "symbol": "EMR",
+          "sharesOutstanding": 685,
+          "size": 38528908460,
+          "last": 56.23,
+          "prevClose": 55.26,
+          "prevCloseChange": 1.755,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WASTE MANAGEMENT INC",
+          "symbol": "WM",
+          "sharesOutstanding": 459,
+          "size": 24976563200,
+          "last": 54.4,
+          "prevClose": 53.32,
+          "prevCloseChange": 2.026,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "DUN & BRADSTREET CORP DEL NE",
+          "symbol": "DNB",
+          "sharesOutstanding": 35,
+          "size": 4630649060,
+          "last": 128.74,
+          "prevClose": 127.71,
+          "prevCloseChange": 0.807,
+          "colour": "#414554"
+        },
+        {
+          "name": "XYLEM INC",
+          "symbol": "XYL",
+          "sharesOutstanding": 182,
+          "size": 6386319300,
+          "last": 35.03,
+          "prevClose": 34.61,
+          "prevCloseChange": 1.214,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE ADT CORP",
+          "symbol": "ADT",
+          "sharesOutstanding": 171,
+          "size": 6669793440,
+          "last": 38.97,
+          "prevClose": 38.39,
+          "prevCloseChange": 1.511,
+          "colour": "#35764E"
+        },
+        {
+          "name": "LOCKHEED MARTIN CORP",
+          "symbol": "LMT",
+          "sharesOutstanding": 315,
+          "size": 63782682240.00001,
+          "last": 202.11,
+          "prevClose": 197.11,
+          "prevCloseChange": 2.537,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "DANAHER CORP DEL",
+          "symbol": "DHR",
+          "sharesOutstanding": 705,
+          "size": 61261530400,
+          "last": 86.8,
+          "prevClose": 85.2,
+          "prevCloseChange": 1.878,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FASTENAL CO",
+          "symbol": "FAST",
+          "sharesOutstanding": 295,
+          "size": 12220113015,
+          "last": 41.355,
+          "prevClose": 40.83,
+          "prevCloseChange": 1.286,
+          "colour": "#35764E"
+        },
+        {
+          "name": "UNION PACIFIC CORP",
+          "symbol": "UNP",
+          "sharesOutstanding": 881,
+          "size": 102863468480,
+          "last": 116.72,
+          "prevClose": 114.52,
+          "prevCloseChange": 1.921,
+          "colour": "#35764E"
+        },
+        {
+          "name": "L 3 COMMUNICATIONS HLDGS",
+          "symbol": "LLL",
+          "sharesOutstanding": 82,
+          "size": 10480103730,
+          "last": 126.99,
+          "prevClose": 124.89,
+          "prevCloseChange": 1.681,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PENTAIR PLC",
+          "symbol": "PNR",
+          "sharesOutstanding": 205,
+          "size": 13220449999.999998,
+          "last": 64.49,
+          "prevClose": 63.76,
+          "prevCloseChange": 1.145,
+          "colour": "#35764E"
+        },
+        {
+          "name": "UNITED PARCEL SERVICE CL B",
+          "symbol": "UPS",
+          "sharesOutstanding": 702,
+          "size": 70388335080,
+          "last": 100.26,
+          "prevClose": 98.53,
+          "prevCloseChange": 1.756,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ROCKWELL COLLINS INC",
+          "symbol": "COL",
+          "sharesOutstanding": 132,
+          "size": 12556682040,
+          "last": 94.92,
+          "prevClose": 93.23,
+          "prevCloseChange": 1.813,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CH ROBINSON WORLDWIDE INC",
+          "symbol": "CHRW",
+          "sharesOutstanding": 146,
+          "size": 11025890150,
+          "last": 75.35,
+          "prevClose": 73.45,
+          "prevCloseChange": 2.587,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CUMMINS INC",
+          "symbol": "CMI",
+          "sharesOutstanding": 181,
+          "size": 25563413000,
+          "last": 140.5,
+          "prevClose": 139.27,
+          "prevCloseChange": 0.883,
+          "colour": "#414554"
+        },
+        {
+          "name": "CORNING",
+          "symbol": "GLW",
+          "sharesOutstanding": 1,
+          "size": 30143495110,
+          "last": 23.71,
+          "prevClose": 23,
+          "prevCloseChange": 3.087,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "ILLINOIS TOOL WORKS INC",
+          "symbol": "ITW",
+          "sharesOutstanding": 379,
+          "size": 37595608760,
+          "last": 99.08,
+          "prevClose": 97.66,
+          "prevCloseChange": 1.454,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FLUOR CORP NEW",
+          "symbol": "FLR",
+          "sharesOutstanding": 147,
+          "size": 8463726659.999999,
+          "last": 57.41,
+          "prevClose": 56.69,
+          "prevCloseChange": 1.27,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FLOWSERVE CORP",
+          "symbol": "FLS",
+          "sharesOutstanding": 134,
+          "size": 7673309440,
+          "last": 56.96,
+          "prevClose": 56.38,
+          "prevCloseChange": 1.029,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HONEYWELL INTERNATIONAL",
+          "symbol": "HON",
+          "sharesOutstanding": 782,
+          "size": 80442103140,
+          "last": 102.78,
+          "prevClose": 101.17,
+          "prevCloseChange": 1.591,
+          "colour": "#35764E"
+        },
+        {
+          "name": "UNITED TECH CORP",
+          "symbol": "UTX",
+          "sharesOutstanding": 907,
+          "size": 108922340990,
+          "last": 120.07,
+          "prevClose": 118.74,
+          "prevCloseChange": 1.12,
+          "colour": "#35764E"
+        },
+        {
+          "name": "KANSAS CITY SOUTHERN IND",
+          "symbol": "KSU",
+          "sharesOutstanding": 110,
+          "size": 12804363670,
+          "last": 115.97,
+          "prevClose": 114.43,
+          "prevCloseChange": 1.346,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NORFOLK SOUTHERN CORP",
+          "symbol": "NSC",
+          "sharesOutstanding": 307,
+          "size": 33993618960,
+          "last": 110.58,
+          "prevClose": 108.65,
+          "prevCloseChange": 1.776,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EATON CORP PLC ORD",
+          "symbol": "ETN",
+          "sharesOutstanding": 473,
+          "size": 32071449000.000004,
+          "last": 67.79,
+          "prevClose": 66.64,
+          "prevCloseChange": 1.726,
+          "colour": "#35764E"
+        },
+        {
+          "name": "IRON MOUNTAIN INC",
+          "symbol": "IRM",
+          "sharesOutstanding": 210,
+          "size": 7898707200,
+          "last": 37.6,
+          "prevClose": 36.87,
+          "prevCloseChange": 1.98,
+          "colour": "#35764E"
+        },
+        {
+          "name": "REPUBLIC SERVICES INC",
+          "symbol": "RSG",
+          "sharesOutstanding": 353,
+          "size": 14655479090,
+          "last": 41.51,
+          "prevClose": 40.78,
+          "prevCloseChange": 1.79,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CSX CORP",
+          "symbol": "CSX",
+          "sharesOutstanding": 990,
+          "size": 34332982899.999996,
+          "last": 34.66,
+          "prevClose": 34.13,
+          "prevCloseChange": 1.553,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DOVER CORP",
+          "symbol": "DOV",
+          "sharesOutstanding": 163,
+          "size": 11636521650,
+          "last": 71.37,
+          "prevClose": 71.25,
+          "prevCloseChange": 0.168,
+          "colour": "#414554"
+        },
+        {
+          "name": "PACCAR INC",
+          "symbol": "PCAR",
+          "sharesOutstanding": 354,
+          "size": 22175491650,
+          "last": 62.525,
+          "prevClose": 61.73,
+          "prevCloseChange": 1.288,
+          "colour": "#35764E"
+        },
+        {
+          "name": "RAYTHEON CO",
+          "symbol": "RTN",
+          "sharesOutstanding": 307,
+          "size": 33682600800,
+          "last": 109.6,
+          "prevClose": 106.52,
+          "prevCloseChange": 2.891,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "SOUTHWEST AIRLINES CO",
+          "symbol": "LUV",
+          "sharesOutstanding": 675,
+          "size": 30757727000,
+          "last": 45.5,
+          "prevClose": 44.51,
+          "prevCloseChange": 2.224,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "AMPHENOL CORP NEW",
+          "symbol": "APH",
+          "sharesOutstanding": 310,
+          "size": 18397724760,
+          "last": 59.31,
+          "prevClose": 57.95,
+          "prevCloseChange": 2.347,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "STERICYCLE INC",
+          "symbol": "SRCL",
+          "sharesOutstanding": 84,
+          "size": 11779617880,
+          "last": 138.68,
+          "prevClose": 136.41,
+          "prevCloseChange": 1.664,
+          "colour": "#35764E"
+        }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "children": [
+        {
+          "name": "ELECTRONIC ARTS INC",
+          "symbol": "EA",
+          "sharesOutstanding": 310,
+          "size": 17304659340,
+          "last": 55.815,
+          "prevClose": 55.3,
+          "prevCloseChange": 0.931,
+          "colour": "#414554"
+        },
+        {
+          "name": "F5 NETWORKS INC",
+          "symbol": "FFIV",
+          "sharesOutstanding": 72,
+          "size": 8170823835,
+          "last": 113.265,
+          "prevClose": 112.36,
+          "prevCloseChange": 0.805,
+          "colour": "#414554"
+        },
+        {
+          "name": "FACEBOOK CL A",
+          "symbol": "FB",
+          "sharesOutstanding": 2,
+          "size": 174590595380,
+          "last": 78.07,
+          "prevClose": 78.05,
+          "prevCloseChange": 0.026,
+          "colour": "#414554"
+        },
+        {
+          "name": "FLIR SYSTEMS INC",
+          "symbol": "FLIR",
+          "sharesOutstanding": 139,
+          "size": 4512518040,
+          "last": 32.28,
+          "prevClose": 31.2,
+          "prevCloseChange": 3.462,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "AUTODESK INC",
+          "symbol": "ADSK",
+          "sharesOutstanding": 227,
+          "size": 13992541500,
+          "last": 61.5,
+          "prevClose": 60.48,
+          "prevCloseChange": 1.687,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALTERA CP",
+          "symbol": "ALTR",
+          "sharesOutstanding": 300,
+          "size": 10746393495.000002,
+          "last": 35.715,
+          "prevClose": 35.06,
+          "prevCloseChange": 1.868,
+          "colour": "#35764E"
+        },
+        {
+          "name": "YAHOO INC",
+          "symbol": "YHOO",
+          "sharesOutstanding": 936,
+          "size": 40730624710,
+          "last": 43.51,
+          "prevClose": 42.87,
+          "prevCloseChange": 1.493,
+          "colour": "#35764E"
+        },
+        {
+          "name": "VISA INC",
+          "symbol": "V",
+          "sharesOutstanding": 490,
+          "size": 132078597239.99998,
+          "last": 269.02,
+          "prevClose": 265.03,
+          "prevCloseChange": 1.505,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SEAGATE TECH IRELAND",
+          "symbol": "STX",
+          "sharesOutstanding": 377,
+          "size": 20701770960,
+          "last": 54.84,
+          "prevClose": 53.76,
+          "prevCloseChange": 2.009,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "TEXAS INSTRUMENTS",
+          "symbol": "TXN",
+          "sharesOutstanding": 1,
+          "size": 61079792860,
+          "last": 58.33,
+          "prevClose": 57.115,
+          "prevCloseChange": 2.127,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CA INC",
+          "symbol": "CA",
+          "sharesOutstanding": 442,
+          "size": 13904077000,
+          "last": 31.4,
+          "prevClose": 31.39,
+          "prevCloseChange": 0.032,
+          "colour": "#414554"
+        },
+        {
+          "name": "JUNIPER NETWORKS INC",
+          "symbol": "JNPR",
+          "sharesOutstanding": 406,
+          "size": 9629359740,
+          "last": 23.66,
+          "prevClose": 23.43,
+          "prevCloseChange": 0.982,
+          "colour": "#414554"
+        },
+        {
+          "name": "BROADCOM CP CL A",
+          "symbol": "BRCM",
+          "sharesOutstanding": 550,
+          "size": 24717000000,
+          "last": 44.94,
+          "prevClose": 44.27,
+          "prevCloseChange": 1.513,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NETAPP INC",
+          "symbol": "NTAP",
+          "sharesOutstanding": 311,
+          "size": 11584927279.999998,
+          "last": 37.16,
+          "prevClose": 36.815,
+          "prevCloseChange": 0.937,
+          "colour": "#414554"
+        },
+        {
+          "name": "FIDELITY NATL INFORMATION SV",
+          "symbol": "FIS",
+          "sharesOutstanding": 285,
+          "size": 18996864880,
+          "last": 66.64,
+          "prevClose": 65.3,
+          "prevCloseChange": 2.052,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "INTEL CP",
+          "symbol": "INTC",
+          "sharesOutstanding": 4,
+          "size": 146010880000,
+          "last": 30.83,
+          "prevClose": 30.93,
+          "prevCloseChange": -0.323,
+          "colour": "#414554"
+        },
+        {
+          "name": "CISCO SYSTEMS INC",
+          "symbol": "CSCO",
+          "sharesOutstanding": 5,
+          "size": 144464113700,
+          "last": 28.3,
+          "prevClose": 27.94,
+          "prevCloseChange": 1.288,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MASTERCARD",
+          "symbol": "MA",
+          "sharesOutstanding": 1,
+          "size": 98579963310,
+          "last": 88.71,
+          "prevClose": 87.75,
+          "prevCloseChange": 1.094,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MICRON TECH INC",
+          "symbol": "MU",
+          "sharesOutstanding": 1,
+          "size": 30708807065,
+          "last": 28.505,
+          "prevClose": 28.715,
+          "prevCloseChange": -0.731,
+          "colour": "#414554"
+        },
+        {
+          "name": "XILINX INC",
+          "symbol": "XLNX",
+          "sharesOutstanding": 261,
+          "size": 10826106170,
+          "last": 41.41,
+          "prevClose": 39.76,
+          "prevCloseChange": 4.15,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "INTUIT INC",
+          "symbol": "INTU",
+          "sharesOutstanding": 276,
+          "size": 27501029880,
+          "last": 99.38,
+          "prevClose": 97.77,
+          "prevCloseChange": 1.647,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SANDISK CP",
+          "symbol": "SNDK",
+          "sharesOutstanding": 213,
+          "size": 17842052640,
+          "last": 83.76,
+          "prevClose": 83.82,
+          "prevCloseChange": -0.072,
+          "colour": "#414554"
+        },
+        {
+          "name": "TE CONNECTIVITY LTD",
+          "symbol": "TEL",
+          "sharesOutstanding": 419,
+          "size": 30462270990,
+          "last": 72.69,
+          "prevClose": 71.04,
+          "prevCloseChange": 2.323,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "GOOGLE CL A",
+          "symbol": "GOOGL",
+          "sharesOutstanding": 286,
+          "size": 161155858320,
+          "last": 561.64,
+          "prevClose": 553,
+          "prevCloseChange": 1.562,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WESTERN DIGITAL CORP",
+          "symbol": "WDC",
+          "sharesOutstanding": 231,
+          "size": 22687342400,
+          "last": 98.2,
+          "prevClose": 97.19,
+          "prevCloseChange": 1.039,
+          "colour": "#35764E"
+        },
+        {
+          "name": "VERISIGN INC",
+          "symbol": "VRSN",
+          "sharesOutstanding": 116,
+          "size": 7486420200,
+          "last": 64.05,
+          "prevClose": 63.63,
+          "prevCloseChange": 0.66,
+          "colour": "#414554"
+        },
+        {
+          "name": "LAM RESEARCH CP",
+          "symbol": "LRCX",
+          "sharesOutstanding": 159,
+          "size": 12727755240,
+          "last": 79.89,
+          "prevClose": 78.71,
+          "prevCloseChange": 1.499,
+          "colour": "#35764E"
+        },
+        {
+          "name": "RED HAT INC",
+          "symbol": "RHT",
+          "sharesOutstanding": 183,
+          "size": 12343829500,
+          "last": 67.3,
+          "prevClose": 66.15,
+          "prevCloseChange": 1.738,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TERADATA CORP",
+          "symbol": "TDC",
+          "sharesOutstanding": 145,
+          "size": 6123878500,
+          "last": 42.19,
+          "prevClose": 42.14,
+          "prevCloseChange": 0.119,
+          "colour": "#414554"
+        },
+        {
+          "name": "LINEAR TECHNOLOGY CP",
+          "symbol": "LLTC",
+          "sharesOutstanding": 239,
+          "size": 11377262610,
+          "last": 47.565,
+          "prevClose": 46.8,
+          "prevCloseChange": 1.635,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PAYCHEX INC",
+          "symbol": "PAYX",
+          "sharesOutstanding": 363,
+          "size": 18522312735,
+          "last": 51.005,
+          "prevClose": 49.92,
+          "prevCloseChange": 2.173,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "INTERNATIONAL BUSINESS MACHINES",
+          "symbol": "IBM",
+          "sharesOutstanding": 988,
+          "size": 155261641920,
+          "last": 157.08,
+          "prevClose": 154.28,
+          "prevCloseChange": 1.815,
+          "colour": "#35764E"
+        },
+        {
+          "name": "JABIL CIRCUIT INC",
+          "symbol": "JBL",
+          "sharesOutstanding": 193,
+          "size": 4293437280,
+          "last": 22.22,
+          "prevClose": 21.73,
+          "prevCloseChange": 2.255,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CITRIX SYSTEMS INC",
+          "symbol": "CTXS",
+          "sharesOutstanding": 159,
+          "size": 9850076380,
+          "last": 61.63,
+          "prevClose": 60.265,
+          "prevCloseChange": 2.265,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "MICROSOFT CP",
+          "symbol": "MSFT",
+          "sharesOutstanding": 8,
+          "size": 340949304600,
+          "last": 41.56,
+          "prevClose": 41.38,
+          "prevCloseChange": 0.435,
+          "colour": "#414554"
+        },
+        {
+          "name": "ADOBE SYSTEMS INC",
+          "symbol": "ADBE",
+          "sharesOutstanding": 500,
+          "size": 39237298590,
+          "last": 78.33,
+          "prevClose": 77.62,
+          "prevCloseChange": 0.915,
+          "colour": "#414554"
+        },
+        {
+          "name": "E M C CORP MASS",
+          "symbol": "EMC",
+          "sharesOutstanding": 1,
+          "size": 52048117660,
+          "last": 26.18,
+          "prevClose": 26,
+          "prevCloseChange": 0.692,
+          "colour": "#414554"
+        },
+        {
+          "name": "APPLE INC",
+          "symbol": "AAPL",
+          "sharesOutstanding": 5,
+          "size": 727802262600,
+          "last": 124.95,
+          "prevClose": 123.59,
+          "prevCloseChange": 1.1,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ACCENTURE PLC",
+          "symbol": "ACN",
+          "sharesOutstanding": 783,
+          "size": 69672276570,
+          "last": 88.91,
+          "prevClose": 87.87,
+          "prevCloseChange": 1.184,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE WESTERN UNION CO",
+          "symbol": "WU",
+          "sharesOutstanding": 521,
+          "size": 10225536450,
+          "last": 19.61,
+          "prevClose": 19.51,
+          "prevCloseChange": 0.513,
+          "colour": "#414554"
+        },
+        {
+          "name": "NETFLIX INC",
+          "symbol": "NFLX",
+          "sharesOutstanding": 60,
+          "size": 25528341060,
+          "last": 421.97,
+          "prevClose": 438.4,
+          "prevCloseChange": -3.748,
+          "colour": "#F63538"
+        },
+        {
+          "name": "APPLIED MATERIALS INC",
+          "symbol": "AMAT",
+          "sharesOutstanding": 1,
+          "size": 30189085290,
+          "last": 24.57,
+          "prevClose": 24.24,
+          "prevCloseChange": 1.361,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALLIANCE DATA SYSTEMS CORP",
+          "symbol": "ADS",
+          "sharesOutstanding": 62,
+          "size": 18170742600,
+          "last": 289.32,
+          "prevClose": 284.17,
+          "prevCloseChange": 1.812,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AUTOMATIC DATA PROCESSING INC",
+          "symbol": "ADP",
+          "sharesOutstanding": 475,
+          "size": 41504527200,
+          "last": 87.35,
+          "prevClose": 85.88,
+          "prevCloseChange": 1.712,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ANALOG DEVICES INC",
+          "symbol": "ADI",
+          "sharesOutstanding": 311,
+          "size": 18322109465,
+          "last": 58.795,
+          "prevClose": 57.53,
+          "prevCloseChange": 2.199,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "EBAY INC",
+          "symbol": "EBAY",
+          "sharesOutstanding": 1,
+          "size": 72082499790,
+          "last": 59.57,
+          "prevClose": 59.07,
+          "prevCloseChange": 0.846,
+          "colour": "#414554"
+        },
+        {
+          "name": "KLA-TENCOR CP",
+          "symbol": "KLAC",
+          "sharesOutstanding": 162,
+          "size": 10072216800,
+          "last": 61.92,
+          "prevClose": 60.71,
+          "prevCloseChange": 1.993,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AVAGO TECH LTD ORD",
+          "symbol": "AVGO",
+          "sharesOutstanding": 243,
+          "size": 31674463095.000004,
+          "last": 129.865,
+          "prevClose": 125,
+          "prevCloseChange": 3.892,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "HARRIS CORP",
+          "symbol": "HRS",
+          "sharesOutstanding": 104,
+          "size": 7572574870,
+          "last": 72.73,
+          "prevClose": 71.89,
+          "prevCloseChange": 1.168,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MICROCHIP TECHNOLOGY INC",
+          "symbol": "MCHP",
+          "sharesOutstanding": 201,
+          "size": 10159073070,
+          "last": 50.43,
+          "prevClose": 49.52,
+          "prevCloseChange": 1.838,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SYMANTEC CP",
+          "symbol": "SYMC",
+          "sharesOutstanding": 682,
+          "size": 16165582200,
+          "last": 23.69,
+          "prevClose": 23.36,
+          "prevCloseChange": 1.413,
+          "colour": "#35764E"
+        },
+        {
+          "name": "XEROX CORP",
+          "symbol": "XRX",
+          "sharesOutstanding": 1,
+          "size": 14336258000,
+          "last": 12.89,
+          "prevClose": 12.75,
+          "prevCloseChange": 1.098,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TOTAL SYSTEM SERVICES INC",
+          "symbol": "TSS",
+          "sharesOutstanding": 185,
+          "size": 7102372520,
+          "last": 38.38,
+          "prevClose": 37.8,
+          "prevCloseChange": 1.534,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FISERV INC",
+          "symbol": "FISV",
+          "sharesOutstanding": 238,
+          "size": 18777978310,
+          "last": 78.67,
+          "prevClose": 77.395,
+          "prevCloseChange": 1.647,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GOOGLE CL C CAPITAL STOCK",
+          "symbol": "GOOG",
+          "sharesOutstanding": 340,
+          "size": 188902703660,
+          "last": 554.51,
+          "prevClose": 547.32,
+          "prevCloseChange": 1.314,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MOTOROLA SOLUTIONS NEW",
+          "symbol": "MSI",
+          "sharesOutstanding": 216,
+          "size": 14270478940,
+          "last": 65.86,
+          "prevClose": 64.8,
+          "prevCloseChange": 1.636,
+          "colour": "#35764E"
+        },
+        {
+          "name": "COMPUTER SCIENCES CORP",
+          "symbol": "CSC",
+          "sharesOutstanding": 141,
+          "size": 9516441090,
+          "last": 67.47,
+          "prevClose": 67.37,
+          "prevCloseChange": 0.148,
+          "colour": "#414554"
+        },
+        {
+          "name": "AKAMAI TECHNOLOGIES INC",
+          "symbol": "AKAM",
+          "sharesOutstanding": 178,
+          "size": 12890354720,
+          "last": 72.08,
+          "prevClose": 70.81,
+          "prevCloseChange": 1.794,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NVIDIA CP",
+          "symbol": "NVDA",
+          "sharesOutstanding": 543,
+          "size": 12485044890,
+          "last": 22.97,
+          "prevClose": 22.7,
+          "prevCloseChange": 1.189,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AMETEK INC NEW",
+          "symbol": "AME",
+          "sharesOutstanding": 241,
+          "size": 12764550600,
+          "last": 52.95,
+          "prevClose": 51.91,
+          "prevCloseChange": 2.003,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "COGNIZANT TECH SOLUT CL A",
+          "symbol": "CTSH",
+          "sharesOutstanding": 609,
+          "size": 37814542510,
+          "last": 62.03,
+          "prevClose": 61.145,
+          "prevCloseChange": 1.447,
+          "colour": "#35764E"
+        },
+        {
+          "name": "QUALCOMM INC",
+          "symbol": "QCOM",
+          "sharesOutstanding": 1,
+          "size": 115469200000,
+          "last": 70,
+          "prevClose": 68.64,
+          "prevCloseChange": 1.981,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HEWLETT PACKARD CO",
+          "symbol": "HPQ",
+          "sharesOutstanding": 1,
+          "size": 58852560420.00001,
+          "last": 32.38,
+          "prevClose": 32.43,
+          "prevCloseChange": -0.154,
+          "colour": "#414554"
+        },
+        {
+          "name": "ORACLE CORP",
+          "symbol": "ORCL",
+          "sharesOutstanding": 4,
+          "size": 190629241470,
+          "last": 43.41,
+          "prevClose": 42.38,
+          "prevCloseChange": 2.43,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "SALESFORCE.COM INC",
+          "symbol": "CRM",
+          "sharesOutstanding": 650,
+          "size": 43219358000.00001,
+          "last": 66.43,
+          "prevClose": 64.6,
+          "prevCloseChange": 2.833,
+          "colour": "#2F9E4F"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "children": [
+        {
+          "name": "CONSOLIDATED EDISON INC",
+          "symbol": "ED",
+          "sharesOutstanding": 292,
+          "size": 18077109080,
+          "last": 61.72,
+          "prevClose": 60.84,
+          "prevCloseChange": 1.446,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FIRSTENERGY CORP",
+          "symbol": "FE",
+          "sharesOutstanding": 421,
+          "size": 14787700020,
+          "last": 35.11,
+          "prevClose": 34.6,
+          "prevCloseChange": 1.474,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DOMINION RESOURCES INC",
+          "symbol": "D",
+          "sharesOutstanding": 588,
+          "size": 41157897240,
+          "last": 69.98,
+          "prevClose": 68.96,
+          "prevCloseChange": 1.479,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ONEOK INC",
+          "symbol": "OKE",
+          "sharesOutstanding": 208,
+          "size": 9405137130,
+          "last": 45.13,
+          "prevClose": 44.87,
+          "prevCloseChange": 0.579,
+          "colour": "#414554"
+        },
+        {
+          "name": "NISOURCE INC",
+          "symbol": "NI",
+          "sharesOutstanding": 316,
+          "size": 13230310080.000002,
+          "last": 41.84,
+          "prevClose": 41.22,
+          "prevCloseChange": 1.504,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WISCONSIN ENERGY CORP",
+          "symbol": "WEC",
+          "sharesOutstanding": 225,
+          "size": 11063373420,
+          "last": 49.06,
+          "prevClose": 48.21,
+          "prevCloseChange": 1.763,
+          "colour": "#35764E"
+        },
+        {
+          "name": "QEP RESOURCES INC",
+          "symbol": "QEP",
+          "sharesOutstanding": 175,
+          "size": 3604041500,
+          "last": 20.53,
+          "prevClose": 20.41,
+          "prevCloseChange": 0.588,
+          "colour": "#414554"
+        },
+        {
+          "name": "INTEGRYS ENERGY GROUP INC",
+          "symbol": "TEG",
+          "sharesOutstanding": 79,
+          "size": 5801315650,
+          "last": 72.55,
+          "prevClose": 71.23,
+          "prevCloseChange": 1.853,
+          "colour": "#35764E"
+        },
+        {
+          "name": "XCEL ENERGY INC",
+          "symbol": "XEL",
+          "sharesOutstanding": 505,
+          "size": 17314806700,
+          "last": 34.22,
+          "prevClose": 33.74,
+          "prevCloseChange": 1.423,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PG&E CORP",
+          "symbol": "PCG",
+          "sharesOutstanding": 476,
+          "size": 25511220000,
+          "last": 53.55,
+          "prevClose": 51.8,
+          "prevCloseChange": 3.378,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "AGL RESOURCES INC",
+          "symbol": "GAS",
+          "sharesOutstanding": 119,
+          "size": 5765074260,
+          "last": 48.18,
+          "prevClose": 47.37,
+          "prevCloseChange": 1.71,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PUBLIC SERVICE ENTERPRISE GROUP",
+          "symbol": "PEG",
+          "sharesOutstanding": 506,
+          "size": 20877305260,
+          "last": 41.23,
+          "prevClose": 40.55,
+          "prevCloseChange": 1.677,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NEXTERA ENERGY INC",
+          "symbol": "NEE",
+          "sharesOutstanding": 443,
+          "size": 45662355410,
+          "last": 102.97,
+          "prevClose": 100.61,
+          "prevCloseChange": 2.346,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "SCANA CORP",
+          "symbol": "SCG",
+          "sharesOutstanding": 142,
+          "size": 7668926219.999999,
+          "last": 53.66,
+          "prevClose": 52.58,
+          "prevCloseChange": 2.054,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "AMERICAN ELEC PWR INC",
+          "symbol": "AEP",
+          "sharesOutstanding": 489,
+          "size": 27484872480,
+          "last": 56.16,
+          "prevClose": 55.31,
+          "prevCloseChange": 1.537,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AES CORP",
+          "symbol": "AES",
+          "sharesOutstanding": 703,
+          "size": 8445480040,
+          "last": 12.01,
+          "prevClose": 11.92,
+          "prevCloseChange": 0.755,
+          "colour": "#414554"
+        },
+        {
+          "name": "AMEREN CORP",
+          "symbol": "AEE",
+          "sharesOutstanding": 242,
+          "size": 10161553800,
+          "last": 41.88,
+          "prevClose": 41.13,
+          "prevCloseChange": 1.823,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TECO ENERGY INC",
+          "symbol": "TE",
+          "sharesOutstanding": 235,
+          "size": 4501188510,
+          "last": 19.11,
+          "prevClose": 18.8,
+          "prevCloseChange": 1.649,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SOUTHERN CO",
+          "symbol": "SO",
+          "sharesOutstanding": 909,
+          "size": 40607855140,
+          "last": 44.63,
+          "prevClose": 43.95,
+          "prevCloseChange": 1.547,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EDISON INTL",
+          "symbol": "EIX",
+          "sharesOutstanding": 325,
+          "size": 20904033760,
+          "last": 64.16,
+          "prevClose": 62.83,
+          "prevCloseChange": 2.117,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "PINNACLE WEST CAPITAL CORP",
+          "symbol": "PNW",
+          "sharesOutstanding": 110,
+          "size": 6993868750,
+          "last": 63.25,
+          "prevClose": 62.08,
+          "prevCloseChange": 1.885,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CENTERPOINT ENERGY INC",
+          "symbol": "CNP",
+          "sharesOutstanding": 429,
+          "size": 8896922100,
+          "last": 20.7,
+          "prevClose": 20.54,
+          "prevCloseChange": 0.779,
+          "colour": "#414554"
+        },
+        {
+          "name": "EXELON CORP",
+          "symbol": "EXC",
+          "sharesOutstanding": 859,
+          "size": 28107940769.999996,
+          "last": 32.69,
+          "prevClose": 32.39,
+          "prevCloseChange": 0.926,
+          "colour": "#414554"
+        },
+        {
+          "name": "DTE ENERGY CO",
+          "symbol": "DTE",
+          "sharesOutstanding": 177,
+          "size": 13995774130,
+          "last": 78.97,
+          "prevClose": 77.72,
+          "prevCloseChange": 1.608,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PEPCO HOLDINGS INC",
+          "symbol": "POM",
+          "sharesOutstanding": 252,
+          "size": 6805779800,
+          "last": 26.92,
+          "prevClose": 26.81,
+          "prevCloseChange": 0.41,
+          "colour": "#414554"
+        },
+        {
+          "name": "DUKE ENERGY CORP",
+          "symbol": "DUK",
+          "sharesOutstanding": 707,
+          "size": 53568913339.99999,
+          "last": 75.71,
+          "prevClose": 74.61,
+          "prevCloseChange": 1.474,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SEMPRA ENERGY",
+          "symbol": "SRE",
+          "sharesOutstanding": 247,
+          "size": 26886890880,
+          "last": 108.72,
+          "prevClose": 106.36,
+          "prevCloseChange": 2.219,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "ENTERGY CORP NEW",
+          "symbol": "ETR",
+          "sharesOutstanding": 179,
+          "size": 13656972000,
+          "last": 76,
+          "prevClose": 74.65,
+          "prevCloseChange": 1.808,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PPL CORP",
+          "symbol": "PPL",
+          "sharesOutstanding": 666,
+          "size": 21543066400,
+          "last": 32.3,
+          "prevClose": 31.8,
+          "prevCloseChange": 1.572,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CMS ENERGY CORP",
+          "symbol": "CMS",
+          "sharesOutstanding": 276,
+          "size": 9475855200,
+          "last": 34.3,
+          "prevClose": 33.49,
+          "prevCloseChange": 2.419,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "NRG ENERGY INC",
+          "symbol": "NRG",
+          "sharesOutstanding": 337,
+          "size": 8030387100,
+          "last": 23.78,
+          "prevClose": 23.47,
+          "prevCloseChange": 1.321,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EQT CORP",
+          "symbol": "EQT",
+          "sharesOutstanding": 151,
+          "size": 11748846200,
+          "last": 77.35,
+          "prevClose": 76.23,
+          "prevCloseChange": 1.469,
+          "colour": "#35764E"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Staples",
+      "children": [
+        {
+          "name": "SYSCO CORP",
+          "symbol": "SYY",
+          "sharesOutstanding": 592,
+          "size": 22929597530,
+          "last": 38.71,
+          "prevClose": 38.57,
+          "prevCloseChange": 0.363,
+          "colour": "#414554"
+        },
+        {
+          "name": "CVS HEALTH CORP",
+          "symbol": "CVS",
+          "sharesOutstanding": 1,
+          "size": 117465160670,
+          "last": 104.39,
+          "prevClose": 103.26,
+          "prevCloseChange": 1.094,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ESTEE LAUDER COMPANIES INC",
+          "symbol": "EL",
+          "sharesOutstanding": 230,
+          "size": 18674643750,
+          "last": 81.15,
+          "prevClose": 80.53,
+          "prevCloseChange": 0.77,
+          "colour": "#414554"
+        },
+        {
+          "name": "KELLOGG CO",
+          "symbol": "K",
+          "sharesOutstanding": 356,
+          "size": 22382916760,
+          "last": 62.84,
+          "prevClose": 62.15,
+          "prevCloseChange": 1.11,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AVON PRODS INC",
+          "symbol": "AVP",
+          "sharesOutstanding": 434,
+          "size": 3165023680,
+          "last": 7.28,
+          "prevClose": 7.72,
+          "prevCloseChange": -5.699,
+          "colour": "#F63538"
+        },
+        {
+          "name": "CONSTELLATION BRANDS INC",
+          "symbol": "STZ",
+          "sharesOutstanding": 170,
+          "size": 19965046820,
+          "last": 117.38,
+          "prevClose": 116.44,
+          "prevCloseChange": 0.807,
+          "colour": "#414554"
+        },
+        {
+          "name": "GENERAL MILLS INC",
+          "symbol": "GIS",
+          "sharesOutstanding": 603,
+          "size": 31642432679.999996,
+          "last": 52.41,
+          "prevClose": 52.15,
+          "prevCloseChange": 0.499,
+          "colour": "#414554"
+        },
+        {
+          "name": "COLGATE PALMOLIVE CO",
+          "symbol": "CL",
+          "sharesOutstanding": 907,
+          "size": 62606799640,
+          "last": 69.02,
+          "prevClose": 68.46,
+          "prevCloseChange": 0.818,
+          "colour": "#414554"
+        },
+        {
+          "name": "LORILLARD INC",
+          "symbol": "LO",
+          "sharesOutstanding": 360,
+          "size": 24371581430,
+          "last": 67.69,
+          "prevClose": 66.94,
+          "prevCloseChange": 1.12,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WHOLE FOODS MARKET INC",
+          "symbol": "WFM",
+          "sharesOutstanding": 360,
+          "size": 19719305580,
+          "last": 54.66,
+          "prevClose": 54.21,
+          "prevCloseChange": 0.83,
+          "colour": "#414554"
+        },
+        {
+          "name": "MOLSON COORS BREWING CO CL B",
+          "symbol": "TAP",
+          "sharesOutstanding": 162,
+          "size": 12269947740,
+          "last": 75.34,
+          "prevClose": 75.06,
+          "prevCloseChange": 0.373,
+          "colour": "#414554"
+        },
+        {
+          "name": "ALTRIA GROUP INC",
+          "symbol": "MO",
+          "sharesOutstanding": 1,
+          "size": 102581722530,
+          "last": 52.09,
+          "prevClose": 51.39,
+          "prevCloseChange": 1.362,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PHILIP MORRIS INTL INC",
+          "symbol": "PM",
+          "sharesOutstanding": 1,
+          "size": 120490455590,
+          "last": 77.89,
+          "prevClose": 77.65,
+          "prevCloseChange": 0.309,
+          "colour": "#414554"
+        },
+        {
+          "name": "PROCTER & GAMBLE CO",
+          "symbol": "PG",
+          "sharesOutstanding": 2,
+          "size": 225654615600,
+          "last": 83.56,
+          "prevClose": 81.83,
+          "prevCloseChange": 2.114,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CONAGRA FOODS INC",
+          "symbol": "CAG",
+          "sharesOutstanding": 425,
+          "size": 14664322310,
+          "last": 34.43,
+          "prevClose": 33.94,
+          "prevCloseChange": 1.444,
+          "colour": "#35764E"
+        },
+        {
+          "name": "KRAFT FOODS GROUP INC",
+          "symbol": "KRFT",
+          "sharesOutstanding": 587,
+          "size": 36481777505,
+          "last": 62.045,
+          "prevClose": 61.65,
+          "prevCloseChange": 0.641,
+          "colour": "#414554"
+        },
+        {
+          "name": "COCA COLA ENTERPRISES INC",
+          "symbol": "CCE",
+          "sharesOutstanding": 232,
+          "size": 9877928000,
+          "last": 42.4,
+          "prevClose": 41.85,
+          "prevCloseChange": 1.314,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PEPSICO INC",
+          "symbol": "PEP",
+          "sharesOutstanding": 1,
+          "size": 141492121050,
+          "last": 95.45,
+          "prevClose": 94.32,
+          "prevCloseChange": 1.198,
+          "colour": "#35764E"
+        },
+        {
+          "name": "COCA COLA CO",
+          "symbol": "KO",
+          "sharesOutstanding": 4,
+          "size": 175915970760,
+          "last": 40.29,
+          "prevClose": 39.91,
+          "prevCloseChange": 0.952,
+          "colour": "#414554"
+        },
+        {
+          "name": "KROGER CO",
+          "symbol": "KR",
+          "sharesOutstanding": 491,
+          "size": 37856514200,
+          "last": 77.05,
+          "prevClose": 76.35,
+          "prevCloseChange": 0.917,
+          "colour": "#414554"
+        },
+        {
+          "name": "REYNOLDS AMERICAN INC",
+          "symbol": "RAI",
+          "sharesOutstanding": 531,
+          "size": 37583030160,
+          "last": 70.74,
+          "prevClose": 69.87,
+          "prevCloseChange": 1.245,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE JM SMUCKER CO",
+          "symbol": "SJM",
+          "sharesOutstanding": 101,
+          "size": 11375068140,
+          "last": 111.78,
+          "prevClose": 111.02,
+          "prevCloseChange": 0.685,
+          "colour": "#414554"
+        },
+        {
+          "name": "MCCORMICK & CO NON VTG CS",
+          "symbol": "MKC",
+          "sharesOutstanding": 116,
+          "size": 8446069100.000001,
+          "last": 72.62,
+          "prevClose": 71.98,
+          "prevCloseChange": 0.889,
+          "colour": "#414554"
+        },
+        {
+          "name": "MEAD JOHNSON NUTRITION CO",
+          "symbol": "MJN",
+          "sharesOutstanding": 202,
+          "size": 20458801260,
+          "last": 101.13,
+          "prevClose": 99.4,
+          "prevCloseChange": 1.74,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ARCHER DANIELS MIDLAND CO",
+          "symbol": "ADM",
+          "sharesOutstanding": 634,
+          "size": 29488049120,
+          "last": 46.49,
+          "prevClose": 46.3,
+          "prevCloseChange": 0.41,
+          "colour": "#414554"
+        },
+        {
+          "name": "MONSTER BEVERAGE CORP",
+          "symbol": "MNST",
+          "sharesOutstanding": 170,
+          "size": 23469008640,
+          "last": 138.04,
+          "prevClose": 135.48,
+          "prevCloseChange": 1.89,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THE HERSHEY CO",
+          "symbol": "HSY",
+          "sharesOutstanding": 160,
+          "size": 16158578880,
+          "last": 100.86,
+          "prevClose": 99.88,
+          "prevCloseChange": 0.981,
+          "colour": "#414554"
+        },
+        {
+          "name": "COSTCO WHOLESALE CP",
+          "symbol": "COST",
+          "sharesOutstanding": 439,
+          "size": 65991700260.00001,
+          "last": 149.99,
+          "prevClose": 149.28,
+          "prevCloseChange": 0.476,
+          "colour": "#414554"
+        },
+        {
+          "name": "HORMEL FOODS CORP",
+          "symbol": "HRL",
+          "sharesOutstanding": 264,
+          "size": 14695328550,
+          "last": 55.65,
+          "prevClose": 55.25,
+          "prevCloseChange": 0.724,
+          "colour": "#414554"
+        },
+        {
+          "name": "CAMPBELL SOUP CO",
+          "symbol": "CPB",
+          "sharesOutstanding": 311,
+          "size": 14111615400,
+          "last": 45.26,
+          "prevClose": 45.33,
+          "prevCloseChange": -0.154,
+          "colour": "#414554"
+        },
+        {
+          "name": "CLOROX CO DEL",
+          "symbol": "CLX",
+          "sharesOutstanding": 131,
+          "size": 14350873200,
+          "last": 109.4,
+          "prevClose": 108.77,
+          "prevCloseChange": 0.579,
+          "colour": "#414554"
+        },
+        {
+          "name": "KIMBERLY CLARK CORP",
+          "symbol": "KMB",
+          "sharesOutstanding": 365,
+          "size": 38868236000,
+          "last": 106.43,
+          "prevClose": 105.79,
+          "prevCloseChange": 0.605,
+          "colour": "#414554"
+        },
+        {
+          "name": "TYSON FOODS INC",
+          "symbol": "TSN",
+          "sharesOutstanding": 304,
+          "size": 11601185570.000002,
+          "last": 38.09,
+          "prevClose": 37.42,
+          "prevCloseChange": 1.79,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MONDELEZ INTERNATIONAL CL A",
+          "symbol": "MDLZ",
+          "sharesOutstanding": 1,
+          "size": 57253450800,
+          "last": 34.71,
+          "prevClose": 34.51,
+          "prevCloseChange": 0.58,
+          "colour": "#414554"
+        },
+        {
+          "name": "WAL MART STORES INC",
+          "symbol": "WMT",
+          "sharesOutstanding": 3,
+          "size": 268459495100.00003,
+          "last": 83.29,
+          "prevClose": 81.9,
+          "prevCloseChange": 1.697,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DR PEPPER SNAPPLE GROUP INC",
+          "symbol": "DPS",
+          "sharesOutstanding": 192,
+          "size": 14910251010,
+          "last": 77.27,
+          "prevClose": 76.69,
+          "prevCloseChange": 0.756,
+          "colour": "#414554"
+        }
+      ]
+    },
+    {
+      "name": "Health Care",
+      "children": [
+        {
+          "name": "BOSTON SCIENTIFIC CORP",
+          "symbol": "BSX",
+          "sharesOutstanding": 1,
+          "size": 22938026879.999996,
+          "last": 17.24,
+          "prevClose": 16.61,
+          "prevCloseChange": 3.793,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "ABBVIE INC",
+          "symbol": "ABBV",
+          "sharesOutstanding": 1,
+          "size": 94230599440,
+          "last": 59.12,
+          "prevClose": 58,
+          "prevCloseChange": 1.931,
+          "colour": "#35764E"
+        },
+        {
+          "name": "STRYKER CORP",
+          "symbol": "SYK",
+          "sharesOutstanding": 378,
+          "size": 35140425000,
+          "last": 92.78,
+          "prevClose": 91.29,
+          "prevCloseChange": 1.632,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PFIZER INC",
+          "symbol": "PFE",
+          "sharesOutstanding": 6,
+          "size": 211077766200,
+          "last": 34.44,
+          "prevClose": 34,
+          "prevCloseChange": 1.294,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EDWARDS LIFESCIENCES CORP",
+          "symbol": "EW",
+          "sharesOutstanding": 107,
+          "size": 16029337599.999998,
+          "last": 148.64,
+          "prevClose": 135.35,
+          "prevCloseChange": 9.819,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "AGILENT TECHNOLOGIES INC",
+          "symbol": "A",
+          "sharesOutstanding": 335,
+          "size": 14040216100,
+          "last": 41.81,
+          "prevClose": 40.87,
+          "prevCloseChange": 2.3,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "JOHNSON & JOHNSON",
+          "symbol": "JNJ",
+          "sharesOutstanding": 2,
+          "size": 281003393600,
+          "last": 101.06,
+          "prevClose": 99.21,
+          "prevCloseChange": 1.865,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ZIMMER HOLDINGS INC",
+          "symbol": "ZMH",
+          "sharesOutstanding": 169,
+          "size": 20051952060,
+          "last": 118.02,
+          "prevClose": 116.25,
+          "prevCloseChange": 1.523,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PERKINELMER INC",
+          "symbol": "PKI",
+          "sharesOutstanding": 113,
+          "size": 5463213000,
+          "last": 48.3,
+          "prevClose": 47.45,
+          "prevCloseChange": 1.791,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MYLAN NV ORD",
+          "symbol": "MYL",
+          "sharesOutstanding": 375,
+          "size": 22977843020,
+          "last": 61.27,
+          "prevClose": 59.76,
+          "prevCloseChange": 2.527,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "WATERS CORP",
+          "symbol": "WAT",
+          "sharesOutstanding": 83,
+          "size": 10345288800,
+          "last": 124.6,
+          "prevClose": 120.95,
+          "prevCloseChange": 3.018,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "ST JUDE MEDICAL INC",
+          "symbol": "STJ",
+          "sharesOutstanding": 281,
+          "size": 18975283720,
+          "last": 67.46,
+          "prevClose": 66.28,
+          "prevCloseChange": 1.78,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CERNER CP",
+          "symbol": "CERN",
+          "sharesOutstanding": 342,
+          "size": 24519023159.999996,
+          "last": 71.57,
+          "prevClose": 70.38,
+          "prevCloseChange": 1.691,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CIGNA CORP",
+          "symbol": "CI",
+          "sharesOutstanding": 258,
+          "size": 32307959430,
+          "last": 125.01,
+          "prevClose": 122.89,
+          "prevCloseChange": 1.725,
+          "colour": "#35764E"
+        },
+        {
+          "name": "VERTEX PHARMACEUTICALS INC",
+          "symbol": "VRTX",
+          "sharesOutstanding": 242,
+          "size": 30922027970,
+          "last": 127.73,
+          "prevClose": 124,
+          "prevCloseChange": 3.008,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "INTUITIVE SURGICAL INC",
+          "symbol": "ISRG",
+          "sharesOutstanding": 36,
+          "size": 18669221520,
+          "last": 506.82,
+          "prevClose": 493.45,
+          "prevCloseChange": 2.709,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "VARIAN MEDICAL SYSTEMS INC",
+          "symbol": "VAR",
+          "sharesOutstanding": 100,
+          "size": 9497833520,
+          "last": 94.91,
+          "prevClose": 93.4,
+          "prevCloseChange": 1.617,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MEDTRONIC PLC",
+          "symbol": "MDT",
+          "sharesOutstanding": 2,
+          "size": 201942000000,
+          "last": 77.67,
+          "prevClose": 76.47,
+          "prevCloseChange": 1.569,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CARDINAL HEALTH INC",
+          "symbol": "CAH",
+          "sharesOutstanding": 330,
+          "size": 29705187380,
+          "last": 89.98,
+          "prevClose": 88.12,
+          "prevCloseChange": 2.111,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "EXPRESS SCRIPTS HOLDING CO",
+          "symbol": "ESRX",
+          "sharesOutstanding": 726,
+          "size": 60805017700.00001,
+          "last": 83.65,
+          "prevClose": 81.37,
+          "prevCloseChange": 2.802,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "REGENERON PHARMACEUTICAL INC",
+          "symbol": "REGN",
+          "sharesOutstanding": 100,
+          "size": 45468391650,
+          "last": 451.77,
+          "prevClose": 429.38,
+          "prevCloseChange": 5.214,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "MCKESSON CORP",
+          "symbol": "MCK",
+          "sharesOutstanding": 232,
+          "size": 53447241300,
+          "last": 229.54,
+          "prevClose": 224.64,
+          "prevCloseChange": 2.181,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "BIOGEN IDEC INC",
+          "symbol": "BIIB",
+          "sharesOutstanding": 234,
+          "size": 98847570480,
+          "last": 421.32,
+          "prevClose": 413.35,
+          "prevCloseChange": 1.928,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AMGEN INC",
+          "symbol": "AMGN",
+          "sharesOutstanding": 758,
+          "size": 123717108830,
+          "last": 163.03,
+          "prevClose": 154.26,
+          "prevCloseChange": 5.685,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "BAXTER INTL INC",
+          "symbol": "BAX",
+          "sharesOutstanding": 542,
+          "size": 37128817830,
+          "last": 68.43,
+          "prevClose": 67.36,
+          "prevCloseChange": 1.588,
+          "colour": "#35764E"
+        },
+        {
+          "name": "LABORATORY CORP AMERICA HOLDINGS",
+          "symbol": "LH",
+          "sharesOutstanding": 100,
+          "size": 12604701000,
+          "last": 125.67,
+          "prevClose": 123.73,
+          "prevCloseChange": 1.568,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CAREFUSION CORP",
+          "symbol": "CFN",
+          "sharesOutstanding": 204,
+          "size": 12238354890,
+          "last": 59.91,
+          "prevClose": 59.97,
+          "prevCloseChange": -0.1,
+          "colour": "#414554"
+        },
+        {
+          "name": "CR BARD INC",
+          "symbol": "BCR",
+          "sharesOutstanding": 74,
+          "size": 12527830700,
+          "last": 168.7,
+          "prevClose": 165.7,
+          "prevCloseChange": 1.811,
+          "colour": "#35764E"
+        },
+        {
+          "name": "THERMO FISHER SCIENTIFIC INC",
+          "symbol": "TMO",
+          "sharesOutstanding": 396,
+          "size": 52760235510,
+          "last": 132.97,
+          "prevClose": 127.42,
+          "prevCloseChange": 4.356,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "ACTAVIS PLC",
+          "symbol": "ACT",
+          "sharesOutstanding": 265,
+          "size": 80843605000,
+          "last": 305,
+          "prevClose": 298.95,
+          "prevCloseChange": 2.024,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "BECTON DICKINSON & CO",
+          "symbol": "BDX",
+          "sharesOutstanding": 192,
+          "size": 27453290310,
+          "last": 142.29,
+          "prevClose": 141.85,
+          "prevCloseChange": 0.31,
+          "colour": "#414554"
+        },
+        {
+          "name": "ABBOTT LABS",
+          "symbol": "ABT",
+          "sharesOutstanding": 1,
+          "size": 72174417740,
+          "last": 47.83,
+          "prevClose": 46.88,
+          "prevCloseChange": 2.026,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "AMERISOURCEBERGEN CORP",
+          "symbol": "ABC",
+          "sharesOutstanding": 219,
+          "size": 24185098650,
+          "last": 110.13,
+          "prevClose": 106.15,
+          "prevCloseChange": 3.749,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "PERRIGO CO PLC",
+          "symbol": "PRGO",
+          "sharesOutstanding": 133,
+          "size": 22972004490,
+          "last": 171.77,
+          "prevClose": 166.42,
+          "prevCloseChange": 3.215,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "AETNA INC NEW",
+          "symbol": "AET",
+          "sharesOutstanding": 348,
+          "size": 36986609000,
+          "last": 106.07,
+          "prevClose": 104.09,
+          "prevCloseChange": 1.902,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TENET HEALTHCARE CORP NEW",
+          "symbol": "THC",
+          "sharesOutstanding": 98,
+          "size": 4783853580,
+          "last": 48.57,
+          "prevClose": 47.29,
+          "prevCloseChange": 2.707,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "QUEST DIAGNOSTICS INC",
+          "symbol": "DGX",
+          "sharesOutstanding": 144,
+          "size": 10629948260,
+          "last": 73.66,
+          "prevClose": 73.19,
+          "prevCloseChange": 0.642,
+          "colour": "#414554"
+        },
+        {
+          "name": "UNITEDHEALTH GROUP",
+          "symbol": "UNH",
+          "sharesOutstanding": 953,
+          "size": 113031931400,
+          "last": 118.52,
+          "prevClose": 115.25,
+          "prevCloseChange": 2.837,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "ALLERGAN INC",
+          "symbol": "AGN",
+          "sharesOutstanding": 300,
+          "size": 72123172360,
+          "last": 240.22,
+          "prevClose": 237.34,
+          "prevCloseChange": 1.213,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ELI LILLY & CO",
+          "symbol": "LLY",
+          "sharesOutstanding": 1,
+          "size": 78966161280,
+          "last": 71.07,
+          "prevClose": 69.89,
+          "prevCloseChange": 1.688,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HOSPIRA INC",
+          "symbol": "HSP",
+          "sharesOutstanding": 171,
+          "size": 14997837060,
+          "last": 87.66,
+          "prevClose": 87.56,
+          "prevCloseChange": 0.114,
+          "colour": "#414554"
+        },
+        {
+          "name": "ZOETIS INC",
+          "symbol": "ZTS",
+          "sharesOutstanding": 500,
+          "size": 23527020240,
+          "last": 46.98,
+          "prevClose": 46.45,
+          "prevCloseChange": 1.141,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GILEAD SCIENCES INC",
+          "symbol": "GILD",
+          "sharesOutstanding": 1,
+          "size": 150876422600,
+          "last": 101.3,
+          "prevClose": 99.61,
+          "prevCloseChange": 1.697,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HUMANA INC",
+          "symbol": "HUM",
+          "sharesOutstanding": 149,
+          "size": 26081656680,
+          "last": 174.31,
+          "prevClose": 166.5,
+          "prevCloseChange": 4.691,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "BRISTOL MYERS SQUIBB CO",
+          "symbol": "BMY",
+          "sharesOutstanding": 1,
+          "size": 113073887540,
+          "last": 68.03,
+          "prevClose": 66.87,
+          "prevCloseChange": 1.735,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DAVITA HEALTHCARE PARTNERS INC",
+          "symbol": "DVA",
+          "sharesOutstanding": 215,
+          "size": 17568278000,
+          "last": 81.41,
+          "prevClose": 80.81,
+          "prevCloseChange": 0.742,
+          "colour": "#414554"
+        },
+        {
+          "name": "PATTERSON COS INC",
+          "symbol": "PDCO",
+          "sharesOutstanding": 103,
+          "size": 5099135650,
+          "last": 49.45,
+          "prevClose": 48.5,
+          "prevCloseChange": 1.959,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CELGENE CP",
+          "symbol": "CELG",
+          "sharesOutstanding": 800,
+          "size": 96743416440,
+          "last": 120.84,
+          "prevClose": 117.73,
+          "prevCloseChange": 2.642,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "MERCK & CO INC",
+          "symbol": "MRK",
+          "sharesOutstanding": 2,
+          "size": 162117584160,
+          "last": 57.12,
+          "prevClose": 56.2,
+          "prevCloseChange": 1.637,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALEXION PHARMACEUTICALS INC",
+          "symbol": "ALXN",
+          "sharesOutstanding": 202,
+          "size": 36083596500,
+          "last": 178.5,
+          "prevClose": 176.89,
+          "prevCloseChange": 0.91,
+          "colour": "#414554"
+        },
+        {
+          "name": "DENTSPLY INTL INC",
+          "symbol": "XRAY",
+          "sharesOutstanding": 140,
+          "size": 7149479940,
+          "last": 50.94,
+          "prevClose": 50.54,
+          "prevCloseChange": 0.791,
+          "colour": "#414554"
+        }
+      ]
+    },
+    {
+      "name": "Financials",
+      "children": [
+        {
+          "name": "PROGRESSIVE CORP",
+          "symbol": "PGR",
+          "sharesOutstanding": 588,
+          "size": 15889385360,
+          "last": 26.98,
+          "prevClose": 26.49,
+          "prevCloseChange": 1.85,
+          "colour": "#35764E"
+        },
+        {
+          "name": "JP MORGAN CHASE & CO",
+          "symbol": "JPM",
+          "sharesOutstanding": 3,
+          "size": 230596159050,
+          "last": 61.85,
+          "prevClose": 61,
+          "prevCloseChange": 1.393,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HUDSON CITY BANCORP INC",
+          "symbol": "HCBK",
+          "sharesOutstanding": 528,
+          "size": 5442741150,
+          "last": 10.29,
+          "prevClose": 10.21,
+          "prevCloseChange": 0.784,
+          "colour": "#414554"
+        },
+        {
+          "name": "HARTFORD FINANCIAL SERVICES",
+          "symbol": "HIG",
+          "sharesOutstanding": 420,
+          "size": 17970398190,
+          "last": 42.69,
+          "prevClose": 42.05,
+          "prevCloseChange": 1.522,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PRINCIPAL FINANCIAL GROUP INC",
+          "symbol": "PFG",
+          "sharesOutstanding": 294,
+          "size": 15234898000,
+          "last": 51.8,
+          "prevClose": 50.47,
+          "prevCloseChange": 2.635,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "HUNTINGTON BANCSHRS INC",
+          "symbol": "HBAN",
+          "sharesOutstanding": 810,
+          "size": 9023689640,
+          "last": 11.14,
+          "prevClose": 11.06,
+          "prevCloseChange": 0.723,
+          "colour": "#414554"
+        },
+        {
+          "name": "CITIGROUP INC",
+          "symbol": "C",
+          "sharesOutstanding": 3,
+          "size": 162887460190,
+          "last": 53.69,
+          "prevClose": 53.54,
+          "prevCloseChange": 0.28,
+          "colour": "#414554"
+        },
+        {
+          "name": "LOEWS CORP",
+          "symbol": "L",
+          "sharesOutstanding": 373,
+          "size": 15087505680,
+          "last": 40.43,
+          "prevClose": 39.93,
+          "prevCloseChange": 1.252,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GENERAL GROWTH PROPERTIES INC",
+          "symbol": "GGP",
+          "sharesOutstanding": 885,
+          "size": 26660568290,
+          "last": 30.11,
+          "prevClose": 29.65,
+          "prevCloseChange": 1.551,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GOLDMAN SACHS GROUP INC",
+          "symbol": "GS",
+          "sharesOutstanding": 435,
+          "size": 83595669900,
+          "last": 191.9,
+          "prevClose": 189.34,
+          "prevCloseChange": 1.352,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BOSTON PROPERTIES INC",
+          "symbol": "BXP",
+          "sharesOutstanding": 153,
+          "size": 21025053000,
+          "last": 137.25,
+          "prevClose": 135.98,
+          "prevCloseChange": 0.934,
+          "colour": "#414554"
+        },
+        {
+          "name": "STATE STR CORP",
+          "symbol": "STT",
+          "sharesOutstanding": 412,
+          "size": 30879846900.000004,
+          "last": 74.9,
+          "prevClose": 73.41,
+          "prevCloseChange": 2.03,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "MCGRAW HILL FINANCIAL INC",
+          "symbol": "MHFI",
+          "sharesOutstanding": 273,
+          "size": 28955445000,
+          "last": 105.87,
+          "prevClose": 104.29,
+          "prevCloseChange": 1.515,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AVALONBAY CMNTYS INC",
+          "symbol": "AVB",
+          "sharesOutstanding": 132,
+          "size": 22926521000,
+          "last": 173.62,
+          "prevClose": 170.68,
+          "prevCloseChange": 1.723,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SUNTRUST BANKS INC",
+          "symbol": "STI",
+          "sharesOutstanding": 522,
+          "size": 22371330420,
+          "last": 42.78,
+          "prevClose": 42.43,
+          "prevCloseChange": 0.825,
+          "colour": "#414554"
+        },
+        {
+          "name": "CHUBB CORP",
+          "symbol": "CB",
+          "sharesOutstanding": 230,
+          "size": 23489699750,
+          "last": 101.75,
+          "prevClose": 100.31,
+          "prevCloseChange": 1.436,
+          "colour": "#35764E"
+        },
+        {
+          "name": "E*TRADE FINANCIAL CORP",
+          "symbol": "ETFC",
+          "sharesOutstanding": 289,
+          "size": 8196222720,
+          "last": 28.28,
+          "prevClose": 27.975,
+          "prevCloseChange": 1.09,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BANK OF NEW YORK MELLON CORP",
+          "symbol": "BK",
+          "sharesOutstanding": 1,
+          "size": 45725266600,
+          "last": 41.05,
+          "prevClose": 40.94,
+          "prevCloseChange": 0.269,
+          "colour": "#414554"
+        },
+        {
+          "name": "AMERICAN EXPRESS CO",
+          "symbol": "AXP",
+          "sharesOutstanding": 1,
+          "size": 83062762500,
+          "last": 81.5,
+          "prevClose": 80.6,
+          "prevCloseChange": 1.117,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PROLOGIS INC",
+          "symbol": "PLD",
+          "sharesOutstanding": 521,
+          "size": 22306332800,
+          "last": 42.8,
+          "prevClose": 42.09,
+          "prevCloseChange": 1.687,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PEOPLE'S UNITED FINANCIAL INC",
+          "symbol": "PBCT",
+          "sharesOutstanding": 308,
+          "size": 4681801040,
+          "last": 15.19,
+          "prevClose": 15.075,
+          "prevCloseChange": 0.763,
+          "colour": "#414554"
+        },
+        {
+          "name": "LEGG MASON INC",
+          "symbol": "LM",
+          "sharesOutstanding": 112,
+          "size": 6474340320,
+          "last": 57.47,
+          "prevClose": 55.98,
+          "prevCloseChange": 2.662,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "WELLS FARGO & CO",
+          "symbol": "WFC",
+          "sharesOutstanding": 5,
+          "size": 287136620130,
+          "last": 55.73,
+          "prevClose": 55.34,
+          "prevCloseChange": 0.705,
+          "colour": "#414554"
+        },
+        {
+          "name": "MORGAN STANLEY",
+          "symbol": "MS",
+          "sharesOutstanding": 1,
+          "size": 72113992420,
+          "last": 36.73,
+          "prevClose": 36.35,
+          "prevCloseChange": 1.045,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NASDAQ OMX GROUP",
+          "symbol": "NDAQ",
+          "sharesOutstanding": 168,
+          "size": 8577306540,
+          "last": 50.805,
+          "prevClose": 50.25,
+          "prevCloseChange": 1.104,
+          "colour": "#35764E"
+        },
+        {
+          "name": "METLIFE INC",
+          "symbol": "MET",
+          "sharesOutstanding": 1,
+          "size": 58017536720,
+          "last": 51.92,
+          "prevClose": 51.35,
+          "prevCloseChange": 1.11,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EQUIFAX INC",
+          "symbol": "EFX",
+          "sharesOutstanding": 119,
+          "size": 11014311660,
+          "last": 92.18,
+          "prevClose": 91.66,
+          "prevCloseChange": 0.567,
+          "colour": "#414554"
+        },
+        {
+          "name": "PLUM CREEK TIMBER CO INC",
+          "symbol": "PCL",
+          "sharesOutstanding": 176,
+          "size": 7493071040,
+          "last": 42.56,
+          "prevClose": 42.08,
+          "prevCloseChange": 1.141,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MOODYS CORP",
+          "symbol": "MCO",
+          "sharesOutstanding": 202,
+          "size": 19746541960,
+          "last": 97.73,
+          "prevClose": 97.12,
+          "prevCloseChange": 0.628,
+          "colour": "#414554"
+        },
+        {
+          "name": "CBRE GROUP INC",
+          "symbol": "CBG",
+          "sharesOutstanding": 333,
+          "size": 11659170240,
+          "last": 35.01,
+          "prevClose": 34.54,
+          "prevCloseChange": 1.361,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HCP INC",
+          "symbol": "HCP",
+          "sharesOutstanding": 460,
+          "size": 18688547280,
+          "last": 40.56,
+          "prevClose": 40.19,
+          "prevCloseChange": 0.921,
+          "colour": "#414554"
+        },
+        {
+          "name": "HEALTH CARE REIT INC",
+          "symbol": "HCN",
+          "sharesOutstanding": 329,
+          "size": 24809457600,
+          "last": 75.2,
+          "prevClose": 75.02,
+          "prevCloseChange": 0.24,
+          "colour": "#414554"
+        },
+        {
+          "name": "INTERCONTINENTAL EXCHANGE INC",
+          "symbol": "ICE",
+          "sharesOutstanding": 112,
+          "size": 26092496550,
+          "last": 232.95,
+          "prevClose": 229.09,
+          "prevCloseChange": 1.685,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BANK OF AMERICA CORPORATION",
+          "symbol": "BAC",
+          "sharesOutstanding": 10,
+          "size": 169680615710,
+          "last": 16.13,
+          "prevClose": 16.09,
+          "prevCloseChange": 0.249,
+          "colour": "#414554"
+        },
+        {
+          "name": "MACERICH CO",
+          "symbol": "MAC",
+          "sharesOutstanding": 158,
+          "size": 15007802400,
+          "last": 94.89,
+          "prevClose": 94.39,
+          "prevCloseChange": 0.53,
+          "colour": "#414554"
+        },
+        {
+          "name": "BB&T CORP",
+          "symbol": "BBT",
+          "sharesOutstanding": 720,
+          "size": 28277023229.999996,
+          "last": 39.23,
+          "prevClose": 38.91,
+          "prevCloseChange": 0.822,
+          "colour": "#414554"
+        },
+        {
+          "name": "NAVIENT CORP",
+          "symbol": "NAVI",
+          "sharesOutstanding": 401,
+          "size": 7892703600,
+          "last": 19.66,
+          "prevClose": 19.28,
+          "prevCloseChange": 1.971,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TORCHMARK CORP",
+          "symbol": "TMK",
+          "sharesOutstanding": 127,
+          "size": 6904452240,
+          "last": 54.32,
+          "prevClose": 53.57,
+          "prevCloseChange": 1.4,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NORTHERN TRUST CP",
+          "symbol": "NTRS",
+          "sharesOutstanding": 233,
+          "size": 16790269400.000002,
+          "last": 71.87,
+          "prevClose": 70.87,
+          "prevCloseChange": 1.411,
+          "colour": "#35764E"
+        },
+        {
+          "name": "KEYCORP NEW",
+          "symbol": "KEY",
+          "sharesOutstanding": 855,
+          "size": 12479191750,
+          "last": 14.59,
+          "prevClose": 14.51,
+          "prevCloseChange": 0.551,
+          "colour": "#414554"
+        },
+        {
+          "name": "XL GROUP PLC",
+          "symbol": "XL",
+          "sharesOutstanding": 258,
+          "size": 9491226120,
+          "last": 36.78,
+          "prevClose": 36.19,
+          "prevCloseChange": 1.63,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MARSH & MCLENNAN COS",
+          "symbol": "MMC",
+          "sharesOutstanding": 538,
+          "size": 30807440400,
+          "last": 57.18,
+          "prevClose": 56.11,
+          "prevCloseChange": 1.907,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ACE LTD",
+          "symbol": "ACE",
+          "sharesOutstanding": 342,
+          "size": 39082848000,
+          "last": 114,
+          "prevClose": 111.74,
+          "prevCloseChange": 2.023,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "WEYERHAEUSER CO",
+          "symbol": "WY",
+          "sharesOutstanding": 524,
+          "size": 17681932640,
+          "last": 33.68,
+          "prevClose": 33.06,
+          "prevCloseChange": 1.875,
+          "colour": "#35764E"
+        },
+        {
+          "name": "FRANKLIN RES INC",
+          "symbol": "BEN",
+          "sharesOutstanding": 621,
+          "size": 33205561800,
+          "last": 53.4,
+          "prevClose": 52.52,
+          "prevCloseChange": 1.676,
+          "colour": "#35764E"
+        },
+        {
+          "name": "REGIONS FINANCIAL CORP",
+          "symbol": "RF",
+          "sharesOutstanding": 1,
+          "size": 13266923280.000002,
+          "last": 9.88,
+          "prevClose": 9.91,
+          "prevCloseChange": -0.303,
+          "colour": "#414554"
+        },
+        {
+          "name": "DISCOVER FINL SVCS",
+          "symbol": "DFS",
+          "sharesOutstanding": 447,
+          "size": 26610780000,
+          "last": 59.5,
+          "prevClose": 59.34,
+          "prevCloseChange": 0.27,
+          "colour": "#414554"
+        },
+        {
+          "name": "T ROWE PRICE GRP INC",
+          "symbol": "TROW",
+          "sharesOutstanding": 260,
+          "size": 21778526310,
+          "last": 83.53,
+          "prevClose": 82.185,
+          "prevCloseChange": 1.637,
+          "colour": "#35764E"
+        },
+        {
+          "name": "VORNADO RLTY TR",
+          "symbol": "VNO",
+          "sharesOutstanding": 187,
+          "size": 20040027420,
+          "last": 106.66,
+          "prevClose": 105.76,
+          "prevCloseChange": 0.851,
+          "colour": "#414554"
+        },
+        {
+          "name": "KIMCO REALTY CORP",
+          "symbol": "KIM",
+          "sharesOutstanding": 412,
+          "size": 10900310760,
+          "last": 26.42,
+          "prevClose": 26.04,
+          "prevCloseChange": 1.459,
+          "colour": "#35764E"
+        },
+        {
+          "name": "UNUM GROUP",
+          "symbol": "UNM",
+          "sharesOutstanding": 251,
+          "size": 8528268160,
+          "last": 33.92,
+          "prevClose": 33.27,
+          "prevCloseChange": 1.954,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AFLAC INC",
+          "symbol": "AFL",
+          "sharesOutstanding": 438,
+          "size": 27633332880,
+          "last": 62.96,
+          "prevClose": 62.13,
+          "prevCloseChange": 1.336,
+          "colour": "#35764E"
+        },
+        {
+          "name": "HOST HOTELS & RESORTS INC",
+          "symbol": "HST",
+          "sharesOutstanding": 757,
+          "size": 15930645600,
+          "last": 21.03,
+          "prevClose": 20.8,
+          "prevCloseChange": 1.106,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SIMON PROPERTY GROUP INC",
+          "symbol": "SPG",
+          "sharesOutstanding": 314,
+          "size": 58811440740,
+          "last": 187.07,
+          "prevClose": 183.98,
+          "prevCloseChange": 1.68,
+          "colour": "#35764E"
+        },
+        {
+          "name": "APARTMENT INVESTMENT AND MANAGEM",
+          "symbol": "AIV",
+          "sharesOutstanding": 156,
+          "size": 6119846479.999999,
+          "last": 39.16,
+          "prevClose": 38.38,
+          "prevCloseChange": 2.032,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "VENTAS INC",
+          "symbol": "VTR",
+          "sharesOutstanding": 330,
+          "size": 23388267000,
+          "last": 70.7,
+          "prevClose": 70.11,
+          "prevCloseChange": 0.842,
+          "colour": "#414554"
+        },
+        {
+          "name": "ASSURANT INC",
+          "symbol": "AIZ",
+          "sharesOutstanding": 68,
+          "size": 4253852820,
+          "last": 61.77,
+          "prevClose": 61.22,
+          "prevCloseChange": 0.898,
+          "colour": "#414554"
+        },
+        {
+          "name": "CAPITAL ONE FINL CORP",
+          "symbol": "COF",
+          "sharesOutstanding": 551,
+          "size": 44938118770,
+          "last": 81.47,
+          "prevClose": 80,
+          "prevCloseChange": 1.837,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PNC FINANCIAL SERVICES GROUP",
+          "symbol": "PNC",
+          "sharesOutstanding": 520,
+          "size": 49965412400,
+          "last": 95.96,
+          "prevClose": 95.69,
+          "prevCloseChange": 0.282,
+          "colour": "#414554"
+        },
+        {
+          "name": "INVESCO LTD",
+          "symbol": "IVZ",
+          "sharesOutstanding": 444,
+          "size": 18370017540,
+          "last": 41.37,
+          "prevClose": 40.37,
+          "prevCloseChange": 2.477,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "LINCOLN NATIONAL CORP",
+          "symbol": "LNC",
+          "sharesOutstanding": 256,
+          "size": 15047587790,
+          "last": 58.69,
+          "prevClose": 57.64,
+          "prevCloseChange": 1.822,
+          "colour": "#35764E"
+        },
+        {
+          "name": "GENWORTH FINANCIAL INC",
+          "symbol": "GNW",
+          "sharesOutstanding": 496,
+          "size": 3692680280,
+          "last": 7.43,
+          "prevClose": 7.35,
+          "prevCloseChange": 1.088,
+          "colour": "#35764E"
+        },
+        {
+          "name": "AMERICAN INT'L GROUP NEW",
+          "symbol": "AIG",
+          "sharesOutstanding": 1,
+          "size": 76760345480,
+          "last": 55.93,
+          "prevClose": 55.3,
+          "prevCloseChange": 1.139,
+          "colour": "#35764E"
+        },
+        {
+          "name": "BLACKROCK INC",
+          "symbol": "BLK",
+          "sharesOutstanding": 165,
+          "size": 61874702400,
+          "last": 374.08,
+          "prevClose": 367.74,
+          "prevCloseChange": 1.724,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CME GROUP CL A",
+          "symbol": "CME",
+          "sharesOutstanding": 337,
+          "size": 33754340460,
+          "last": 100.06,
+          "prevClose": 96.825,
+          "prevCloseChange": 3.341,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "CINCINNATI FINANCIAL",
+          "symbol": "CINF",
+          "sharesOutstanding": 164,
+          "size": 8810789220,
+          "last": 53.67,
+          "prevClose": 52.655,
+          "prevCloseChange": 1.928,
+          "colour": "#35764E"
+        },
+        {
+          "name": "COMERICA INC",
+          "symbol": "CMA",
+          "sharesOutstanding": 178,
+          "size": 8224133490,
+          "last": 46.11,
+          "prevClose": 45.99,
+          "prevCloseChange": 0.261,
+          "colour": "#414554"
+        },
+        {
+          "name": "THE TRAVELERS COMPANIES INC",
+          "symbol": "TRV",
+          "sharesOutstanding": 321,
+          "size": 35006725170,
+          "last": 108.93,
+          "prevClose": 106.72,
+          "prevCloseChange": 2.071,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "FIFTH THIRD BANCORP",
+          "symbol": "FITB",
+          "sharesOutstanding": 815,
+          "size": 15692734750,
+          "last": 19.25,
+          "prevClose": 19.08,
+          "prevCloseChange": 0.891,
+          "colour": "#414554"
+        },
+        {
+          "name": "US BANCORP",
+          "symbol": "USB",
+          "sharesOutstanding": 1,
+          "size": 80100069330,
+          "last": 44.97,
+          "prevClose": 44.29,
+          "prevCloseChange": 1.535,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PRUDENTIAL FINANCIAL INC",
+          "symbol": "PRU",
+          "sharesOutstanding": 454,
+          "size": 37713780000,
+          "last": 83.07,
+          "prevClose": 81.14,
+          "prevCloseChange": 2.379,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "AMERICAN TOWER CORP",
+          "symbol": "AMT",
+          "sharesOutstanding": 396,
+          "size": 37532638490,
+          "last": 94.61,
+          "prevClose": 94.24,
+          "prevCloseChange": 0.393,
+          "colour": "#414554"
+        },
+        {
+          "name": "PUBLIC STORAGE",
+          "symbol": "PSA",
+          "sharesOutstanding": 172,
+          "size": 32966582160,
+          "last": 190.77,
+          "prevClose": 188.83,
+          "prevCloseChange": 1.027,
+          "colour": "#35764E"
+        },
+        {
+          "name": "M&T BANK CORP",
+          "symbol": "MTB",
+          "sharesOutstanding": 132,
+          "size": 16739856000,
+          "last": 126,
+          "prevClose": 125.22,
+          "prevCloseChange": 0.623,
+          "colour": "#414554"
+        },
+        {
+          "name": "AMERIPRISE FINL INC",
+          "symbol": "AMP",
+          "sharesOutstanding": 182,
+          "size": 24772218030,
+          "last": 135.73,
+          "prevClose": 133.36,
+          "prevCloseChange": 1.777,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ZIONS BANCORPORATION",
+          "symbol": "ZION",
+          "sharesOutstanding": 203,
+          "size": 5575615920,
+          "last": 27.44,
+          "prevClose": 27.59,
+          "prevCloseChange": -0.544,
+          "colour": "#414554"
+        },
+        {
+          "name": "SCHWAB CHARLES CORP",
+          "symbol": "SCHW",
+          "sharesOutstanding": 1,
+          "size": 40367352660,
+          "last": 30.79,
+          "prevClose": 30.34,
+          "prevCloseChange": 1.483,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALLSTATE CORP",
+          "symbol": "ALL",
+          "sharesOutstanding": 416,
+          "size": 29353939229.999996,
+          "last": 70.49,
+          "prevClose": 69.56,
+          "prevCloseChange": 1.337,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ESSEX PPTY TR INC",
+          "symbol": "ESS",
+          "sharesOutstanding": 65,
+          "size": 15279210860,
+          "last": 234.61,
+          "prevClose": 228.51,
+          "prevCloseChange": 2.669,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "LEUCADIA NATIONAL CORP",
+          "symbol": "LUK",
+          "sharesOutstanding": 366,
+          "size": 8718818100,
+          "last": 23.78,
+          "prevClose": 23.59,
+          "prevCloseChange": 0.805,
+          "colour": "#414554"
+        },
+        {
+          "name": "AON PLC CL A",
+          "symbol": "AON",
+          "sharesOutstanding": 325,
+          "size": 32111426250,
+          "last": 98.75,
+          "prevClose": 96.88,
+          "prevCloseChange": 1.93,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EQUITY RESIDENTIAL",
+          "symbol": "EQR",
+          "sharesOutstanding": 363,
+          "size": 28703662200.000004,
+          "last": 78.9,
+          "prevClose": 77.02,
+          "prevCloseChange": 2.441,
+          "colour": "#2F9E4F"
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "children": [
+        {
+          "name": "DIAMOND OFFSHORE DRILLING IN",
+          "symbol": "DO",
+          "sharesOutstanding": 137,
+          "size": 3746883360,
+          "last": 27.32,
+          "prevClose": 26.71,
+          "prevCloseChange": 2.284,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CHEVRON CORP NEW",
+          "symbol": "CVX",
+          "sharesOutstanding": 1,
+          "size": 193902963400,
+          "last": 103.13,
+          "prevClose": 101.62,
+          "prevCloseChange": 1.486,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PEABODY ENERGY CORP",
+          "symbol": "BTU",
+          "sharesOutstanding": 274,
+          "size": 1506002640,
+          "last": 5.48,
+          "prevClose": 5.47,
+          "prevCloseChange": 0.183,
+          "colour": "#414554"
+        },
+        {
+          "name": "SOUTHWESTERN ENERGY CO",
+          "symbol": "SWN",
+          "sharesOutstanding": 384,
+          "size": 8666179200,
+          "last": 22.54,
+          "prevClose": 22.35,
+          "prevCloseChange": 0.85,
+          "colour": "#414554"
+        },
+        {
+          "name": "HALLIBURTON CO",
+          "symbol": "HAL",
+          "sharesOutstanding": 849,
+          "size": 34428709440,
+          "last": 40.52,
+          "prevClose": 40.18,
+          "prevCloseChange": 0.846,
+          "colour": "#414554"
+        },
+        {
+          "name": "NEW FIELD EXPLORATION CO",
+          "symbol": "NFX",
+          "sharesOutstanding": 137,
+          "size": 4359289510,
+          "last": 31.73,
+          "prevClose": 31.36,
+          "prevCloseChange": 1.18,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NOBLE CORP",
+          "symbol": "NE",
+          "sharesOutstanding": 253,
+          "size": 3494482530,
+          "last": 13.79,
+          "prevClose": 13.56,
+          "prevCloseChange": 1.696,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TRANSOCEAN LTD",
+          "symbol": "RIG",
+          "sharesOutstanding": 373,
+          "size": 5188774280,
+          "last": 13.88,
+          "prevClose": 13.6,
+          "prevCloseChange": 2.059,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "CIMAREX ENERGY CO",
+          "symbol": "XEC",
+          "sharesOutstanding": 87,
+          "size": 9424561230,
+          "last": 107.59,
+          "prevClose": 106.75,
+          "prevCloseChange": 0.787,
+          "colour": "#414554"
+        },
+        {
+          "name": "NOBLE ENERGY INC",
+          "symbol": "NBL",
+          "sharesOutstanding": 362,
+          "size": 16516566860,
+          "last": 45.61,
+          "prevClose": 44.03,
+          "prevCloseChange": 3.588,
+          "colour": "#30CC5A"
+        },
+        {
+          "name": "CAMERON INTERNATIONAL CORP",
+          "symbol": "CAM",
+          "sharesOutstanding": 193,
+          "size": 8450153639.999999,
+          "last": 43.62,
+          "prevClose": 43.01,
+          "prevCloseChange": 1.418,
+          "colour": "#35764E"
+        },
+        {
+          "name": "NABORS INDUSTRIES LTD",
+          "symbol": "NBR",
+          "sharesOutstanding": 329,
+          "size": 3926173840,
+          "last": 11.92,
+          "prevClose": 11.96,
+          "prevCloseChange": -0.334,
+          "colour": "#414554"
+        },
+        {
+          "name": "HELMERICH & PAYNE INC",
+          "symbol": "HP",
+          "sharesOutstanding": 107,
+          "size": 6900864510,
+          "last": 64.11,
+          "prevClose": 62.49,
+          "prevCloseChange": 2.592,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "HESS CORP",
+          "symbol": "HES",
+          "sharesOutstanding": 285,
+          "size": 19816940550,
+          "last": 69.33,
+          "prevClose": 68.75,
+          "prevCloseChange": 0.844,
+          "colour": "#414554"
+        },
+        {
+          "name": "ROWAN COMPANIES INC",
+          "symbol": "RDC",
+          "sharesOutstanding": 124,
+          "size": 2244185580,
+          "last": 18.07,
+          "prevClose": 18,
+          "prevCloseChange": 0.389,
+          "colour": "#414554"
+        },
+        {
+          "name": "NATIONAL OILWELL VARCO INC",
+          "symbol": "NOV",
+          "sharesOutstanding": 409,
+          "size": 19951536450,
+          "last": 48.67,
+          "prevClose": 49.07,
+          "prevCloseChange": -0.815,
+          "colour": "#414554"
+        },
+        {
+          "name": "VALERO ENERGY CORP",
+          "symbol": "VLO",
+          "sharesOutstanding": 514,
+          "size": 30718218080,
+          "last": 59.66,
+          "prevClose": 58.53,
+          "prevCloseChange": 1.931,
+          "colour": "#35764E"
+        },
+        {
+          "name": "EOG RES INC",
+          "symbol": "EOG",
+          "sharesOutstanding": 548,
+          "size": 48208315500,
+          "last": 87.9,
+          "prevClose": 85.39,
+          "prevCloseChange": 2.939,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "FMC TECHNOLOGIES INC",
+          "symbol": "FTI",
+          "sharesOutstanding": 231,
+          "size": 8561150550,
+          "last": 36.99,
+          "prevClose": 36.66,
+          "prevCloseChange": 0.9,
+          "colour": "#414554"
+        },
+        {
+          "name": "PIONEER NATURAL RESOURCE CO",
+          "symbol": "PXD",
+          "sharesOutstanding": 148,
+          "size": 23387348000,
+          "last": 157,
+          "prevClose": 154.64,
+          "prevCloseChange": 1.526,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CHESAPEAKE ENERGY CORP",
+          "symbol": "CHK",
+          "sharesOutstanding": 665,
+          "size": 9283930480,
+          "last": 13.96,
+          "prevClose": 13.8,
+          "prevCloseChange": 1.159,
+          "colour": "#35764E"
+        },
+        {
+          "name": "OCCIDENTAL PETROLEUM CORP",
+          "symbol": "OXY",
+          "sharesOutstanding": 770,
+          "size": 56334910500,
+          "last": 73.11,
+          "prevClose": 72.84,
+          "prevCloseChange": 0.371,
+          "colour": "#414554"
+        },
+        {
+          "name": "BAKER HUGHES INC",
+          "symbol": "BHI",
+          "sharesOutstanding": 434,
+          "size": 26045488440,
+          "last": 59.94,
+          "prevClose": 58.87,
+          "prevCloseChange": 1.818,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SPECTRA ENERGY CORP",
+          "symbol": "SE",
+          "sharesOutstanding": 671,
+          "size": 22890879900,
+          "last": 34.11,
+          "prevClose": 33.8,
+          "prevCloseChange": 0.917,
+          "colour": "#414554"
+        },
+        {
+          "name": "CONSOL ENERGY INC",
+          "symbol": "CNX",
+          "sharesOutstanding": 230,
+          "size": 6221760300,
+          "last": 27.02,
+          "prevClose": 26.56,
+          "prevCloseChange": 1.732,
+          "colour": "#35764E"
+        },
+        {
+          "name": "CABOT OIL & GAS CORP",
+          "symbol": "COG",
+          "sharesOutstanding": 413,
+          "size": 11659685620,
+          "last": 28.22,
+          "prevClose": 28.12,
+          "prevCloseChange": 0.356,
+          "colour": "#414554"
+        },
+        {
+          "name": "CONOCOPHILLIPS",
+          "symbol": "COP",
+          "sharesOutstanding": 1,
+          "size": 76843228800,
+          "last": 62.4,
+          "prevClose": 61.64,
+          "prevCloseChange": 1.233,
+          "colour": "#35764E"
+        },
+        {
+          "name": "KINDER MORGAN INC",
+          "symbol": "KMI",
+          "sharesOutstanding": 2,
+          "size": 86522712240,
+          "last": 40.62,
+          "prevClose": 39.92,
+          "prevCloseChange": 1.754,
+          "colour": "#35764E"
+        },
+        {
+          "name": "MURPHY OIL CORP",
+          "symbol": "MUR",
+          "sharesOutstanding": 177,
+          "size": 8441995120,
+          "last": 47.56,
+          "prevClose": 46.83,
+          "prevCloseChange": 1.559,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DEVON ENERGY CORP",
+          "symbol": "DVN",
+          "sharesOutstanding": 411,
+          "size": 24152125000,
+          "last": 58.75,
+          "prevClose": 57.7,
+          "prevCloseChange": 1.82,
+          "colour": "#35764E"
+        },
+        {
+          "name": "TESORO CORP",
+          "symbol": "TSO",
+          "sharesOutstanding": 125,
+          "size": 11036048610,
+          "last": 87.81,
+          "prevClose": 86.23,
+          "prevCloseChange": 1.832,
+          "colour": "#35764E"
+        },
+        {
+          "name": "RANGE RESOURCES CORP",
+          "symbol": "RRC",
+          "sharesOutstanding": 168,
+          "size": 7781637630,
+          "last": 46.07,
+          "prevClose": 45.29,
+          "prevCloseChange": 1.722,
+          "colour": "#35764E"
+        },
+        {
+          "name": "SCHLUMBERGER LTD",
+          "symbol": "SLB",
+          "sharesOutstanding": 1,
+          "size": 116544067120,
+          "last": 81.26,
+          "prevClose": 80.42,
+          "prevCloseChange": 1.045,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WILLIAMS COMPANIES INC",
+          "symbol": "WMB",
+          "sharesOutstanding": 747,
+          "size": 34956659040,
+          "last": 46.74,
+          "prevClose": 46.14,
+          "prevCloseChange": 1.3,
+          "colour": "#35764E"
+        },
+        {
+          "name": "DENBURY RES INC",
+          "symbol": "DNR",
+          "sharesOutstanding": 356,
+          "size": 2639106400,
+          "last": 7.4,
+          "prevClose": 7.31,
+          "prevCloseChange": 1.231,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PHILLIPS 66",
+          "symbol": "PSX",
+          "sharesOutstanding": 543,
+          "size": 41463462420,
+          "last": 76.29,
+          "prevClose": 74.64,
+          "prevCloseChange": 2.211,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "ENSCO PLC",
+          "symbol": "ESV",
+          "sharesOutstanding": 231,
+          "size": 4769983360,
+          "last": 20.62,
+          "prevClose": 20.46,
+          "prevCloseChange": 0.782,
+          "colour": "#414554"
+        },
+        {
+          "name": "MARATHON OIL CORP",
+          "symbol": "MRO",
+          "sharesOutstanding": 674,
+          "size": 17555319450,
+          "last": 26.01,
+          "prevClose": 25.78,
+          "prevCloseChange": 0.892,
+          "colour": "#414554"
+        },
+        {
+          "name": "EXXON MOBIL CORP",
+          "symbol": "XOM",
+          "sharesOutstanding": 4,
+          "size": 355541924400,
+          "last": 84.76,
+          "prevClose": 83.87,
+          "prevCloseChange": 1.061,
+          "colour": "#35764E"
+        },
+        {
+          "name": "APACHE CORP",
+          "symbol": "APA",
+          "sharesOutstanding": 376,
+          "size": 22545320090,
+          "last": 59.83,
+          "prevClose": 59.36,
+          "prevCloseChange": 0.792,
+          "colour": "#414554"
+        },
+        {
+          "name": "ANADARKO PETE CORP",
+          "symbol": "APC",
+          "sharesOutstanding": 506,
+          "size": 40856256000,
+          "last": 80.64,
+          "prevClose": 78.42,
+          "prevCloseChange": 2.831,
+          "colour": "#2F9E4F"
+        },
+        {
+          "name": "MARATHON PETROLEUM CORP",
+          "symbol": "MPC",
+          "sharesOutstanding": 273,
+          "size": 26776557780,
+          "last": 98.06,
+          "prevClose": 96.2,
+          "prevCloseChange": 1.933,
+          "colour": "#35764E"
+        }
+      ]
+    },
+    {
+      "name": "Materials",
+      "children": [
+        {
+          "name": "DU PONT E I DE NEMOURS & CO",
+          "symbol": "DD",
+          "sharesOutstanding": 905,
+          "size": 69780256980,
+          "last": 77.07,
+          "prevClose": 80.5,
+          "prevCloseChange": -4.261,
+          "colour": "#F63538"
+        },
+        {
+          "name": "AIRGAS INC",
+          "symbol": "ARG",
+          "sharesOutstanding": 75,
+          "size": 8667230220,
+          "last": 115.38,
+          "prevClose": 114.84,
+          "prevCloseChange": 0.47,
+          "colour": "#414554"
+        },
+        {
+          "name": "UNITED STATES STL CORP NEW",
+          "symbol": "X",
+          "sharesOutstanding": 145,
+          "size": 3198715560,
+          "last": 21.96,
+          "prevClose": 21.8,
+          "prevCloseChange": 0.734,
+          "colour": "#414554"
+        },
+        {
+          "name": "ALLEGHENY TECHNOLOGIES INC",
+          "symbol": "ATI",
+          "sharesOutstanding": 108,
+          "size": 3225195010,
+          "last": 29.69,
+          "prevClose": 29.76,
+          "prevCloseChange": -0.235,
+          "colour": "#414554"
+        },
+        {
+          "name": "LYONDELLBASELL INDUSTRIES NV CL",
+          "symbol": "LYB",
+          "sharesOutstanding": 575,
+          "size": 49045683870,
+          "last": 85.27,
+          "prevClose": 83.72,
+          "prevCloseChange": 1.851,
+          "colour": "#35764E"
+        },
+        {
+          "name": "ALCOA INC",
+          "symbol": "AA",
+          "sharesOutstanding": 1,
+          "size": 16243675919.999998,
+          "last": 13.29,
+          "prevClose": 13.57,
+          "prevCloseChange": -2.063,
+          "colour": "#BF4045"
+        },
+        {
+          "name": "CF INDS HLDGS INC",
+          "symbol": "CF",
+          "sharesOutstanding": 47,
+          "size": 14037523080,
+          "last": 293.01,
+          "prevClose": 292.64,
+          "prevCloseChange": 0.126,
+          "colour": "#414554"
+        },
+        {
+          "name": "INTERNATIONAL FLAVORS",
+          "symbol": "IFF",
+          "sharesOutstanding": 80,
+          "size": 9607609570,
+          "last": 118.99,
+          "prevClose": 118.04,
+          "prevCloseChange": 0.805,
+          "colour": "#414554"
+        },
+        {
+          "name": "OWENS ILLINOIS INC",
+          "symbol": "OI",
+          "sharesOutstanding": 164,
+          "size": 3809950400,
+          "last": 23.2,
+          "prevClose": 22.85,
+          "prevCloseChange": 1.532,
+          "colour": "#35764E"
+        },
+        {
+          "name": "INTERNATIONAL PAPER CO",
+          "symbol": "IP",
+          "sharesOutstanding": 422,
+          "size": 23184591350,
+          "last": 54.83,
+          "prevClose": 54.69,
+          "prevCloseChange": 0.256,
+          "colour": "#414554"
+        },
+        {
+          "name": "FREEPORT MCMORAN INC",
+          "symbol": "FCX",
+          "sharesOutstanding": 1,
+          "size": 18686338110,
+          "last": 17.97,
+          "prevClose": 18.14,
+          "prevCloseChange": -0.937,
+          "colour": "#414554"
+        },
+        {
+          "name": "ECOLAB INC",
+          "symbol": "ECL",
+          "sharesOutstanding": 299,
+          "size": 34464622500,
+          "last": 115.17,
+          "prevClose": 114.47,
+          "prevCloseChange": 0.612,
+          "colour": "#414554"
+        },
+        {
+          "name": "NEWMONT MINING CORP",
+          "symbol": "NEM",
+          "sharesOutstanding": 499,
+          "size": 11129506300,
+          "last": 22.3,
+          "prevClose": 22.3,
+          "prevCloseChange": 0,
+          "colour": "#414554"
+        },
+        {
+          "name": "MONSANTO CO",
+          "symbol": "MON",
+          "sharesOutstanding": 483,
+          "size": 56984252260,
+          "last": 117.91,
+          "prevClose": 116.87,
+          "prevCloseChange": 0.89,
+          "colour": "#414554"
+        },
+        {
+          "name": "THE MOSAIC CO",
+          "symbol": "MOS",
+          "sharesOutstanding": 348,
+          "size": 16352529200,
+          "last": 46.9,
+          "prevClose": 46.83,
+          "prevCloseChange": 0.149,
+          "colour": "#414554"
+        },
+        {
+          "name": "VULCAN MATERIALS COHOLDING CO",
+          "symbol": "VMC",
+          "sharesOutstanding": 132,
+          "size": 11243456550,
+          "last": 85.11,
+          "prevClose": 84.61,
+          "prevCloseChange": 0.591,
+          "colour": "#414554"
+        },
+        {
+          "name": "EASTMAN CHEMICAL CO",
+          "symbol": "EMN",
+          "sharesOutstanding": 148,
+          "size": 10292318280,
+          "last": 69.24,
+          "prevClose": 69.64,
+          "prevCloseChange": -0.574,
+          "colour": "#414554"
+        },
+        {
+          "name": "SEALED AIR CORP",
+          "symbol": "SEE",
+          "sharesOutstanding": 210,
+          "size": 9713179220,
+          "last": 46.22,
+          "prevClose": 45.7,
+          "prevCloseChange": 1.138,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PRAXAIR INC",
+          "symbol": "PX",
+          "sharesOutstanding": 288,
+          "size": 35879145360,
+          "last": 124.24,
+          "prevClose": 123.8,
+          "prevCloseChange": 0.355,
+          "colour": "#414554"
+        },
+        {
+          "name": "MEADWESTVACO CORP",
+          "symbol": "MWV",
+          "sharesOutstanding": 167,
+          "size": 8542839820.000001,
+          "last": 51.02,
+          "prevClose": 50.92,
+          "prevCloseChange": 0.196,
+          "colour": "#414554"
+        },
+        {
+          "name": "BALL CORP",
+          "symbol": "BLL",
+          "sharesOutstanding": 137,
+          "size": 9670320630,
+          "last": 70.41,
+          "prevClose": 69.17,
+          "prevCloseChange": 1.793,
+          "colour": "#35764E"
+        },
+        {
+          "name": "PPG INDUSTRIES INC",
+          "symbol": "PPG",
+          "sharesOutstanding": 136,
+          "size": 31382221760,
+          "last": 230.08,
+          "prevClose": 227.91,
+          "prevCloseChange": 0.952,
+          "colour": "#414554"
+        },
+        {
+          "name": "F M C CORP",
+          "symbol": "FMC",
+          "sharesOutstanding": 133,
+          "size": 8011078620,
+          "last": 60.09,
+          "prevClose": 60.25,
+          "prevCloseChange": -0.266,
+          "colour": "#414554"
+        },
+        {
+          "name": "BEMIS INC",
+          "symbol": "BMS",
+          "sharesOutstanding": 97,
+          "size": 4577931050,
+          "last": 46.97,
+          "prevClose": 46.73,
+          "prevCloseChange": 0.514,
+          "colour": "#414554"
+        },
+        {
+          "name": "SIGMA ALDRICH CP",
+          "symbol": "SIAL",
+          "sharesOutstanding": 119,
+          "size": 16518086680,
+          "last": 138.31,
+          "prevClose": 137.895,
+          "prevCloseChange": 0.301,
+          "colour": "#414554"
+        },
+        {
+          "name": "DOW CHEMICAL COMPANY",
+          "symbol": "DOW",
+          "sharesOutstanding": 1,
+          "size": 54446395850,
+          "last": 47.03,
+          "prevClose": 47.05,
+          "prevCloseChange": -0.043,
+          "colour": "#414554"
+        },
+        {
+          "name": "AIR PRODS & CHEMS INC",
+          "symbol": "APD",
+          "sharesOutstanding": 214,
+          "size": 32704640620,
+          "last": 152.63,
+          "prevClose": 152,
+          "prevCloseChange": 0.414,
+          "colour": "#414554"
+        },
+        {
+          "name": "NUCOR CORP",
+          "symbol": "NUE",
+          "sharesOutstanding": 319,
+          "size": 15090923100,
+          "last": 47.3,
+          "prevClose": 46.79,
+          "prevCloseChange": 1.09,
+          "colour": "#35764E"
+        }
+      ]
+    },
+    {
+      "name": "Telecommunications Services",
+      "children": [
+        {
+          "name": "AT&T INC",
+          "symbol": "T",
+          "sharesOutstanding": 5,
+          "size": 171509593680,
+          "last": 33.06,
+          "prevClose": 32.76,
+          "prevCloseChange": 0.916,
+          "colour": "#414554"
+        },
+        {
+          "name": "CROWN CASTLE INTL CORP",
+          "symbol": "CCI",
+          "sharesOutstanding": 333,
+          "size": 28645788600,
+          "last": 85.8,
+          "prevClose": 84.91,
+          "prevCloseChange": 1.048,
+          "colour": "#35764E"
+        },
+        {
+          "name": "WINDSTREAM HOLDINGS INC",
+          "symbol": "WIN",
+          "sharesOutstanding": 602,
+          "size": 4571024400,
+          "last": 7.585,
+          "prevClose": 7.54,
+          "prevCloseChange": 0.597,
+          "colour": "#414554"
+        },
+        {
+          "name": "FRONTIER COMMUNICATIONS CORP",
+          "symbol": "FTR",
+          "sharesOutstanding": 1,
+          "size": 7378171840,
+          "last": 7.36,
+          "prevClose": 7.28,
+          "prevCloseChange": 1.099,
+          "colour": "#35764E"
+        },
+        {
+          "name": "VERIZON COMMUNICATIONS INC",
+          "symbol": "VZ",
+          "sharesOutstanding": 4,
+          "size": 204736952160,
+          "last": 49.27,
+          "prevClose": 48.84,
+          "prevCloseChange": 0.88,
+          "colour": "#414554"
+        },
+        {
+          "name": "CENTURYLINK INC",
+          "symbol": "CTL",
+          "sharesOutstanding": 566,
+          "size": 19543663500,
+          "last": 34.5,
+          "prevClose": 34.42,
+          "prevCloseChange": 0.232,
+          "colour": "#414554"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Discretionary ",
+      "children": [
+        {
+          "name": "TRACTOR SUPPLY CO",
+          "symbol": "TSCO",
+          "sharesOutstanding": 136,
+          "size": 12028654080,
+          "last": 88.32,
+          "prevClose": 86.26,
+          "prevCloseChange": 2.388,
+          "colour": "#2F9E4F"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Staples ",
+      "children": [
+        {
+          "name": "KEURIG GREEN MOUNTAIN INC",
+          "symbol": "GMCR",
+          "sharesOutstanding": 161,
+          "size": 20283745500,
+          "last": 125.46,
+          "prevClose": 124.69,
+          "prevCloseChange": 0.618,
+          "colour": "#414554"
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "children": [
+        {
+          "name": "NIELSEN NV",
+          "symbol": "NLSN",
+          "sharesOutstanding": 358,
+          "size": 15502581800,
+          "last": 43.22,
+          "prevClose": 42.59,
+          "prevCloseChange": 1.479,
+          "colour": "#35764E"
+        }
+      ]
+    }
+  ]
+}

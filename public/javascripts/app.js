@@ -2,20 +2,43 @@ var io = io();
 $(document).ready(function() {
 
   io.on('trade', function(data) {
-    console.log(data);
+    console.log(data)
     var tickerRect = d3.select("#" + data.trade.symbol);
     var tickerCurrentPrice = parseFloat(tickerRect.attr('data-price'));
     var tickertLastPrice = parseFloat(data.trade.last);
-
-    if (tickerCurrentPrice > tickertLastPrice) {
-      tickerRect.transition().duration(1000).style("fill", "red")
-    } else if (tickerCurrentPrice < tickertLastPrice) {
-      tickerRect.transition().duration(1000).style("fill", "green")
-    } else {
-      tickerRect.transition().duration(1000).style("fill", "gray")
-    }
+    var change = (tickertLastPrice - tickerCurrentPrice) * 100.00 / tickertLastPrice
+    var color = getColor(change)
+    tickerRect.transition().duration(1000).style("fill", color)
     tickerRect.attr('data-price', tickertLastPrice)
-  })
+  });
+
+
+  function getColor(change) {
+    if (change <= -3.0) {
+      return "#F63538"
+    }
+    else if (change <= -2.0) {
+      return "#BF4045"
+    }
+    else if (change <= -1.0) {
+      return "#8B444E"
+    }  
+    else if (change >= 3.0) {
+      return "#30CC5A"
+    }
+    else if (change >= 2.0) {
+      return "#2F9E4F"
+    }
+    else if (change >= 1.0) {
+      return "#35764E"
+    }
+    else {
+      return "#414554"
+    }
+  }
+
+
+
 
   var w = 1280 - 80,
       h = 800 - 180,
@@ -24,10 +47,6 @@ $(document).ready(function() {
       color = d3.scale.category20c(),
       root,
       node;
-
-      // var color = d3.scale.linear()
-      // .domain([-1, 0, 1])
-      // .range(["red", "gray", "green"]);
 
   var treemap = d3.layout.treemap()
       .round(false)
@@ -45,7 +64,7 @@ $(document).ready(function() {
     .append("svg:g")
       .attr("transform", "translate(.5,.5)");
 
-  d3.json("/newtest.json", function(data) {
+  d3.json("/new-snp-data.json", function(data) {
     node = root = data;
     var nodes = treemap.nodes(root)
         .filter(function(d) { return !d.children; });
@@ -63,7 +82,6 @@ $(document).ready(function() {
         .attr("id", function(d) { return d.symbol; })
         .attr("data-price", function(d) { return d.last; })
         .style("fill", function(d) { return d.colour; });
-    // x.transition().duration(1000).style("fill", "red");
 
     cell.append("svg:text")
         .attr("x", function(d) { return d.dx / 2; })

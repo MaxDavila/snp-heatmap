@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 var oauth = require('oauth');
-var SocketHelper = require('../lib/socket_helper');
+var SocketHelper = require('../lib/socket-helper');
 
 router.get('/', function(req, res) {
   var io = req.app.get('io');
@@ -26,7 +26,13 @@ router.get('/parse', function(req, res) {
       res.send({ results: results });
     }
   });
-})
+});
+
+router.post('/simulate', function(req, res) {
+  var io = req.app.get('io');
+  io.sockets.emit('trade', { trade: req.body.trade })
+  res.end();
+});
 
 router.get('/health_check', function(req, res) {
   var io = req.app.get('io');
