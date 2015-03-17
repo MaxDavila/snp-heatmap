@@ -1,7 +1,7 @@
-var snpCompanies = require('../data/snp500.json');
-var Snp500 = require('./snp500');
+var snpCompanies = require('./data/snp500.json');
+var Snp500 = require('./lib/snp500');
 var fs = require('fs');
-var tradeking = require('./tradeking')().authenticate();
+var tradeking = require('./lib/tradeking')().authenticate();
 
 var snpUtil = {
   performSnpUpdate: function() {
