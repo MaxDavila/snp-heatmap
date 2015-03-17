@@ -15,7 +15,7 @@ var io = require('socket.io')(server);
 
 var tradeking = require('./lib/tradeking')().authenticate();
 
-var cronJob = require('./lib/cronJob');
+var cronJob = require('./lib/cronjob');
 cronJob.initialize();
 
 app.set('io', io);
