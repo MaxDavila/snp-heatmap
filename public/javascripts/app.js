@@ -22,6 +22,9 @@ $(document).ready(function() {
     }
     else if (change <= -1.0) {
       return "#8B444E"
+    }
+    else if (change <= 0.0) {
+      return "#7D3D46"
     }  
     else if (change >= 3.0) {
       return "#30CC5A"
@@ -33,7 +36,7 @@ $(document).ready(function() {
       return "#35764E"
     }
     else {
-      return "#414554"
+      return "#2F6A46"
     }
   }
 
