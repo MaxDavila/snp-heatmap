@@ -7,7 +7,6 @@ var SocketHelper = require('../lib/socket-helper');
 router.get('/', function(req, res) {
   var io = req.app.get('io');
   var tradeking = req.app.get('tradeking');
-
   // if market is open
   tradeking.stream(io);
 
