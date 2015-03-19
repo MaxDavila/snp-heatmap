@@ -1,3 +1,8 @@
 $(document).ready(function() {
-  TradeHandler().start();
+  TradeHandler().start(function() {
+    $('[data-toggle="popover"]').popover({
+      container: ".chart",
+      placement: "auto right"
+    });
+  });
 });

@@ -6,8 +6,8 @@ function TradeHandler() {
   self.heatMap = HeatMap();
 }
 
-TradeHandler.prototype.start = function() {
+TradeHandler.prototype.start = function(cb) {
   var self = this;
-  self.heatMap.render()
+  self.heatMap.render(cb)
   self.socket.on('trade', self.heatMap.updateCell.bind(self.heatMap));
 }

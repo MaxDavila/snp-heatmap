@@ -27,23 +27,27 @@ function HeatMap() {
       .attr("transform", "translate(.5,.5)");
 }
 
-HeatMap.prototype.render = function() {
+HeatMap.prototype.render = function(cb) {
   var self = this;
 
   d3.json(self.dataUrl, function(data) {
     self.node = self.root = data;
     var nodes = self.treemap.nodes(self.root).filter(function(d) { return !d.children; });
     
-    self.renderCells(nodes);
+    self.renderCells(nodes, cb);
   });
 }
 
-HeatMap.prototype.renderCells = function(nodes) {
+HeatMap.prototype.renderCells = function(nodes, done) {
   var self = this;
   var cell = self.svg.selectAll("g").data(nodes)
     .enter().append("svg:g")
       .attr("class", "cell")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .attr("data-toggle", "popover")
+      .attr("data-trigger", "hover")
+      .attr("data-content", function(d) { return d.last; })
+      .attr("data-original-title", function(d) { return d.symbol })
 
   // append rect
   cell.append("svg:rect")
@@ -64,6 +68,7 @@ HeatMap.prototype.renderCells = function(nodes) {
       d.w = this.getComputedTextLength();
       return ((d.dx - 1) > d.w && (d.dy -1) > d.w)  ? 1 : 0;
     });
+  done()
 }
 
 HeatMap.prototype.updateCell = function(data) {
