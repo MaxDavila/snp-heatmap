@@ -1,13 +1,29 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px "Proxima Nova", Helvetica, Arial, sans-serif;
+  background-color: #262931;
 }
 
 a {
   color: #00B7FF;
 }
+
 h1 {
   text-align: center;
   font: 1.5em;
+  color: #f9f9f9;
+}
+
+#alert {
+  background-color: #34495e;
+  height: 3em;
+  margin-left: 2em;
+  padding: 5px;
+  padding-left: 20px;
+  line-height: 3em;
+  width: 1180px;
+  color: #f9f9f9;
+  font-size: 15px;
+  border-radius: 3px;
 }
 
 .chart {
@@ -25,11 +41,12 @@ rect {
 }
 
 .popover {
+  font-size: 12px;
   background-color: #f9f9f9;
   width: 10em;
   padding: 1em;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 #footer {
