@@ -12,7 +12,7 @@ router.get('/', function(req, res) {
 
   // else render map with json from previous market close
 
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Realtime S&P Heatmap' });
 });
 
 router.get('/parse', function(req, res) {

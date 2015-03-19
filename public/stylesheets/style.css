@@ -5,6 +5,10 @@ body {
 a {
   color: #00B7FF;
 }
+h1 {
+  text-align: center;
+  font: 1.5em;
+}
 
 .chart {
   display: block;
@@ -19,10 +23,44 @@ text {
 rect {
   fill: none;
 }
+
 .popover {
   background-color: #f9f9f9;
   width: 10em;
   padding: 1em;
   text-align: center;
   border-radius: 5px;
+}
+
+#footer {
+  margin-top: 1em;
+  margin-left: 2.3em;
+  color: #f9f9f9;
+}
+#footer span {
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#footer > span:nth-child(1) {
+  background-color: #F63538;
+}
+#footer > span:nth-child(2) {
+  background-color: #BF4045;
+}
+#footer > span:nth-child(3) {
+  background-color: #8B444E;
+}
+#footer > span:nth-child(4) {
+  background-color: #414554;
+}
+#footer > span:nth-child(5) {
+  background-color: #35764E;
+}
+#footer > span:nth-child(6) {
+  background-color: #2F9E4F;
+}
+#footer > span:nth-child(7) {
+  background-color: #30CC5A;
 }
