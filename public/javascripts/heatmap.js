@@ -46,8 +46,8 @@ HeatMap.prototype.renderCells = function(nodes, done) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("data-toggle", "popover")
       .attr("data-trigger", "hover")
-      .attr("data-content", function(d) { return d.last; })
-      .attr("data-original-title", function(d) { return d.symbol })
+      .attr("data-content", function(d) { return d.last + " " + d.prevCloseChange; })
+      .attr("data-original-title", function(d) { return d.name + " (" + d.symbol + ")" })
 
   // append rect
   cell.append("svg:rect")
